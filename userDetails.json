@@ -1,0 +1,915 @@
+{
+   "type" : "userWsDTO",
+   "name" : "Saurabh Gupta",
+   "uid" : "+918892142476",
+   "acceptedTNC" : true,
+   "currency" : {
+      "active" : true,
+      "isocode" : "INR",
+      "name" : "Indian Rupee",
+      "symbol" : "INR"
+   },
+   "customerId" : "+918892142476",
+   "displayUid" : "+918892142476",
+   "emailId" : "test.fnl3@servicesnext.com",
+   "favouriteSettings" : {
+      "favouriteCategories" : [ {
+         "categoryType" : "NAV",
+         "code" : "n1010",
+         "name" : "Casual Wear",
+         "url" : "/ROOT/ROOTB2BNAV/Men/Casual-Wear/c/n1010"
+      }, {
+         "categoryType" : "NAV",
+         "code" : "n1011",
+         "name" : "Ethnic Wear",
+         "url" : "/ROOT/ROOTB2BNAV/Men/Ethnic-Wear/c/n1011"
+      }, {
+         "categoryType" : "NAV",
+         "code" : "n1013",
+         "name" : "Footwear",
+         "url" : "/ROOT/ROOTB2BNAV/Men/Footwear/c/n1013"
+      }, {
+         "categoryType" : "NAV",
+         "code" : "n1012",
+         "name" : "Formal Wear",
+         "url" : "/ROOT/ROOTB2BNAV/Men/Formal-Wear/c/n1012"
+      }, {
+         "categoryType" : "NAV",
+         "code" : "n1014",
+         "name" : "Ready To Stitch",
+         "url" : "/ROOT/ROOTB2BNAV/Men/Ready-To-Stitch/c/n1014"
+      }, {
+         "categoryType" : "NAV",
+         "code" : "n1016",
+         "name" : "Sports & Gymwear",
+         "url" : "/ROOT/ROOTB2BNAV/Men/Sports-%26-Gymwear/c/n1016"
+      }, {
+         "categoryType" : "NAV",
+         "code" : "n1017",
+         "name" : "Accessories",
+         "url" : "/ROOT/ROOTB2BNAV/Men/Accessories/c/n1017"
+      }, {
+         "categoryType" : "NAV",
+         "code" : "n1018",
+         "name" : "Jewellery",
+         "url" : "/ROOT/ROOTB2BNAV/Men/Jewellery/c/n1018"
+      }, {
+         "categoryType" : "NAV",
+         "code" : "n1019",
+         "name" : "Rainwear",
+         "url" : "/ROOT/ROOTB2BNAV/Men/Rainwear/c/n1019"
+      } ]
+   },
+   "firstName" : "Saurabh",
+   "lastName" : "Gupta",
+   "recentlyViewedProducts" : {
+      "rrlmpRecentlyViewedProducts" : {
+         "entries" : [ {
+            "isOutOfStock" : false,
+            "product" : {
+               "brand" : "BREAKPOINT",
+               "code" : "5d1d273d-fedf-4d35-9717-68a2dc259b1b",
+               "colors" : [ {
+                  "hexColorCode" : "#000000",
+                  "name" : "Black"
+               } ],
+               "description" : "Men's Kurta Pyjamas",
+               "images" : [ {
+                  "altText" : "kurta.jpg",
+                  "format" : "433Wx543H",
+                  "url" : "/rrlmpcommercewebservices/v2/medias/a93d3e0a-2b4e-44c8-baf4-042568e4f35f-1540970201857-433Wx543H?context=bWFzdGVyfHJvb3R8NjMxNjB8aW1hZ2UvanBlZ3xoMjkvaDIxLzg4MjczNzYwMDkyNDYuanBnfDU4ZDgzOWFiNGJhYmVkNGJlZDQ3ZTNjZmNjNzU1ZjEyMDRkYTY4NjE3NDVkYzY4NWM0MWZiMzE3M2Y5MWRmOWU"
+               } ],
+               "name" : "Breakpoint Men's Cotton Solid Kurta Pyjama Set",
+               "price" : {
+                  "currencyIso" : "INR",
+                  "value" : 200.0
+               }
+            },
+            "recentlyViewedDate" : "2018-12-11T09:57:35+0000"
+         }, {
+            "isOutOfStock" : false,
+            "product" : {
+               "brand" : "BREAKPOINT",
+               "code" : "bce8a8b3-25bd-4c6c-9560-20fe82f5b5ad",
+               "colors" : [ {
+                  "hexColorCode" : "#000000",
+                  "name" : "Black"
+               } ],
+               "description" : "Men's Kurta",
+               "images" : [ {
+                  "altText" : "kurta1.jpg",
+                  "format" : "433Wx543H",
+                  "url" : "/rrlmpcommercewebservices/v2/medias/942764f4-2426-409e-b7c9-8bdc46e88134-1540969712351-433Wx543H?context=bWFzdGVyfHJvb3R8NDA3Nzh8aW1hZ2UvanBlZ3xoZGYvaDQ5Lzg4MjczODA2NjIzMDIuanBnfGFmZTZmMWQwM2VkMGM4ZTdjN2RkODdmYTZjNGMzMzgwZTMxNjM5YjI4YWMwMDAwY2JkZmRjNjNlOWQzNzRlNzU"
+               } ],
+               "name" : "Breakpoint Men's Cotton Solid Long Kurta",
+               "price" : {
+                  "currencyIso" : "INR",
+                  "value" : 200.0
+               }
+            },
+            "recentlyViewedDate" : "2018-12-11T09:57:34+0000"
+         }, {
+            "isOutOfStock" : false,
+            "product" : {
+               "brand" : "LEE COPPER",
+               "code" : "10c25b7b-68fe-4b73-9ee3-c241b8a667c5",
+               "colors" : [ {
+                  "hexColorCode" : "#ADF0DF",
+                  "name" : "Aqua"
+               } ],
+               "description" : "Lee Copper Men's Eva Boat Shoes",
+               "images" : [ {
+                  "altText" : "casualShoe2_Bulk_Upload_Image_16405697176550411994332812866603112.jpg",
+                  "format" : "433Wx543H",
+                  "url" : "/rrlmpcommercewebservices/v2/medias/f37037d7-dfa4-4c01-86fd-a698743abc4b-1531725996403-433Wx543H?context=bWFzdGVyfHJvb3R8ODA5MDl8aW1hZ2UvanBlZ3xoNTAvaDM0Lzg4MDMxNjk3MzA1OTAuanBnfDgxZDA5ZDk1MzhiY2Q4ODZmMzljMGRmZGVmZWU5NTNjMGRlZWJkNDMxY2E0NWRlNzg2ZTA5OGQ4ZWNmYTQ3OWQ"
+               } ],
+               "name" : "Lee Copper Men's Eva Boat Shoes",
+               "price" : {
+                  "currencyIso" : "INR",
+                  "value" : 1000.0
+               }
+            },
+            "recentlyViewedDate" : "2018-12-11T09:57:19+0000"
+         }, {
+            "isOutOfStock" : false,
+            "product" : {
+               "brand" : "BREAKPOINT",
+               "code" : "ffee076b-0827-4f36-ac25-c7de9be438bf",
+               "colors" : [ {
+                  "hexColorCode" : "#0000FF",
+                  "name" : "Blue"
+               }, {
+                  "hexColorCode" : "#000000",
+                  "name" : "Black"
+               } ],
+               "description" : "Men's Kurta",
+               "images" : [ {
+                  "altText" : "kurta1.jpg",
+                  "format" : "433Wx543H",
+                  "url" : "/rrlmpcommercewebservices/v2/medias/05239224-4250-464e-ac4a-3ed6d7c3a066-1540969710791-433Wx543H?context=bWFzdGVyfHJvb3R8NDA3Nzh8aW1hZ2UvanBlZ3xoOGQvaDIxLzg4MjczNzg2OTYyMjIuanBnfDU4MzNhYjFhMWVhNWU1YzQ1MTk4MmI3OWY1MTllNDRlOTI5MWIxYjJjNzZhZWIzNjRlNzIzMmQzMmNjZmNiN2U"
+               } ],
+               "name" : "Breakpoint Men's Cotton Solid Long Kurta",
+               "price" : {
+                  "currencyIso" : "INR",
+                  "value" : 200.0
+               }
+            },
+            "recentlyViewedDate" : "2018-12-11T09:57:18+0000"
+         }, {
+            "isOutOfStock" : true,
+            "product" : {
+               "brand" : "LEE COPPER",
+               "code" : "9381f93d-b934-4638-9f22-4a1354d99148",
+               "colors" : [ {
+                  "hexColorCode" : "#ADF0DF",
+                  "name" : "Aqua"
+               } ],
+               "description" : "Lee Copper Men's Canvas Boots",
+               "images" : [ {
+                  "altText" : "casualShoe1_Bulk_Upload_Image_1654191798266421347392167203772361.jpg",
+                  "format" : "433Wx543H",
+                  "url" : "/rrlmpcommercewebservices/v2/medias/5146f54b-a6fb-4f05-9fab-78efc1975424-1531739618486-433Wx543H?context=bWFzdGVyfHJvb3R8NTIyODV8aW1hZ2UvanBlZ3xoYWUvaGIyLzg4MDMyMDk3NzMwODYuanBnfGI1MzA3NTliNmY3OTRjZWQ2MzdiMGJjM2UwN2U3MGNhYTNiZWEzNGVlNjk2OTE2OGUwMDY3ZWZhZGYxNWQ4ODY"
+               } ],
+               "name" : "Lee Copper Men's Canvas Boots",
+               "price" : {
+                  "currencyIso" : "INR",
+                  "value" : 1000.0
+               }
+            },
+            "recentlyViewedDate" : "2018-12-11T04:45:00+0000"
+         }, {
+            "isOutOfStock" : false,
+            "product" : {
+               "brand" : "LEE COPPER",
+               "code" : "fa33a7f5-c48f-4cdc-819e-3834f88705ff",
+               "colors" : [ {
+                  "hexColorCode" : "#ADF0DF",
+                  "name" : "Aqua"
+               } ],
+               "description" : "Lee Copper Men's Canvas Boots",
+               "images" : [ {
+                  "altText" : "casualShoe1_Bulk_Upload_Image_16401109404812692444284972484276861.jpg",
+                  "format" : "433Wx543H",
+                  "url" : "/rrlmpcommercewebservices/v2/medias/a2c2f06d-70a7-4902-a219-c800248b1f05-1531725537626-433Wx543H?context=bWFzdGVyfHJvb3R8NTIyODV8aW1hZ2UvanBlZ3xoNjMvaGJmLzg4MDcwNzU2NzYxOTAuanBnfGNhNjBjNjQ1NDAxMTM1N2I0ZTI1OWM5NDFjZGI5Mzg5ZjE0NGY3NThlMWMwMThlODBkYjA3MDA2MDVkNDI5MDU"
+               } ],
+               "name" : "Lee Copper Men's Canvas Boots",
+               "price" : {
+                  "currencyIso" : "INR",
+                  "value" : 1000.0
+               }
+            },
+            "recentlyViewedDate" : "2018-12-10T12:36:45+0000"
+         }, {
+            "isOutOfStock" : true,
+            "product" : {
+               "brand" : "LEE COPPER",
+               "code" : "0b74b88c-bea2-450a-aea7-bf143b671505",
+               "colors" : [ {
+                  "hexColorCode" : "#ADF0DF",
+                  "name" : "Aqua"
+               } ],
+               "description" : "Lee Copper Men's Cotton Solid Regular Fit Casual Shirt",
+               "images" : [ {
+                  "altText" : "HD Image_Bulk_Upload_Image_10513646268826706051715079129423521.jpg",
+                  "format" : "433Wx543H",
+                  "url" : "/rrlmpcommercewebservices/v2/medias/27cfc399-855e-4df3-b030-b65eab36157c-1531136791314-433Wx543H?context=bWFzdGVyfHJvb3R8MTMwNDMxfGltYWdlL2pwZWd8aGJhL2hiMS84ODA3MDcyMzMzODU0LmpwZ3w3MWY5MWE1YmNjYmViMjc2YTg3YzZkNTU1MGFhOWI4NmFmYmEzN2RhODYzZWI4NDA4YjQ2NzYwNzVmNGVhNjY2"
+               } ],
+               "name" : "Lee Copper Men's Cotton Solid Regular Fit Casual Shirt",
+               "price" : {
+                  "currencyIso" : "INR",
+                  "value" : 100.0
+               }
+            },
+            "recentlyViewedDate" : "2018-12-10T10:58:26+0000"
+         }, {
+            "isOutOfStock" : false,
+            "product" : {
+               "brand" : "LEE COPPER",
+               "code" : "d96f8285-9de2-4ed7-bd26-a1b90bf607bc",
+               "colors" : [ {
+                  "hexColorCode" : "#070836",
+                  "name" : "Navy"
+               }, {
+                  "name" : "Grey Melange",
+                  "url" : {
+                     "url" : "/rrlmpcommercewebservices/v2/medias/?context=bWFzdGVyfHJvb3R8NjQwNHxpbWFnZS9wbmd8aDYwL2g5NC84ODExMDk3OTgwOTU4LnBuZ3wzZjY3Y2VmMjQ1YjNiZDRiY2IzN2VjNzhmN2ViYjk1Nzk3ZTM5ZjExMDk0MTc4YjRkYTFmNTZjOTlkZWE3MGYx"
+                  }
+               }, {
+                  "hexColorCode" : "#F5F5DC",
+                  "name" : "Beige"
+               }, {
+                  "name" : "Dk. Multi",
+                  "url" : {
+                     "url" : "/rrlmpcommercewebservices/v2/medias/?context=bWFzdGVyfHJvb3R8NTk1MnxpbWFnZS9wbmd8aGEyL2hjOS84ODExMDk4MDQ2NDk0LnBuZ3xkYjY3NmRiOGY0NjhiYzdmZDRlMDRlZGNjODUxMDVjMDBjNmNlZmU1ODRlYzRmMGQ4ZWFkZDJkZGVhMTIwNjlk"
+                  }
+               }, {
+                  "hexColorCode" : "#006400",
+                  "name" : "Dk. Green"
+               }, {
+                  "name" : "Lt. Multi",
+                  "url" : {
+                     "url" : "/rrlmpcommercewebservices/v2/medias/?context=bWFzdGVyfHJvb3R8NTM2NXxpbWFnZS9wbmd8aDhhL2gyYi84ODExMDk4MDc5MjYyLnBuZ3w3ZGQyZTQ1NjMyODc3NWU5MTg2YjJjMGZkOWFhMzNmYjJiMGZmODc5OTQ3YmIyNjAzZGUyZjYwMTk0YjM2MWI1"
+                  }
+               }, {
+                  "hexColorCode" : "#D69E15",
+                  "name" : "Mustard"
+               }, {
+                  "hexColorCode" : "#E0FFFF",
+                  "name" : "Lt. Aqua"
+               } ],
+               "description" : "Solid Round neck T-shirt",
+               "images" : [ {
+                  "altText" : "MR1_Bulk_Upload_Image_23459627940530755624519887196200970.jpg",
+                  "format" : "433Wx543H",
+                  "url" : "/rrlmpcommercewebservices/v2/medias/a9dc82b4-a078-449b-af51-12e49a2e959a-1532431397455-433Wx543H?context=bWFzdGVyfHJvb3R8MTQ3NDc4fGltYWdlL2pwZWd8aDExL2hiMy84ODEzNjc3MDUxOTM0LmpwZ3xjY2RkZDVkOWIxOGU3M2JiNDBkZmI0ODY2MWQ2OWEwOWMwOTQzMTkyYTM5NWFjMzRiMmVmNjlhNDEzNjU5ZDI1"
+               } ],
+               "name" : "Lee Copper Men's Cotton Solid Round Neck T- Shirt",
+               "price" : {
+                  "currencyIso" : "INR",
+                  "value" : 350.0
+               }
+            },
+            "recentlyViewedDate" : "2018-12-10T09:26:44+0000"
+         }, {
+            "isOutOfStock" : false,
+            "product" : {
+               "brand" : "LEE COPPER",
+               "code" : "d7197f8e-12af-4db5-9512-6aaa075f9f07",
+               "colors" : [ {
+                  "hexColorCode" : "#0000CD",
+                  "name" : "Medium Blue"
+               } ],
+               "description" : "Pack of colorful leggings",
+               "images" : [ {
+                  "altText" : "RSV1.jpg",
+                  "format" : "433Wx543H",
+                  "url" : "/rrlmpcommercewebservices/v2/medias/da10daae-a1ad-4f60-add5-215fcfd134f8-1538391148967-433Wx543H?context=bWFzdGVyfHJvb3R8MTIyMDYyfGltYWdlL2pwZWd8aDkwL2gyNS84ODIwNDY3MjM2ODk0LmpwZ3wwMDA4NWFkNThkZDQwMjY3YmI0OGJlMTE0ZTAxYzVjZWVkMmFjNDkxNDU3Y2RhZjEwMTdlMTE5Y2Q3MTg3N2I3"
+               }, {
+                  "altText" : "RSV2.jpg",
+                  "format" : "433Wx543H",
+                  "url" : "/rrlmpcommercewebservices/v2/medias/fd70c6b0-0615-4c08-a1c1-3ff6dc0ada93-1538391148980-433Wx543H?context=bWFzdGVyfHJvb3R8MTQwMTY2fGltYWdlL2pwZWd8aDNlL2g3Ny84ODIwNDY1NTk4NDk0LmpwZ3wxZjFkOWRmNDVlYTZmMWI4NTRmNWU2ZDU3YWU0NWVjYjlhMDhjZDYxZWY5NjEzYjk4ZWJmNjMyNzA0ZWVjMTNm"
+               }, {
+                  "altText" : "RSV3.jpg",
+                  "format" : "433Wx543H",
+                  "url" : "/rrlmpcommercewebservices/v2/medias/ac75ffbb-80a8-4965-8151-65a88a48302f-1538391148995-433Wx543H?context=bWFzdGVyfHJvb3R8MTQ5NDc2fGltYWdlL2pwZWd8aGYxL2hlNS84ODIwNDY1OTI2MTc0LmpwZ3xhNzA5ODBlNDI4N2MzNjljYTg2NWVhZjA4MzFlNzVkYmNiZGJiMjc4YTI5M2YwMGM3NmJkYTNjOGRlZDk5YWRj"
+               } ],
+               "name" : "Lee Copper Women's Cotton Printed Leggings",
+               "price" : {
+                  "currencyIso" : "INR",
+                  "value" : 749.0
+               }
+            },
+            "recentlyViewedDate" : "2018-12-06T10:06:34+0000"
+         }, {
+            "isOutOfStock" : false,
+            "product" : {
+               "brand" : "LEE COPPER",
+               "code" : "46a9bf5b-900c-4853-8357-e82f8ddad2b5",
+               "colors" : [ {
+                  "hexColorCode" : "#FF0000",
+                  "name" : "Red"
+               }, {
+                  "hexColorCode" : "#ADF0DF",
+                  "name" : "Aqua"
+               }, {
+                  "hexColorCode" : "#FFFFFF",
+                  "name" : "White"
+               }, {
+                  "hexColorCode" : "#0000FF",
+                  "name" : "Blue"
+               }, {
+                  "hexColorCode" : "#000000",
+                  "name" : "Black"
+               } ],
+               "description" : "Sports Cotton Tshirt",
+               "images" : [ {
+                  "altText" : "Style1.jpg",
+                  "format" : "433Wx543H",
+                  "url" : "/rrlmpcommercewebservices/v2/medias/4075434d-b3e0-49e6-a4fa-9ca28a21770f-1539846276073-433Wx543H?context=bWFzdGVyfHJvb3R8MjAzNzV8aW1hZ2UvanBlZ3xoYTgvaGU5Lzg4MjQyNDQ2NjYzOTguanBnfDZlYTZiYjEyYjIyOTU4NTYzOTdlZjhkMzRjODAyMjI3ZGM4NDYzMDExOGJiZjQyNmEzYzVkOTJhYjZmZTFmM2Y"
+               } ],
+               "name" : "Lee Copper Men's Cotton Solid Polo T-shirt",
+               "price" : {
+                  "currencyIso" : "INR",
+                  "value" : 500.0
+               }
+            },
+            "recentlyViewedDate" : "2018-12-05T13:29:10+0000"
+         }, {
+            "isOutOfStock" : true,
+            "product" : {
+               "brand" : "BREAKPOINT",
+               "code" : "b309d0c4-ad71-4d97-8f89-9505702cec5f",
+               "colors" : [ {
+                  "hexColorCode" : "#0000CD",
+                  "name" : "Medium Blue"
+               } ],
+               "description" : "Cheap  Infant Baby Boy Clothes organic baby jeans Infant Baby Winter Daily Wear",
+               "images" : [ {
+                  "altText" : "BSV1.jpg",
+                  "format" : "433Wx543H",
+                  "url" : "/rrlmpcommercewebservices/v2/medias/66ac5f58-6005-4809-905c-20adb36ce88e-1537954762108-433Wx543H?context=bWFzdGVyfHJvb3R8MTA0OTYzfGltYWdlL2pwZWd8aGVjL2gyMi84ODE5MzUxMDYwNTEwLmpwZ3wzNWY0MzY5YjIzMjEwOGQ1MWE4ZmZlNTM2MzNiOWExY2ViZTA0NGMzMDExNTI1MTAyMDhhYjA4N2NiYWFhZDAz"
+               }, {
+                  "altText" : "BSV2.jpg",
+                  "format" : "433Wx543H",
+                  "url" : "/rrlmpcommercewebservices/v2/medias/10a5843e-bca1-45ee-9082-9b42dfc19bb2-1537954762119-433Wx543H?context=bWFzdGVyfHJvb3R8OTk2MTJ8aW1hZ2UvanBlZ3xoZTQvaDUxLzg4MTkzNTA4MzExMzQuanBnfDBjOWVkYjk4Zjk3MDQ5MzIzMWRlNjhjNGMyYzFlMTNhZGNkODc3M2RmODM4MDg0OWIxYWRjNWNmZTIwZGFmNWY"
+               }, {
+                  "altText" : "BSV3.jpg",
+                  "format" : "433Wx543H",
+                  "url" : "/rrlmpcommercewebservices/v2/medias/fa754dfb-c7e3-4d9a-a072-82d3d8e3ec71-1537954762129-433Wx543H?context=bWFzdGVyfHJvb3R8OTY0NjB8aW1hZ2UvanBlZ3xoNDAvaDY3Lzg4MTkzNTI1MDIzMDIuanBnfGE5ZTdmZjBkYjA0OTUxZDkzNjcxODkzYjQxMDViODA4YmM5NWYzZTdiZDI1N2RmOTlhZDk3YTQ0M2U3OWNkMjc"
+               } ],
+               "name" : "Breakpoint Men's Wool Solid Regular Fit Casual Shirt",
+               "price" : {
+                  "currencyIso" : "INR",
+                  "value" : 450.99
+               }
+            },
+            "recentlyViewedDate" : "2018-12-05T06:46:12+0000"
+         }, {
+            "isOutOfStock" : false,
+            "product" : {
+               "brand" : "LEE COPPER",
+               "code" : "e3abbb04-1337-4235-9d55-457ad2da913c",
+               "colors" : [ {
+                  "hexColorCode" : "#ADF0DF",
+                  "name" : "Aqua"
+               } ],
+               "description" : "Lee Copper Men's Cotton Solid Regular Fit Casual Shirt",
+               "images" : [ {
+                  "altText" : "HD Image_Bulk_Upload_Image_11163385177598497364283912003340803.jpg",
+                  "format" : "433Wx543H",
+                  "url" : "/rrlmpcommercewebservices/v2/medias/53d5f2bb-6db5-4f3b-b490-7969cf563b22-1531201766995-433Wx543H?context=bWFzdGVyfHJvb3R8NzkwODh8aW1hZ2UvcG5nfGgyOC9oMTIvODgwMTY4MzkzMTE2Ni5wbmd8MjAxNzJkNmRlYjQ3Mzc4YmRlMzIwZTliZDRjMjc3MDdlNmY4MjUwOWRkNTgxM2RkZDYzODA0YWMwYmZjODQ0Mg"
+               } ],
+               "name" : "Lee Copper Men's Cotton Solid Regular Fit Casual Shirt",
+               "price" : {
+                  "currencyIso" : "INR",
+                  "value" : 100.0
+               }
+            },
+            "recentlyViewedDate" : "2018-12-05T06:33:40+0000"
+         }, {
+            "isOutOfStock" : false,
+            "product" : {
+               "brand" : "LEE COPPER",
+               "code" : "72c08651-4621-4315-b78a-a4dd24bdde64",
+               "colors" : [ {
+                  "hexColorCode" : "#F5F5DC",
+                  "name" : "Brown"
+               }, {
+                  "name" : "Grey Melange",
+                  "url" : {
+                     "url" : "/rrlmpcommercewebservices/v2/medias/?context=bWFzdGVyfHJvb3R8NjQwNHxpbWFnZS9wbmd8aDYwL2g5NC84ODExMDk3OTgwOTU4LnBuZ3wzZjY3Y2VmMjQ1YjNiZDRiY2IzN2VjNzhmN2ViYjk1Nzk3ZTM5ZjExMDk0MTc4YjRkYTFmNTZjOTlkZWE3MGYx"
+                  }
+               }, {
+                  "hexColorCode" : "#000000",
+                  "name" : "Black"
+               }, {
+                  "hexColorCode" : "#7CFC00",
+                  "name" : "Green"
+               } ],
+               "description" : "100% Cotton Round-necked and Short-sleeved men T-shirt",
+               "images" : [ {
+                  "altText" : "aliblack.jpg",
+                  "format" : "433Wx543H",
+                  "url" : "/rrlmpcommercewebservices/v2/medias/6a90e268-ac15-4b08-9bc5-8dfe2fa37e0e-1533032019433-433Wx543H?context=bWFzdGVyfHJvb3R8MTE5NzM5fGltYWdlL2pwZWd8aDUxL2gzZC84ODE0NTY4MTc3Njk0LmpwZ3w4NTdmYzBlOTkyMDViNjgwNTgwMTI0YjZkYWJjNDAwODNlY2ZhNmRiMjZmYjU1YTRjOTk4YmEyZWMzZmVkYTUy"
+               } ],
+               "name" : "Lee Copper Men's Cotton Solid Round Neck T- Shirt",
+               "price" : {
+                  "currencyIso" : "INR",
+                  "value" : 100.0
+               }
+            },
+            "recentlyViewedDate" : "2018-12-05T06:09:09+0000"
+         }, {
+            "isOutOfStock" : false,
+            "product" : {
+               "brand" : "LEE COPPER",
+               "code" : "aa8acc7a-8365-4ffe-93f6-e51734884a89",
+               "colors" : [ {
+                  "hexColorCode" : "#ADF0DF",
+                  "name" : "Aqua"
+               } ],
+               "description" : "Lee Copper Men's Cotton Solid Regular Fit Casual Shirt",
+               "images" : [ {
+                  "altText" : "HD Image1_Bulk_Upload_Image_1215368887378277632001920026515506.jpg",
+                  "format" : "433Wx543H",
+                  "url" : "/rrlmpcommercewebservices/v2/medias/c517a70f-0345-49a8-a2a3-1ccaa222375a-1531300798347-433Wx543H?context=bWFzdGVyfHJvb3R8MTIwMjUyfGltYWdlL2pwZWd8aGIxL2g3Yi84ODAxOTk3MjU4NzgyLmpwZ3wyZGRmYWExMmZlMjlkNmIyYWI0ZDgzNDAyMWQyMzkyN2YwYTNiNjJhMjNmY2M0ZGVkNmJjNjNiZTc4MjI0NDI4"
+               }, {
+                  "altText" : "HD Image2_Bulk_Upload_Image_12153689022856438215327448742226491.jpg",
+                  "format" : "433Wx543H",
+                  "url" : "/rrlmpcommercewebservices/v2/medias/2710a2b5-da61-44c8-995c-d0552f75890c-1531300798380-433Wx543H?context=bWFzdGVyfHJvb3R8MTEyOTU2fGltYWdlL2pwZWd8aDNkL2g2ZS84ODAxOTk3NzgzMDcwLmpwZ3w2ZTIwYjY4YTkzYWVhMGRiYWRkNDE3ZGEwMGEyNmEwOTY5YTcyNzI0ZmYxZGZjOTljMTkyOTEwZmVkMjAxYzNj"
+               }, {
+                  "altText" : "HD Image3_Bulk_Upload_Image_12153689163809111166394429084833182.jpg",
+                  "format" : "433Wx543H",
+                  "url" : "/rrlmpcommercewebservices/v2/medias/fcfeb613-8888-4a74-b3ea-9409a523205c-1531300798413-433Wx543H?context=bWFzdGVyfHJvb3R8MTExMjgzfGltYWdlL2pwZWd8aDliL2hjZS84ODAxOTk3NzUwMzAyLmpwZ3w5OWE2NmI2ZTQyMTYyMjcyMDNhYWRmNmZjNTE1ODY2NTQyMmE4Njk4Y2VlOTgzMzliZDM4MmU1YzZhZmExM2Zm"
+               }, {
+                  "altText" : "HD Image4_Bulk_Upload_Image_12153689289237705381955244043902795.jpg",
+                  "format" : "433Wx543H",
+                  "url" : "/rrlmpcommercewebservices/v2/medias/d6ec7aa0-07b1-4167-8ecf-9916fbe3af80-1531300798449-433Wx543H?context=bWFzdGVyfHJvb3R8OTEzNTF8aW1hZ2UvanBlZ3xoNzIvaGI1Lzg4MDE5OTc4NDg2MDYuanBnfGVkNmY4MmUyYzFjY2YxZDFmYzU0M2M0Y2I2MmMzMTY4ZmEwOWNjMTAxNjA0NGM1NzhlOTdiMjg0Zjk5MTlhZmY"
+               } ],
+               "name" : "Lee Copper Men's Cotton Solid Regular Fit Casual Shirt",
+               "price" : {
+                  "currencyIso" : "INR",
+                  "value" : 100.0
+               }
+            },
+            "recentlyViewedDate" : "2018-12-04T11:14:41+0000"
+         }, {
+            "isOutOfStock" : true,
+            "product" : {
+               "brand" : "LEE COPPER",
+               "code" : "0c749226-f278-42ee-90e8-317494870a80",
+               "colors" : [ {
+                  "hexColorCode" : "#7CFC00",
+                  "name" : "Green"
+               } ],
+               "description" : "Lee Copper Men's Canvas Boat Shoes",
+               "images" : [ {
+                  "altText" : "HD Image12_Bulk_Upload_Image_1824557345915727516357977315894462.jpg",
+                  "format" : "433Wx543H",
+                  "url" : "/rrlmpcommercewebservices/v2/medias/e858c8db-fa8e-4fd5-a67a-f75eca9ee053-1531909992006-433Wx543H?context=bWFzdGVyfHJvb3R8Njk3MDJ8aW1hZ2UvanBlZ3xoNzcvaDE2Lzg4MDM5ODE3MjE2MzAuanBnfDI1M2M1MmQ3ZWU5NDliODcxMTg1MjQyZjZhZGE2ODFmZGQxMGU2ZTZhYWE2NmMzNzkzODQzNGQwZTdiMDU0NGM"
+               } ],
+               "name" : "Lee Copper Men's Canvas Boat Shoes",
+               "price" : {
+                  "currencyIso" : "INR",
+                  "value" : 100.0
+               }
+            },
+            "recentlyViewedDate" : "2018-12-04T10:58:24+0000"
+         }, {
+            "isOutOfStock" : false,
+            "product" : {
+               "brand" : "LEE COPPER",
+               "code" : "31a3f266-ec4d-4c83-ac6b-61e2a548afff",
+               "colors" : [ {
+                  "hexColorCode" : "#FF0000",
+                  "name" : "Red"
+               } ],
+               "description" : "Style Description2",
+               "images" : [ {
+                  "altText" : "casualShoe2_Bulk_Upload_Image_19092932800129333169486324340600227.jpg",
+                  "format" : "433Wx543H",
+                  "url" : "/rrlmpcommercewebservices/v2/medias/5266b84e-c293-4fd1-8fd6-a36da5796ba8-1531994727940-433Wx543H?context=bWFzdGVyfHJvb3R8ODA5MDl8aW1hZ2UvanBlZ3xoMmEvaDRjLzg4MDQyNDAxMzAwNzguanBnfDNjOTAyYWYxMDE1NDg3NGRjZDRlYjA1ZDM5ZTM0ODVkYzhhZjBmM2JiNjJjMjBlZTQwNzJhM2I2OWI5YjIyNzk"
+               } ],
+               "name" : "Lee Copper Men's Canvas Boat Shoes",
+               "price" : {
+                  "currencyIso" : "INR",
+                  "value" : 2200.0
+               }
+            },
+            "recentlyViewedDate" : "2018-12-04T10:37:34+0000"
+         }, {
+            "isOutOfStock" : false,
+            "product" : {
+               "brand" : "LEE COPPER",
+               "code" : "e3e050cc-04c8-4307-9b10-9091b12bde4c",
+               "colors" : [ {
+                  "hexColorCode" : "#FFFF00",
+                  "name" : "Yellow"
+               } ],
+               "description" : "Men's Printing Cotton Custom Plain Polo Tshirt",
+               "images" : [ {
+                  "altText" : "ali.yellow.jpg",
+                  "format" : "433Wx543H",
+                  "url" : "/rrlmpcommercewebservices/v2/medias/14ba482d-35b8-4d47-bddd-034e7ece053b-1534407864672-433Wx543H?context=bWFzdGVyfHJvb3R8MTAwNzg1fGltYWdlL2pwZWd8aDBmL2gyZS84ODExMTcwNzU4Njg2LmpwZ3xkMzYzODNmNmU0YjdiNzcwNWQ5MGQ5ZGJkYmVjOGZjMzY4NjU2OTFlNDMyY2EyNDI2ZWNmNmUzMzJlNjBjNWU5"
+               } ],
+               "name" : "Lee Copper Men's Cotton Self Design Polo T-shirt",
+               "price" : {
+                  "currencyIso" : "INR",
+                  "value" : 400.0
+               }
+            },
+            "recentlyViewedDate" : "2018-12-04T10:37:13+0000"
+         }, {
+            "isOutOfStock" : true,
+            "product" : {
+               "brand" : "LEE COPPER",
+               "code" : "d11e964b-af94-4ebf-8bc9-be2d8369e726",
+               "colors" : [ {
+                  "hexColorCode" : "#ADF0DF",
+                  "name" : "Aqua"
+               } ],
+               "description" : "Lee Copper Men's Canvas Boots",
+               "images" : [ {
+                  "altText" : "casualShoe1_Bulk_Upload_Image_17216235498533446327551732065329882.jpg",
+                  "format" : "433Wx543H",
+                  "url" : "/rrlmpcommercewebservices/v2/medias/01550947-da4b-454f-a47e-e81983f589c5-1531807059493-433Wx543H?context=bWFzdGVyfHJvb3R8NTIyODV8aW1hZ2UvanBlZ3xoZTAvaGMzLzg4MDM0NDc3OTk4MzguanBnfDVmMzUxMjQ5MDU2ZDFmNTdjZjgyMmY4YjUxNzUwMzkxODVlNWNmM2I1MWM2OTM2NTI4M2Q3Nzg0ZDc4ZWYwMzU"
+               } ],
+               "name" : "Lee Copper Men's Canvas Boots",
+               "price" : {
+                  "currencyIso" : "INR",
+                  "value" : 7000.0
+               }
+            },
+            "recentlyViewedDate" : "2018-12-04T10:37:10+0000"
+         }, {
+            "isOutOfStock" : true,
+            "product" : {
+               "brand" : "LEE COPPER",
+               "code" : "24fe06d8-d623-4732-b64f-978da6dec5bc",
+               "colors" : [ {
+                  "hexColorCode" : "#ADF0DF",
+                  "name" : "Aqua"
+               } ],
+               "description" : "Lee Copper Men's Eva Boat Shoes",
+               "images" : [ {
+                  "altText" : "casualShoe2_Bulk_Upload_Image_16401109525830131474698096988855011.jpg",
+                  "format" : "433Wx543H",
+                  "url" : "/rrlmpcommercewebservices/v2/medias/6792f9b3-839b-4bc5-9b7e-24944ac5598d-1531725537638-433Wx543H?context=bWFzdGVyfHJvb3R8ODA5MDl8aW1hZ2UvanBlZ3xoYWEvaDViLzg4MDcwNzU4MDcyNjIuanBnfDRmYTM3MjFhZGUwMmI4YzYwN2RmMmY2Y2YxMjc4Njk0YTU1MzE3OGE3MzE5MjlhOGU1ZmI5Y2JiMGUyNWIzMjE"
+               } ],
+               "name" : "Lee Copper Men's Eva Boat Shoes",
+               "price" : {
+                  "currencyIso" : "INR",
+                  "value" : 1000.0
+               }
+            },
+            "recentlyViewedDate" : "2018-12-04T10:36:44+0000"
+         }, {
+            "isOutOfStock" : false,
+            "product" : {
+               "brand" : "LEE COPPER",
+               "code" : "b7b93002-921a-411a-948c-7b6683ee7890",
+               "colors" : [ {
+                  "hexColorCode" : "#FF0000",
+                  "name" : "Red"
+               }, {
+                  "hexColorCode" : "#ADF0DF",
+                  "name" : "Aqua"
+               }, {
+                  "hexColorCode" : "#0000FF",
+                  "name" : "Blue"
+               }, {
+                  "hexColorCode" : "#7CFC00",
+                  "name" : "Green"
+               } ],
+               "description" : "Style Description",
+               "images" : [ {
+                  "altText" : "A1_Bulk_Upload_Image_1924272575464940.jpg",
+                  "format" : "433Wx543H",
+                  "url" : "/rrlmpcommercewebservices/v2/medias/4fcc6118-c92a-475f-8bb2-db922def0c5d-1532009707235-433Wx543H?context=bWFzdGVyfHJvb3R8MTM3OTQ0fGltYWdlL2pwZWd8aGQ4L2g5NS84ODA0NDI1NDAwMzUwLmpwZ3wyOTk2NTAzY2JlZTJlNjdhODViMjhhMWNlMjQ5ODg5NTNjODI5NjUwNmY5ZTk3ZDY0MjM3YTI5NWE2YzViYjYz"
+               }, {
+                  "altText" : "A2_Bulk_Upload_Image_1924272556619046.jpg",
+                  "format" : "433Wx543H",
+                  "url" : "/rrlmpcommercewebservices/v2/medias/43d01c3b-b8ac-4451-b27c-0bad1cf212e2-1532009707216-433Wx543H?context=bWFzdGVyfHJvb3R8MTM1MDY1fGltYWdlL2pwZWd8aGY3L2gwYy84ODA0NDI1MDcyNjcwLmpwZ3w3NjFkNGQ1OTBkN2NiNTkxYWE2MmYyNDI4NWE2Yjg1YTJiZTQzYzRmNTRjZGNiMGYxOWZkNWU1MmM4OWFmYjRk"
+               }, {
+                  "altText" : "A3_Bulk_Upload_Image_1924272535164184.jpg",
+                  "format" : "433Wx543H",
+                  "url" : "/rrlmpcommercewebservices/v2/medias/03ad4cd9-7238-4aca-9de6-9fd78dfaaf3f-1532009707195-433Wx543H?context=bWFzdGVyfHJvb3R8MTI2NjQ1fGltYWdlL2pwZWd8aDc1L2g0NS84ODA0NDI1NTk2OTU4LmpwZ3w5NzI2YTIwNzEyMTRhODEzMjlmMzNhOGJiODY2ZDE2YTUzYzU2OGYyOGY0OTZlOWNiOTIwNmU0YjFiNjA0NjFi"
+               }, {
+                  "altText" : "A4_Bulk_Upload_Image_1924272501622418.jpg",
+                  "format" : "433Wx543H",
+                  "url" : "/rrlmpcommercewebservices/v2/medias/4a6224af-3323-4a07-95eb-3ee1643691f4-1532009707161-433Wx543H?context=bWFzdGVyfHJvb3R8MTE2NTAyfGltYWdlL2pwZWd8aDQ5L2g4OC84ODA0NDI3MTY5ODIyLmpwZ3w0MzE3ZDcyYzBkZDA1ZmQ1ODRhNTJiNDJlMDQ4ZjAzOTQzZDA5N2Y5ODc3ZjRkM2RlYzU0OGM4ZmZmODk2ZDI3"
+               } ],
+               "name" : "Lee Copper Men's Cotton Striped Henley T-shirt",
+               "price" : {
+                  "currencyIso" : "INR",
+                  "value" : 440.0
+               }
+            },
+            "recentlyViewedDate" : "2018-12-04T07:33:57+0000"
+         }, {
+            "isOutOfStock" : false,
+            "product" : {
+               "brand" : "LEE COPPER",
+               "code" : "a01ebc3c-3474-4f43-a7f9-c4cb0ac8ca30",
+               "colors" : [ {
+                  "hexColorCode" : "#0000CD",
+                  "name" : "Medium Blue"
+               }, {
+                  "hexColorCode" : "#000000",
+                  "name" : "Black"
+               } ],
+               "description" : "Pack of colorful leggings",
+               "images" : [ {
+                  "altText" : "Chrysanthemum.png",
+                  "format" : "433Wx543H",
+                  "url" : "/rrlmpcommercewebservices/v2/medias/3225e4e9-6b2b-4249-972a-6f4af24465e5-1539842577654-433Wx543H?context=bWFzdGVyfHJvb3R8MTIzMjIwfGltYWdlL2pwZWd8aDIzL2hhYy84ODI0MjM2NzAzNzc0LmpwZ3w2ZGE4NDRkZDFmZDFiMmJjN2U1YmFmMGQyYjIzMjE1YjE3MDUwMGI0MDY0ZDc2YWRmNDEzMjhhMDVmMzRkOGQ1"
+               }, {
+                  "altText" : "Chrysanthemum.png",
+                  "format" : "433Wx543H",
+                  "url" : "/rrlmpcommercewebservices/v2/medias/abcbe830-eb35-4041-88bc-809ea3faa1f0-1539842577675-433Wx543H?context=bWFzdGVyfHJvb3R8MTIzMjIwfGltYWdlL2pwZWd8aDgwL2g0OC84ODI0MjM3MDMxNDU0LmpwZ3w3NzMzZTZjZDMyZDJiMTIwNjMxMzY2MGIxZDJmZWM0ZWM4Zjc5MjMzZDVkNjE0NzFjNDViNzE5ZDc0ODc0ZmFh"
+               } ],
+               "name" : "Lee Copper Women's Rayon Solid Leggings",
+               "price" : {
+                  "currencyIso" : "INR",
+                  "value" : 125.99
+               }
+            },
+            "recentlyViewedDate" : "2018-12-03T09:54:38+0000"
+         }, {
+            "isOutOfStock" : false,
+            "product" : {
+               "brand" : "LEE COPPER",
+               "code" : "543b01e8-8331-4ed1-8615-139d3d8ec1ac",
+               "colors" : [ {
+                  "hexColorCode" : "#0000FF",
+                  "name" : "Blue"
+               } ],
+               "description" : "1004",
+               "images" : [ {
+                  "altText" : "Style4.jpg",
+                  "format" : "433Wx543H",
+                  "url" : "/rrlmpcommercewebservices/v2/medias/a4be92e5-89c8-41da-ade1-7761bf8cfeaf-1535532482360-433Wx543H?context=bWFzdGVyfHJvb3R8NjM4MzB8aW1hZ2UvanBlZ3xoZGUvaDVmLzg4MTM1NTMzNTI3MzQuanBnfDdjNmMyYjZhZGQ0MGUzNDU5OGYzNzVhMmNmNTI3YmJjNjUxOGJiNDk0YTJiYmY2MGJmYjA2MTU5NTExZGUwYTc"
+               } ],
+               "name" : "Lee Copper Men's Eva Boat Shoes",
+               "price" : {
+                  "currencyIso" : "INR",
+                  "value" : 2000.0
+               }
+            },
+            "recentlyViewedDate" : "2018-11-30T12:41:32+0000"
+         }, {
+            "isOutOfStock" : true,
+            "product" : {
+               "brand" : "11E",
+               "code" : "676ff02a-b2ea-4dbf-82be-ff41eec7b78b",
+               "colors" : [ {
+                  "hexColorCode" : "#7CFC00",
+                  "name" : "Green"
+               } ],
+               "description" : "11e Men's Canvas Boat Shoes",
+               "images" : [ {
+                  "altText" : "HD Image12_Bulk_Upload_Image_18288480515052848588370139762011599.jpg",
+                  "format" : "433Wx543H",
+                  "url" : "/rrlmpcommercewebservices/v2/medias/828965cb-43d8-4e5d-a526-6001ef687bed-1531914285038-433Wx543H?context=bWFzdGVyfHJvb3R8Njk3MDJ8aW1hZ2UvanBlZ3xoNmYvaGIzLzg4MDQwMjc1OTY4MzAuanBnfDY4MTUwYTA1ZGJlNTcyMzZiOWU2NmE0Y2VjNGUyMjM0YzI4YzJjM2FkNzI0MzFkMDA0NTM0ZjkzNjEyNTlmMjk"
+               } ],
+               "name" : "11e Men's Canvas Boat Shoes",
+               "price" : {
+                  "currencyIso" : "INR",
+                  "value" : 100.0
+               }
+            },
+            "recentlyViewedDate" : "2018-11-30T12:41:25+0000"
+         }, {
+            "isOutOfStock" : false,
+            "product" : {
+               "brand" : "BREAKPOINT",
+               "code" : "b47bc130-5ecf-4c24-b9c8-ac98c0ca1168",
+               "colors" : [ {
+                  "hexColorCode" : "#0000FF",
+                  "name" : "Blue"
+               } ],
+               "description" : "Men's Kurta Pyjamas",
+               "images" : [ {
+                  "altText" : "kurta.jpg",
+                  "format" : "433Wx543H",
+                  "url" : "/rrlmpcommercewebservices/v2/medias/d3815d13-8d46-4e03-9c16-89470ce8e137-1540970201405-433Wx543H?context=bWFzdGVyfHJvb3R8NjMxNjB8aW1hZ2UvanBlZ3xoODAvaDU4Lzg4MjczNzcyNTQ0MzAuanBnfDE3YWYzZDk5Yjk0NDQ0NjE2MzJjZDQwMDg5MjE2ZThhNTY4MzJmYmRkZDdlOTc3ZmUyMzA0YTlhYzAzOWRjMmE"
+               } ],
+               "name" : "Breakpoint Men's Cotton Solid Kurta Pyjama Set",
+               "price" : {
+                  "currencyIso" : "INR",
+                  "value" : 200.0
+               }
+            },
+            "recentlyViewedDate" : "2018-11-30T07:18:59+0000"
+         }, {
+            "isOutOfStock" : false,
+            "product" : {
+               "brand" : "LEE COPPER",
+               "code" : "7da8bc7c-9223-4824-beb6-8efbbcdbf339",
+               "colors" : [ {
+                  "hexColorCode" : "#0000FF",
+                  "name" : "Blue"
+               } ],
+               "description" : "Test Style Des",
+               "images" : [ {
+                  "altText" : "blue.jpg",
+                  "format" : "433Wx543H",
+                  "url" : "/rrlmpcommercewebservices/v2/medias/0224068f-d53e-488d-8fd3-e99ca27aae3d-1543216053693-433Wx543H?context=bWFzdGVyfHJvb3R8NzExMzB8aW1hZ2UvanBlZ3xoOTEvaDllLzg4MzQxNjc4OTgxNDIuanBnfGVkNzE4ZjI0NmQ3ZjczZWRjNjhkNTJkNWY2Yjc2OTExM2U5NGY4ZGM1YzdmOTYwMzljYWVkYzg5N2JkOGE0ZDg"
+               } ],
+               "name" : "Lee Copper Men's Viscose Camouflage Polo T-shirt",
+               "price" : {
+                  "currencyIso" : "INR",
+                  "value" : 100.0
+               }
+            },
+            "recentlyViewedDate" : "2018-11-30T07:04:00+0000"
+         } ],
+         "name" : "+918892142476"
+      }
+   },
+   "title" : "Ms.",
+   "titleCode" : "ms",
+   "unit" : {
+      "addresses" : [ {
+         "companyName" : "Saurabh Gupta Online",
+         "country" : {
+            "isocode" : "IN"
+         },
+         "defaultAddress" : false,
+         "firstName" : "Saurabh Gupta",
+         "id" : "8801173995543",
+         "line1" : "BTM Reliance ECOM Test",
+         "line2" : "Axa Buidling, OLD SSPLAZA ",
+         "line3" : "              ",
+         "postalCode" : "500001",
+         "region" : {
+            "isocode" : "IN-KA",
+            "name" : "KARNATAKA"
+         },
+         "town" : "Bangalore"
+      } ],
+      "gstNumber" : "22AAAAA0000A1Z7",
+      "isKYCCompleted" : true,
+      "name" : "Saurabh Gupta Online",
+      "salesExecutiveContactNumber" : "+919108464882",
+      "salesManagerContactNumber" : "+919912341111",
+      "uid" : "S000001"
+   },
+   "wishListProducts" : {
+      "rrlmpWishList" : [ {
+         "description" : "shortlist",
+         "entries" : [ {
+            "addedDate" : "2018-12-05T06:08:57+0000",
+            "comment" : "Shortlist Comment",
+            "desired" : 1,
+            "isOutOfStock" : false,
+            "priority" : "medium",
+            "product" : {
+               "brand" : "LEE COPPER",
+               "code" : "72c08651-4621-4315-b78a-a4dd24bdde64",
+               "colors" : [ {
+                  "hexColorCode" : "#F5F5DC",
+                  "name" : "Brown"
+               }, {
+                  "name" : "Grey Melange",
+                  "url" : {
+                     "url" : "/rrlmpcommercewebservices/v2/medias/?context=bWFzdGVyfHJvb3R8NjQwNHxpbWFnZS9wbmd8aDYwL2g5NC84ODExMDk3OTgwOTU4LnBuZ3wzZjY3Y2VmMjQ1YjNiZDRiY2IzN2VjNzhmN2ViYjk1Nzk3ZTM5ZjExMDk0MTc4YjRkYTFmNTZjOTlkZWE3MGYx"
+                  }
+               }, {
+                  "hexColorCode" : "#000000",
+                  "name" : "Black"
+               }, {
+                  "hexColorCode" : "#7CFC00",
+                  "name" : "Green"
+               } ],
+               "description" : "100% Cotton Round-necked and Short-sleeved men T-shirt",
+               "images" : [ {
+                  "altText" : "aliblack.jpg",
+                  "format" : "433Wx543H",
+                  "url" : "/rrlmpcommercewebservices/v2/medias/6a90e268-ac15-4b08-9bc5-8dfe2fa37e0e-1533032019433-433Wx543H?context=bWFzdGVyfHJvb3R8MTE5NzM5fGltYWdlL2pwZWd8aDUxL2gzZC84ODE0NTY4MTc3Njk0LmpwZ3w4NTdmYzBlOTkyMDViNjgwNTgwMTI0YjZkYWJjNDAwODNlY2ZhNmRiMjZmYjU1YTRjOTk4YmEyZWMzZmVkYTUy"
+               } ],
+               "name" : "Lee Copper Men's Cotton Solid Round Neck T- Shirt",
+               "price" : {
+                  "currencyIso" : "INR",
+                  "value" : 100.0
+               }
+            }
+         }, {
+            "addedDate" : "2018-11-28T19:04:51+0000",
+            "comment" : "Shortlist Comment",
+            "desired" : 1,
+            "isOutOfStock" : false,
+            "priority" : "medium",
+            "product" : {
+               "brand" : "LEE COPPER",
+               "code" : "d96f8285-9de2-4ed7-bd26-a1b90bf607bc",
+               "colors" : [ {
+                  "hexColorCode" : "#070836",
+                  "name" : "Navy"
+               }, {
+                  "name" : "Grey Melange",
+                  "url" : {
+                     "url" : "/rrlmpcommercewebservices/v2/medias/?context=bWFzdGVyfHJvb3R8NjQwNHxpbWFnZS9wbmd8aDYwL2g5NC84ODExMDk3OTgwOTU4LnBuZ3wzZjY3Y2VmMjQ1YjNiZDRiY2IzN2VjNzhmN2ViYjk1Nzk3ZTM5ZjExMDk0MTc4YjRkYTFmNTZjOTlkZWE3MGYx"
+                  }
+               }, {
+                  "hexColorCode" : "#F5F5DC",
+                  "name" : "Beige"
+               }, {
+                  "name" : "Dk. Multi",
+                  "url" : {
+                     "url" : "/rrlmpcommercewebservices/v2/medias/?context=bWFzdGVyfHJvb3R8NTk1MnxpbWFnZS9wbmd8aGEyL2hjOS84ODExMDk4MDQ2NDk0LnBuZ3xkYjY3NmRiOGY0NjhiYzdmZDRlMDRlZGNjODUxMDVjMDBjNmNlZmU1ODRlYzRmMGQ4ZWFkZDJkZGVhMTIwNjlk"
+                  }
+               }, {
+                  "hexColorCode" : "#006400",
+                  "name" : "Dk. Green"
+               }, {
+                  "name" : "Lt. Multi",
+                  "url" : {
+                     "url" : "/rrlmpcommercewebservices/v2/medias/?context=bWFzdGVyfHJvb3R8NTM2NXxpbWFnZS9wbmd8aDhhL2gyYi84ODExMDk4MDc5MjYyLnBuZ3w3ZGQyZTQ1NjMyODc3NWU5MTg2YjJjMGZkOWFhMzNmYjJiMGZmODc5OTQ3YmIyNjAzZGUyZjYwMTk0YjM2MWI1"
+                  }
+               }, {
+                  "hexColorCode" : "#D69E15",
+                  "name" : "Mustard"
+               }, {
+                  "hexColorCode" : "#E0FFFF",
+                  "name" : "Lt. Aqua"
+               } ],
+               "description" : "Solid Round neck T-shirt",
+               "images" : [ {
+                  "altText" : "MR1_Bulk_Upload_Image_23459627940530755624519887196200970.jpg",
+                  "format" : "433Wx543H",
+                  "url" : "/rrlmpcommercewebservices/v2/medias/a9dc82b4-a078-449b-af51-12e49a2e959a-1532431397455-433Wx543H?context=bWFzdGVyfHJvb3R8MTQ3NDc4fGltYWdlL2pwZWd8aDExL2hiMy84ODEzNjc3MDUxOTM0LmpwZ3xjY2RkZDVkOWIxOGU3M2JiNDBkZmI0ODY2MWQ2OWEwOWMwOTQzMTkyYTM5NWFjMzRiMmVmNjlhNDEzNjU5ZDI1"
+               } ],
+               "name" : "Lee Copper Men's Cotton Solid Round Neck T- Shirt",
+               "price" : {
+                  "currencyIso" : "INR",
+                  "value" : 350.0
+               }
+            }
+         }, {
+            "addedDate" : "2018-11-23T10:28:30+0000",
+            "comment" : "Shortlist Comment",
+            "desired" : 1,
+            "isOutOfStock" : false,
+            "priority" : "medium",
+            "product" : {
+               "brand" : "LEE COPPER",
+               "code" : "2f621661-8c08-4ba0-9f6c-f73610cbb27f",
+               "colors" : [ {
+                  "hexColorCode" : "#ADF0DF",
+                  "name" : "Aqua"
+               } ],
+               "description" : "Lee Copper Men's Cotton Solid Regular Fit Casual Shirt",
+               "images" : [ {
+                  "altText" : "HD Image1_Bulk_Upload_Image_12147444139986518699777848296651191.jpg",
+                  "format" : "433Wx543H",
+                  "url" : "/rrlmpcommercewebservices/v2/medias/fa9b15dd-5cfe-485f-8145-89a22c5264d4-1531300172630-433Wx543H?context=bWFzdGVyfHJvb3R8MTIwMjUyfGltYWdlL2pwZWd8aDk2L2gxNS84ODAxOTc4NzQ0ODYyLmpwZ3w1ZDI1NWZkZDMzMmRlNGRiZGM4NGFhNTZkNmQ5ZWU0YTQ3OTAyZThmOWExZmMyZTAxMmVhNDJlMjNhODkwMDg5"
+               }, {
+                  "altText" : "HD Image2_Bulk_Upload_Image_12147444290951882857369025203115517.jpg",
+                  "format" : "433Wx543H",
+                  "url" : "/rrlmpcommercewebservices/v2/medias/f329ae1d-6233-4c7d-b746-58456d165ac4-1531300172666-433Wx543H?context=bWFzdGVyfHJvb3R8MTEyOTU2fGltYWdlL2pwZWd8aGY2L2hjZC84ODAxOTc5NTk2ODMwLmpwZ3wzZWM3OThhODAxN2RkNWJlY2U1ZDA0MTRlODdjNzc0Y2ZjN2Y5ZGI4N2FiMjc0ODIzNzA5ZDFjZGQxMzI1NjI1"
+               }, {
+                  "altText" : "HD Image3_Bulk_Upload_Image_12147444396840207624941699010121098.jpg",
+                  "format" : "433Wx543H",
+                  "url" : "/rrlmpcommercewebservices/v2/medias/1d58a0aa-c0f9-4053-b051-5da59f8f10c4-1531300172699-433Wx543H?context=bWFzdGVyfHJvb3R8MTExMjgzfGltYWdlL2pwZWd8aGQ5L2hkMy84ODAxOTc5MjY5MTUwLmpwZ3w0ZjM3OThjOWRmZWU0YmUwOTJiYzk4MDE1NjBlNmQzOGUwZTNmZWNjYWQ0NGNjYjI2M2VhMjljNmQ1ZTk2ZjY5"
+               }, {
+                  "altText" : "HD Image4_Bulk_Upload_Image_12147444518603745327382715826573968.jpg",
+                  "format" : "433Wx543H",
+                  "url" : "/rrlmpcommercewebservices/v2/medias/0f3df221-54db-4f6a-af62-18d697da958c-1531300172734-433Wx543H?context=bWFzdGVyfHJvb3R8OTEzNTF8aW1hZ2UvanBlZ3xoZjYvaGUzLzg4MDE5Nzk0MDAyMjIuanBnfDA4MWNmMzJjMmYxMTIwY2U2YWNiMDkxMTI3MmZlZThiNzhlZmZlYTI1NzU0MDY4YTM5NTMxM2VlYjk2YWMxZGE"
+               } ],
+               "name" : "Lee Copper Men's Cotton Solid Regular Fit Casual Shirt",
+               "price" : {
+                  "currencyIso" : "INR",
+                  "value" : 100.0
+               }
+            }
+         }, {
+            "addedDate" : "2018-11-06T09:46:32+0000",
+            "comment" : "Shortlist Comment",
+            "desired" : 1,
+            "isOutOfStock" : false,
+            "priority" : "medium",
+            "product" : {
+               "brand" : "LEE COPPER",
+               "code" : "31a3f266-ec4d-4c83-ac6b-61e2a548afff",
+               "colors" : [ {
+                  "hexColorCode" : "#FF0000",
+                  "name" : "Red"
+               } ],
+               "description" : "Style Description2",
+               "images" : [ {
+                  "altText" : "casualShoe2_Bulk_Upload_Image_19092932800129333169486324340600227.jpg",
+                  "format" : "433Wx543H",
+                  "url" : "/rrlmpcommercewebservices/v2/medias/5266b84e-c293-4fd1-8fd6-a36da5796ba8-1531994727940-433Wx543H?context=bWFzdGVyfHJvb3R8ODA5MDl8aW1hZ2UvanBlZ3xoMmEvaDRjLzg4MDQyNDAxMzAwNzguanBnfDNjOTAyYWYxMDE1NDg3NGRjZDRlYjA1ZDM5ZTM0ODVkYzhhZjBmM2JiNjJjMjBlZTQwNzJhM2I2OWI5YjIyNzk"
+               } ],
+               "name" : "Lee Copper Men's Canvas Boat Shoes",
+               "price" : {
+                  "currencyIso" : "INR",
+                  "value" : 2200.0
+               }
+            }
+         } ],
+         "name" : "shortlist"
+      } ]
+   }
+}
