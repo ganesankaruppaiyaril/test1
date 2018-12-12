@@ -1,0 +1,11 @@
+{
+   "acceptedTNC" : true,
+   "accessToken" : {
+      "accessToken" : "8d8d0478-18ab-4ba1-ac64-682f75f0a569",
+      "expiresIn" : 1198591,
+      "scope" : [ "basic" ],
+      "tokenType" : "bearer"
+   },
+   "isFavouriteCategorySet" : true,
+   "isPasswordSet" : true
+}
