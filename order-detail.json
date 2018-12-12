@@ -1,0 +1,1026 @@
+{
+   "orders" : [ {
+      "appliedOrderPromotions" : [ {
+         "consumedEntries" : [ ],
+         "description" : "10% cashback",
+         "promotion" : {
+            "code" : "CashbackTest1",
+            "promotionType" : "Rule Based Promotion"
+         }
+      } ],
+      "appliedProductPromotions" : [ ],
+      "appliedVouchers" : [ ],
+      "calculated" : true,
+      "code" : "00212041",
+      "deliveryAddress" : {
+         "companyName" : "Saurabh Gupta Online",
+         "country" : {
+            "isocode" : "IN"
+         },
+         "defaultAddress" : false,
+         "firstName" : "Saurabh Gupta Online",
+         "id" : "8802615033879",
+         "line1" : "BTM Reliance ECOM Test",
+         "line2" : "Axa Buidling, OLD SSPLAZA ",
+         "line3" : "              ",
+         "postalCode" : "500001",
+         "region" : {
+            "isocode" : "IN-KA",
+            "name" : "KARNATAKA"
+         },
+         "town" : "Bangalore"
+      },
+      "deliveryCost" : {
+         "currencyIso" : "INR",
+         "formattedValue" : "INR0.00",
+         "priceType" : "BUY",
+         "value" : 0.0
+      },
+      "deliveryItemsQuantity" : 3,
+      "deliveryMode" : {
+         "code" : "DELIVER_TO_BUYER",
+         "deliveryCost" : {
+            "currencyIso" : "INR",
+            "formattedValue" : "INR0.00",
+            "priceType" : "BUY",
+            "value" : 0.0
+         },
+         "deliveryType" : "DELIVER_TO_BUYER"
+      },
+      "deliveryOrderGroups" : [ {
+         "entries" : [ {
+            "cartDiscounts" : {
+               "currencyIso" : "INR",
+               "value" : 0.0
+            },
+            "deliveryCost" : {
+               "currencyIso" : "INR",
+               "value" : 0.0
+            },
+            "entryNumber" : 0,
+            "jioCode" : "491410363",
+            "mpMasterStatusData" : {
+               "statusCode" : "Created",
+               "statusValue" : "New Order"
+            },
+            "mpPaymentStatus" : {
+               "statusCode" : "P",
+               "statusValue" : "Advance Payment Done"
+            },
+            "orderDiscounts" : {
+               "currencyIso" : "INR",
+               "value" : 0.0
+            },
+            "product" : {
+               "baseOptions" : [ ],
+               "code" : "491410363__b23b5933-a357-4e38-ae45-a301f0f26779",
+               "description" : "Men's Kurta",
+               "images" : [ {
+                  "altText" : "kurta1.jpg",
+                  "format" : "zoom",
+                  "imageType" : "PRIMARY",
+                  "url" : "/rrlmpcommercewebservices/v2/medias/0c7f5d91-6fde-4a01-8bdb-67fa8fb2a163-1540969714346-1080Wx1353H?context=bWFzdGVyfHJvb3R8MTUxNDE5fGltYWdlL2pwZWd8aDBkL2hkNi84ODI3MzgwNTk2NzY2LmpwZ3wxN2I0M2I1MWVmMzFlZWU0OGI1NjJkYjhkYjE2NjE1NTQ0ZGYyNmQyNmVhNjIyODlhYWEzMjUxNjNmYjYyYzM2"
+               }, {
+                  "altText" : "kurta1.jpg",
+                  "format" : "product",
+                  "imageType" : "PRIMARY",
+                  "url" : "/rrlmpcommercewebservices/v2/medias/0c7f5d91-6fde-4a01-8bdb-67fa8fb2a163-1540969714346-777Wx973H?context=bWFzdGVyfHJvb3R8OTI2NTd8aW1hZ2UvanBlZ3xoMDYvaDRmLzg4MjczODA4NTg5MTAuanBnfGVhNjI0NmM0YTY1YmU3YjU0MzBlZjhjMGM1MWE4YmM5ODNhNTlhYzZhNTgxZDk1ZDFjODRhMWNhZDdiMzRjMTQ"
+               }, {
+                  "altText" : "kurta1.jpg",
+                  "format" : "thumbnail",
+                  "imageType" : "PRIMARY",
+                  "url" : "/rrlmpcommercewebservices/v2/medias/0c7f5d91-6fde-4a01-8bdb-67fa8fb2a163-1540969714346-239Wx300H?context=bWFzdGVyfHJvb3R8MTg3NzV8aW1hZ2UvanBlZ3xoNTUvaDQ0Lzg4MjczODA0NjU2OTQuanBnfDU5OTMzZTUzZmRkNDNjOGI4NTdhMGVjYjFhZDgwNTRkYjNmMzlmZGQyMTNlZDMzODdhOWZiMmM4MjBiZGRhOGU"
+               }, {
+                  "altText" : "kurta1.jpg",
+                  "format" : "cartIcon",
+                  "imageType" : "PRIMARY",
+                  "url" : "/rrlmpcommercewebservices/v2/medias/0c7f5d91-6fde-4a01-8bdb-67fa8fb2a163-1540969714346-239Wx300H?context=bWFzdGVyfHJvb3R8MTg3NzV8aW1hZ2UvanBlZ3xoNTUvaDQ0Lzg4MjczODA0NjU2OTQuanBnfDU5OTMzZTUzZmRkNDNjOGI4NTdhMGVjYjFhZDgwNTRkYjNmMzlmZGQyMTNlZDMzODdhOWZiMmM4MjBiZGRhOGU"
+               }, {
+                  "altText" : "kurta1.jpg",
+                  "format" : "zoom",
+                  "galleryIndex" : 0,
+                  "imageType" : "GALLERY",
+                  "url" : "/rrlmpcommercewebservices/v2/medias/0c7f5d91-6fde-4a01-8bdb-67fa8fb2a163-1540969714346-1080Wx1353H?context=bWFzdGVyfHJvb3R8MTUxNDE5fGltYWdlL2pwZWd8aDBkL2hkNi84ODI3MzgwNTk2NzY2LmpwZ3wxN2I0M2I1MWVmMzFlZWU0OGI1NjJkYjhkYjE2NjE1NTQ0ZGYyNmQyNmVhNjIyODlhYWEzMjUxNjNmYjYyYzM2"
+               }, {
+                  "altText" : "kurta1.jpg",
+                  "format" : "product",
+                  "galleryIndex" : 0,
+                  "imageType" : "GALLERY",
+                  "url" : "/rrlmpcommercewebservices/v2/medias/0c7f5d91-6fde-4a01-8bdb-67fa8fb2a163-1540969714346-777Wx973H?context=bWFzdGVyfHJvb3R8OTI2NTd8aW1hZ2UvanBlZ3xoMDYvaDRmLzg4MjczODA4NTg5MTAuanBnfGVhNjI0NmM0YTY1YmU3YjU0MzBlZjhjMGM1MWE4YmM5ODNhNTlhYzZhNTgxZDk1ZDFjODRhMWNhZDdiMzRjMTQ"
+               }, {
+                  "altText" : "kurta1.jpg",
+                  "format" : "thumbnail",
+                  "galleryIndex" : 0,
+                  "imageType" : "GALLERY",
+                  "url" : "/rrlmpcommercewebservices/v2/medias/0c7f5d91-6fde-4a01-8bdb-67fa8fb2a163-1540969714346-239Wx300H?context=bWFzdGVyfHJvb3R8MTg3NzV8aW1hZ2UvanBlZ3xoNTUvaDQ0Lzg4MjczODA0NjU2OTQuanBnfDU5OTMzZTUzZmRkNDNjOGI4NTdhMGVjYjFhZDgwNTRkYjNmMzlmZGQyMTNlZDMzODdhOWZiMmM4MjBiZGRhOGU"
+               } ],
+               "name" : "Men's Kurta",
+               "price" : {
+                  "currencyIso" : "INR",
+                  "formattedValue" : "INR1,200.00",
+                  "priceType" : "BUY",
+                  "value" : 1200.0
+               },
+               "purchasable" : true,
+               "url" : "/ROOT/ROOTB2BMCH/FASHION-%26-LIFESTYLE/MENS-CLOTHING/ETHNIC-WEAR/KURTAS/Men%27s-Kurta/p/491410363__b23b5933-a357-4e38-ae45-a301f0f26779"
+            },
+            "quantity" : 1,
+            "styleArticleNumber" : "bce8a8b3-25bd-4c6c-9560-20fe82f5b5ad",
+            "styleProductName" : "Breakpoint Men's Cotton Solid Long Kurta",
+            "subTotal" : {
+               "currencyIso" : "INR",
+               "value" : 1200.0
+            },
+            "totalPrice" : {
+               "currencyIso" : "INR",
+               "value" : 1200.00
+            },
+            "totalPriceWithTax" : {
+               "currencyIso" : "INR",
+               "value" : 1260.0
+            },
+            "totalQuantity" : 6.0,
+            "totalTax" : {
+               "currencyIso" : "INR",
+               "value" : 60.0
+            }
+         }, {
+            "cartDiscounts" : {
+               "currencyIso" : "INR",
+               "value" : 0.0
+            },
+            "deliveryCost" : {
+               "currencyIso" : "INR",
+               "value" : 0.0
+            },
+            "entryNumber" : 1,
+            "jioCode" : "491410361",
+            "mpMasterStatusData" : {
+               "statusCode" : "Created",
+               "statusValue" : "New Order"
+            },
+            "mpPaymentStatus" : {
+               "statusCode" : "P",
+               "statusValue" : "Advance Payment Done"
+            },
+            "orderDiscounts" : {
+               "currencyIso" : "INR",
+               "value" : 0.0
+            },
+            "product" : {
+               "baseOptions" : [ ],
+               "code" : "491410361__11ef8c4f-4e6c-48d4-901f-7be17b730a10",
+               "description" : "Men's Kurta Pyja RP",
+               "images" : [ {
+                  "altText" : "kurta.jpg",
+                  "format" : "zoom",
+                  "imageType" : "PRIMARY",
+                  "url" : "/rrlmpcommercewebservices/v2/medias/24d60f17-4be2-48be-8238-38e01e30e50a-1540970203405-1080Wx1353H?context=bWFzdGVyfHJvb3R8MTMwNDQ1fGltYWdlL2pwZWd8aDkyL2gyZi84ODI3Mzc2ODYxMjE0LmpwZ3xjZjFhMGM2MGM0ZTM4MDg0NjE5MDY2NTMzZWY4NjZhNjVjMzcxZjgwOGZkNmZlNjY3ZjI2ZmU2NTllYTVhMzE1"
+               }, {
+                  "altText" : "kurta.jpg",
+                  "format" : "product",
+                  "imageType" : "PRIMARY",
+                  "url" : "/rrlmpcommercewebservices/v2/medias/24d60f17-4be2-48be-8238-38e01e30e50a-1540970203405-777Wx973H?context=bWFzdGVyfHJvb3R8MTM1MzM2fGltYWdlL2pwZWd8aDdkL2hkNi84ODI3Mzc3NTE2NTc0LmpwZ3w1NzVjYjZiZGUyZDI3MGU4ZGQzNGE5YWVlMDIxZTliOTMxZTg1MWUyY2FiNmRlYzdjOWZmMmRlMTg4Y2IwMGNl"
+               }, {
+                  "altText" : "kurta.jpg",
+                  "format" : "thumbnail",
+                  "imageType" : "PRIMARY",
+                  "url" : "/rrlmpcommercewebservices/v2/medias/24d60f17-4be2-48be-8238-38e01e30e50a-1540970203405-239Wx300H?context=bWFzdGVyfHJvb3R8MjQzMzR8aW1hZ2UvanBlZ3xoMmQvaGIxLzg4MjczNzY1OTkwNzAuanBnfDRlZmE5NzM3ODhiODliNDYwMDRkOWExNDRmYjg5MzhjMjM1NjhlMWZlMmFiNzczNjQyMDRhN2MwYWYyYjhiY2Q"
+               }, {
+                  "altText" : "kurta.jpg",
+                  "format" : "cartIcon",
+                  "imageType" : "PRIMARY",
+                  "url" : "/rrlmpcommercewebservices/v2/medias/24d60f17-4be2-48be-8238-38e01e30e50a-1540970203405-239Wx300H?context=bWFzdGVyfHJvb3R8MjQzMzR8aW1hZ2UvanBlZ3xoMmQvaGIxLzg4MjczNzY1OTkwNzAuanBnfDRlZmE5NzM3ODhiODliNDYwMDRkOWExNDRmYjg5MzhjMjM1NjhlMWZlMmFiNzczNjQyMDRhN2MwYWYyYjhiY2Q"
+               }, {
+                  "altText" : "kurta.jpg",
+                  "format" : "zoom",
+                  "galleryIndex" : 0,
+                  "imageType" : "GALLERY",
+                  "url" : "/rrlmpcommercewebservices/v2/medias/24d60f17-4be2-48be-8238-38e01e30e50a-1540970203405-1080Wx1353H?context=bWFzdGVyfHJvb3R8MTMwNDQ1fGltYWdlL2pwZWd8aDkyL2gyZi84ODI3Mzc2ODYxMjE0LmpwZ3xjZjFhMGM2MGM0ZTM4MDg0NjE5MDY2NTMzZWY4NjZhNjVjMzcxZjgwOGZkNmZlNjY3ZjI2ZmU2NTllYTVhMzE1"
+               }, {
+                  "altText" : "kurta.jpg",
+                  "format" : "product",
+                  "galleryIndex" : 0,
+                  "imageType" : "GALLERY",
+                  "url" : "/rrlmpcommercewebservices/v2/medias/24d60f17-4be2-48be-8238-38e01e30e50a-1540970203405-777Wx973H?context=bWFzdGVyfHJvb3R8MTM1MzM2fGltYWdlL2pwZWd8aDdkL2hkNi84ODI3Mzc3NTE2NTc0LmpwZ3w1NzVjYjZiZGUyZDI3MGU4ZGQzNGE5YWVlMDIxZTliOTMxZTg1MWUyY2FiNmRlYzdjOWZmMmRlMTg4Y2IwMGNl"
+               }, {
+                  "altText" : "kurta.jpg",
+                  "format" : "thumbnail",
+                  "galleryIndex" : 0,
+                  "imageType" : "GALLERY",
+                  "url" : "/rrlmpcommercewebservices/v2/medias/24d60f17-4be2-48be-8238-38e01e30e50a-1540970203405-239Wx300H?context=bWFzdGVyfHJvb3R8MjQzMzR8aW1hZ2UvanBlZ3xoMmQvaGIxLzg4MjczNzY1OTkwNzAuanBnfDRlZmE5NzM3ODhiODliNDYwMDRkOWExNDRmYjg5MzhjMjM1NjhlMWZlMmFiNzczNjQyMDRhN2MwYWYyYjhiY2Q"
+               } ],
+               "name" : "Men's Kurta Pyja RP",
+               "price" : {
+                  "currencyIso" : "INR",
+                  "formattedValue" : "INR3,200.00",
+                  "priceType" : "BUY",
+                  "value" : 3200.0
+               },
+               "purchasable" : true,
+               "url" : "/ROOT/ROOTB2BMCH/FASHION-%26-LIFESTYLE/MENS-CLOTHING/ETHNIC-WEAR/KURTA-PYJAMA-SET/Men%27s-Kurta-Pyja-RP/p/491410361__11ef8c4f-4e6c-48d4-901f-7be17b730a10"
+            },
+            "quantity" : 2,
+            "styleArticleNumber" : "5d1d273d-fedf-4d35-9717-68a2dc259b1b",
+            "styleProductName" : "Breakpoint Men's Cotton Solid Kurta Pyjama Set",
+            "subTotal" : {
+               "currencyIso" : "INR",
+               "value" : 6400.0
+            },
+            "totalPrice" : {
+               "currencyIso" : "INR",
+               "value" : 6400.00
+            },
+            "totalPriceWithTax" : {
+               "currencyIso" : "INR",
+               "value" : 6720.0
+            },
+            "totalQuantity" : 16.0,
+            "totalTax" : {
+               "currencyIso" : "INR",
+               "value" : 320.0
+            }
+         } ],
+         "totalPriceWithTax" : {
+            "currencyIso" : "INR",
+            "formattedValue" : "INR7,980.00",
+            "priceType" : "BUY",
+            "value" : 7980.0
+         }
+      } ],
+      "entries" : [ {
+         "cartDiscounts" : {
+            "currencyIso" : "INR",
+            "value" : 0.0
+         },
+         "deliveryCost" : {
+            "currencyIso" : "INR",
+            "value" : 0.0
+         },
+         "entryNumber" : 0,
+         "jioCode" : "491410363",
+         "mpMasterStatusData" : {
+            "statusCode" : "Created",
+            "statusValue" : "New Order"
+         },
+         "mpPaymentStatus" : {
+            "statusCode" : "P",
+            "statusValue" : "Advance Payment Done"
+         },
+         "orderDiscounts" : {
+            "currencyIso" : "INR",
+            "value" : 0.0
+         },
+         "product" : {
+            "baseOptions" : [ ],
+            "code" : "491410363__b23b5933-a357-4e38-ae45-a301f0f26779",
+            "description" : "Men's Kurta",
+            "images" : [ {
+               "altText" : "kurta1.jpg",
+               "format" : "zoom",
+               "imageType" : "PRIMARY",
+               "url" : "/rrlmpcommercewebservices/v2/medias/0c7f5d91-6fde-4a01-8bdb-67fa8fb2a163-1540969714346-1080Wx1353H?context=bWFzdGVyfHJvb3R8MTUxNDE5fGltYWdlL2pwZWd8aDBkL2hkNi84ODI3MzgwNTk2NzY2LmpwZ3wxN2I0M2I1MWVmMzFlZWU0OGI1NjJkYjhkYjE2NjE1NTQ0ZGYyNmQyNmVhNjIyODlhYWEzMjUxNjNmYjYyYzM2"
+            }, {
+               "altText" : "kurta1.jpg",
+               "format" : "product",
+               "imageType" : "PRIMARY",
+               "url" : "/rrlmpcommercewebservices/v2/medias/0c7f5d91-6fde-4a01-8bdb-67fa8fb2a163-1540969714346-777Wx973H?context=bWFzdGVyfHJvb3R8OTI2NTd8aW1hZ2UvanBlZ3xoMDYvaDRmLzg4MjczODA4NTg5MTAuanBnfGVhNjI0NmM0YTY1YmU3YjU0MzBlZjhjMGM1MWE4YmM5ODNhNTlhYzZhNTgxZDk1ZDFjODRhMWNhZDdiMzRjMTQ"
+            }, {
+               "altText" : "kurta1.jpg",
+               "format" : "thumbnail",
+               "imageType" : "PRIMARY",
+               "url" : "/rrlmpcommercewebservices/v2/medias/0c7f5d91-6fde-4a01-8bdb-67fa8fb2a163-1540969714346-239Wx300H?context=bWFzdGVyfHJvb3R8MTg3NzV8aW1hZ2UvanBlZ3xoNTUvaDQ0Lzg4MjczODA0NjU2OTQuanBnfDU5OTMzZTUzZmRkNDNjOGI4NTdhMGVjYjFhZDgwNTRkYjNmMzlmZGQyMTNlZDMzODdhOWZiMmM4MjBiZGRhOGU"
+            }, {
+               "altText" : "kurta1.jpg",
+               "format" : "cartIcon",
+               "imageType" : "PRIMARY",
+               "url" : "/rrlmpcommercewebservices/v2/medias/0c7f5d91-6fde-4a01-8bdb-67fa8fb2a163-1540969714346-239Wx300H?context=bWFzdGVyfHJvb3R8MTg3NzV8aW1hZ2UvanBlZ3xoNTUvaDQ0Lzg4MjczODA0NjU2OTQuanBnfDU5OTMzZTUzZmRkNDNjOGI4NTdhMGVjYjFhZDgwNTRkYjNmMzlmZGQyMTNlZDMzODdhOWZiMmM4MjBiZGRhOGU"
+            }, {
+               "altText" : "kurta1.jpg",
+               "format" : "zoom",
+               "galleryIndex" : 0,
+               "imageType" : "GALLERY",
+               "url" : "/rrlmpcommercewebservices/v2/medias/0c7f5d91-6fde-4a01-8bdb-67fa8fb2a163-1540969714346-1080Wx1353H?context=bWFzdGVyfHJvb3R8MTUxNDE5fGltYWdlL2pwZWd8aDBkL2hkNi84ODI3MzgwNTk2NzY2LmpwZ3wxN2I0M2I1MWVmMzFlZWU0OGI1NjJkYjhkYjE2NjE1NTQ0ZGYyNmQyNmVhNjIyODlhYWEzMjUxNjNmYjYyYzM2"
+            }, {
+               "altText" : "kurta1.jpg",
+               "format" : "product",
+               "galleryIndex" : 0,
+               "imageType" : "GALLERY",
+               "url" : "/rrlmpcommercewebservices/v2/medias/0c7f5d91-6fde-4a01-8bdb-67fa8fb2a163-1540969714346-777Wx973H?context=bWFzdGVyfHJvb3R8OTI2NTd8aW1hZ2UvanBlZ3xoMDYvaDRmLzg4MjczODA4NTg5MTAuanBnfGVhNjI0NmM0YTY1YmU3YjU0MzBlZjhjMGM1MWE4YmM5ODNhNTlhYzZhNTgxZDk1ZDFjODRhMWNhZDdiMzRjMTQ"
+            }, {
+               "altText" : "kurta1.jpg",
+               "format" : "thumbnail",
+               "galleryIndex" : 0,
+               "imageType" : "GALLERY",
+               "url" : "/rrlmpcommercewebservices/v2/medias/0c7f5d91-6fde-4a01-8bdb-67fa8fb2a163-1540969714346-239Wx300H?context=bWFzdGVyfHJvb3R8MTg3NzV8aW1hZ2UvanBlZ3xoNTUvaDQ0Lzg4MjczODA0NjU2OTQuanBnfDU5OTMzZTUzZmRkNDNjOGI4NTdhMGVjYjFhZDgwNTRkYjNmMzlmZGQyMTNlZDMzODdhOWZiMmM4MjBiZGRhOGU"
+            } ],
+            "name" : "Men's Kurta",
+            "price" : {
+               "currencyIso" : "INR",
+               "formattedValue" : "INR1,200.00",
+               "priceType" : "BUY",
+               "value" : 1200.0
+            },
+            "purchasable" : true,
+            "url" : "/ROOT/ROOTB2BMCH/FASHION-%26-LIFESTYLE/MENS-CLOTHING/ETHNIC-WEAR/KURTAS/Men%27s-Kurta/p/491410363__b23b5933-a357-4e38-ae45-a301f0f26779"
+         },
+         "quantity" : 1,
+         "styleArticleNumber" : "bce8a8b3-25bd-4c6c-9560-20fe82f5b5ad",
+         "styleProductName" : "Breakpoint Men's Cotton Solid Long Kurta",
+         "subTotal" : {
+            "currencyIso" : "INR",
+            "value" : 1200.0
+         },
+         "totalPrice" : {
+            "currencyIso" : "INR",
+            "value" : 1200.00
+         },
+         "totalPriceWithTax" : {
+            "currencyIso" : "INR",
+            "value" : 1260.0
+         },
+         "totalQuantity" : 6.0,
+         "totalTax" : {
+            "currencyIso" : "INR",
+            "value" : 60.0
+         }
+      }, {
+         "cartDiscounts" : {
+            "currencyIso" : "INR",
+            "value" : 0.0
+         },
+         "deliveryCost" : {
+            "currencyIso" : "INR",
+            "value" : 0.0
+         },
+         "entryNumber" : 1,
+         "jioCode" : "491410361",
+         "mpMasterStatusData" : {
+            "statusCode" : "Created",
+            "statusValue" : "New Order"
+         },
+         "mpPaymentStatus" : {
+            "statusCode" : "P",
+            "statusValue" : "Advance Payment Done"
+         },
+         "orderDiscounts" : {
+            "currencyIso" : "INR",
+            "value" : 0.0
+         },
+         "product" : {
+            "baseOptions" : [ ],
+            "code" : "491410361__11ef8c4f-4e6c-48d4-901f-7be17b730a10",
+            "description" : "Men's Kurta Pyja RP",
+            "images" : [ {
+               "altText" : "kurta.jpg",
+               "format" : "zoom",
+               "imageType" : "PRIMARY",
+               "url" : "/rrlmpcommercewebservices/v2/medias/24d60f17-4be2-48be-8238-38e01e30e50a-1540970203405-1080Wx1353H?context=bWFzdGVyfHJvb3R8MTMwNDQ1fGltYWdlL2pwZWd8aDkyL2gyZi84ODI3Mzc2ODYxMjE0LmpwZ3xjZjFhMGM2MGM0ZTM4MDg0NjE5MDY2NTMzZWY4NjZhNjVjMzcxZjgwOGZkNmZlNjY3ZjI2ZmU2NTllYTVhMzE1"
+            }, {
+               "altText" : "kurta.jpg",
+               "format" : "product",
+               "imageType" : "PRIMARY",
+               "url" : "/rrlmpcommercewebservices/v2/medias/24d60f17-4be2-48be-8238-38e01e30e50a-1540970203405-777Wx973H?context=bWFzdGVyfHJvb3R8MTM1MzM2fGltYWdlL2pwZWd8aDdkL2hkNi84ODI3Mzc3NTE2NTc0LmpwZ3w1NzVjYjZiZGUyZDI3MGU4ZGQzNGE5YWVlMDIxZTliOTMxZTg1MWUyY2FiNmRlYzdjOWZmMmRlMTg4Y2IwMGNl"
+            }, {
+               "altText" : "kurta.jpg",
+               "format" : "thumbnail",
+               "imageType" : "PRIMARY",
+               "url" : "/rrlmpcommercewebservices/v2/medias/24d60f17-4be2-48be-8238-38e01e30e50a-1540970203405-239Wx300H?context=bWFzdGVyfHJvb3R8MjQzMzR8aW1hZ2UvanBlZ3xoMmQvaGIxLzg4MjczNzY1OTkwNzAuanBnfDRlZmE5NzM3ODhiODliNDYwMDRkOWExNDRmYjg5MzhjMjM1NjhlMWZlMmFiNzczNjQyMDRhN2MwYWYyYjhiY2Q"
+            }, {
+               "altText" : "kurta.jpg",
+               "format" : "cartIcon",
+               "imageType" : "PRIMARY",
+               "url" : "/rrlmpcommercewebservices/v2/medias/24d60f17-4be2-48be-8238-38e01e30e50a-1540970203405-239Wx300H?context=bWFzdGVyfHJvb3R8MjQzMzR8aW1hZ2UvanBlZ3xoMmQvaGIxLzg4MjczNzY1OTkwNzAuanBnfDRlZmE5NzM3ODhiODliNDYwMDRkOWExNDRmYjg5MzhjMjM1NjhlMWZlMmFiNzczNjQyMDRhN2MwYWYyYjhiY2Q"
+            }, {
+               "altText" : "kurta.jpg",
+               "format" : "zoom",
+               "galleryIndex" : 0,
+               "imageType" : "GALLERY",
+               "url" : "/rrlmpcommercewebservices/v2/medias/24d60f17-4be2-48be-8238-38e01e30e50a-1540970203405-1080Wx1353H?context=bWFzdGVyfHJvb3R8MTMwNDQ1fGltYWdlL2pwZWd8aDkyL2gyZi84ODI3Mzc2ODYxMjE0LmpwZ3xjZjFhMGM2MGM0ZTM4MDg0NjE5MDY2NTMzZWY4NjZhNjVjMzcxZjgwOGZkNmZlNjY3ZjI2ZmU2NTllYTVhMzE1"
+            }, {
+               "altText" : "kurta.jpg",
+               "format" : "product",
+               "galleryIndex" : 0,
+               "imageType" : "GALLERY",
+               "url" : "/rrlmpcommercewebservices/v2/medias/24d60f17-4be2-48be-8238-38e01e30e50a-1540970203405-777Wx973H?context=bWFzdGVyfHJvb3R8MTM1MzM2fGltYWdlL2pwZWd8aDdkL2hkNi84ODI3Mzc3NTE2NTc0LmpwZ3w1NzVjYjZiZGUyZDI3MGU4ZGQzNGE5YWVlMDIxZTliOTMxZTg1MWUyY2FiNmRlYzdjOWZmMmRlMTg4Y2IwMGNl"
+            }, {
+               "altText" : "kurta.jpg",
+               "format" : "thumbnail",
+               "galleryIndex" : 0,
+               "imageType" : "GALLERY",
+               "url" : "/rrlmpcommercewebservices/v2/medias/24d60f17-4be2-48be-8238-38e01e30e50a-1540970203405-239Wx300H?context=bWFzdGVyfHJvb3R8MjQzMzR8aW1hZ2UvanBlZ3xoMmQvaGIxLzg4MjczNzY1OTkwNzAuanBnfDRlZmE5NzM3ODhiODliNDYwMDRkOWExNDRmYjg5MzhjMjM1NjhlMWZlMmFiNzczNjQyMDRhN2MwYWYyYjhiY2Q"
+            } ],
+            "name" : "Men's Kurta Pyja RP",
+            "price" : {
+               "currencyIso" : "INR",
+               "formattedValue" : "INR3,200.00",
+               "priceType" : "BUY",
+               "value" : 3200.0
+            },
+            "purchasable" : true,
+            "url" : "/ROOT/ROOTB2BMCH/FASHION-%26-LIFESTYLE/MENS-CLOTHING/ETHNIC-WEAR/KURTA-PYJAMA-SET/Men%27s-Kurta-Pyja-RP/p/491410361__11ef8c4f-4e6c-48d4-901f-7be17b730a10"
+         },
+         "quantity" : 2,
+         "styleArticleNumber" : "5d1d273d-fedf-4d35-9717-68a2dc259b1b",
+         "styleProductName" : "Breakpoint Men's Cotton Solid Kurta Pyjama Set",
+         "subTotal" : {
+            "currencyIso" : "INR",
+            "value" : 6400.0
+         },
+         "totalPrice" : {
+            "currencyIso" : "INR",
+            "value" : 6400.00
+         },
+         "totalPriceWithTax" : {
+            "currencyIso" : "INR",
+            "value" : 6720.0
+         },
+         "totalQuantity" : 16.0,
+         "totalTax" : {
+            "currencyIso" : "INR",
+            "value" : 320.0
+         }
+      } ],
+      "guid" : "bcff95dd-5800-4b7d-b6c1-8ba2dad7f873",
+      "net" : true,
+      "orderDiscounts" : {
+         "currencyIso" : "INR",
+         "formattedValue" : "INR0.00",
+         "priceType" : "BUY",
+         "value" : 0.0
+      },
+      "pickupItemsQuantity" : 0,
+      "pickupOrderGroups" : [ ],
+      "productDiscounts" : {
+         "currencyIso" : "INR",
+         "formattedValue" : "INR0.00",
+         "priceType" : "BUY",
+         "value" : 0.0
+      },
+      "site" : "rrlmp",
+      "store" : "rrlmp",
+      "subTotal" : {
+         "currencyIso" : "INR",
+         "formattedValue" : "INR7,600.00",
+         "priceType" : "BUY",
+         "value" : 7600.0
+      },
+      "totalDiscounts" : {
+         "currencyIso" : "INR",
+         "formattedValue" : "INR0.00",
+         "priceType" : "BUY",
+         "value" : 0.0
+      },
+      "totalItems" : 2,
+      "totalPrice" : {
+         "currencyIso" : "INR",
+         "formattedValue" : "INR7,600.00",
+         "priceType" : "BUY",
+         "value" : 7600.0
+      },
+      "totalPriceWithTax" : {
+         "currencyIso" : "INR",
+         "formattedValue" : "INR7,980.00",
+         "priceType" : "BUY",
+         "value" : 7980.0
+      },
+      "totalTax" : {
+         "currencyIso" : "INR",
+         "formattedValue" : "INR380.00",
+         "priceType" : "BUY",
+         "value" : 380.0
+      },
+      "user" : {
+         "name" : "Saurabh Gupta",
+         "uid" : "+918892142476"
+      },
+      "cancellationDetail" : {
+         "timeStamp" : "2018-12-11T10:05:38+0000",
+         "totalRefundAmount" : 1260.0
+      },
+      "consignments" : [ ],
+      "created" : "2018-12-11T09:57:37+0000",
+      "guestCustomer" : false,
+      "mpMasterStatus" : {
+         "statusCode" : "Created",
+         "statusValue" : "New Order"
+      },
+      "mpPartialCancelDetails" : [ {
+         "cancelCode" : "CN0000121000",
+         "cancelEntries" : [ {
+            "cancelledQuantity" : 1,
+            "entry" : {
+               "cartDiscounts" : {
+                  "currencyIso" : "INR",
+                  "value" : 0.0
+               },
+               "deliveryCost" : {
+                  "currencyIso" : "INR",
+                  "value" : 0.0
+               },
+               "entryNumber" : 0,
+               "jioCode" : "491410363",
+               "mpMasterStatusData" : {
+                  "statusCode" : "Created",
+                  "statusValue" : "New Order"
+               },
+               "mpPaymentStatus" : {
+                  "statusCode" : "P",
+                  "statusValue" : "Advance Payment Done"
+               },
+               "orderDiscounts" : {
+                  "currencyIso" : "INR",
+                  "value" : 0.0
+               },
+               "product" : {
+                  "baseOptions" : [ ],
+                  "code" : "491410363__b23b5933-a357-4e38-ae45-a301f0f26779",
+                  "description" : "Men's Kurta",
+                  "images" : [ {
+                     "altText" : "kurta1.jpg",
+                     "format" : "zoom",
+                     "imageType" : "PRIMARY",
+                     "url" : "/rrlmpcommercewebservices/v2/medias/0c7f5d91-6fde-4a01-8bdb-67fa8fb2a163-1540969714346-1080Wx1353H?context=bWFzdGVyfHJvb3R8MTUxNDE5fGltYWdlL2pwZWd8aDBkL2hkNi84ODI3MzgwNTk2NzY2LmpwZ3wxN2I0M2I1MWVmMzFlZWU0OGI1NjJkYjhkYjE2NjE1NTQ0ZGYyNmQyNmVhNjIyODlhYWEzMjUxNjNmYjYyYzM2"
+                  }, {
+                     "altText" : "kurta1.jpg",
+                     "format" : "product",
+                     "imageType" : "PRIMARY",
+                     "url" : "/rrlmpcommercewebservices/v2/medias/0c7f5d91-6fde-4a01-8bdb-67fa8fb2a163-1540969714346-777Wx973H?context=bWFzdGVyfHJvb3R8OTI2NTd8aW1hZ2UvanBlZ3xoMDYvaDRmLzg4MjczODA4NTg5MTAuanBnfGVhNjI0NmM0YTY1YmU3YjU0MzBlZjhjMGM1MWE4YmM5ODNhNTlhYzZhNTgxZDk1ZDFjODRhMWNhZDdiMzRjMTQ"
+                  }, {
+                     "altText" : "kurta1.jpg",
+                     "format" : "thumbnail",
+                     "imageType" : "PRIMARY",
+                     "url" : "/rrlmpcommercewebservices/v2/medias/0c7f5d91-6fde-4a01-8bdb-67fa8fb2a163-1540969714346-239Wx300H?context=bWFzdGVyfHJvb3R8MTg3NzV8aW1hZ2UvanBlZ3xoNTUvaDQ0Lzg4MjczODA0NjU2OTQuanBnfDU5OTMzZTUzZmRkNDNjOGI4NTdhMGVjYjFhZDgwNTRkYjNmMzlmZGQyMTNlZDMzODdhOWZiMmM4MjBiZGRhOGU"
+                  }, {
+                     "altText" : "kurta1.jpg",
+                     "format" : "cartIcon",
+                     "imageType" : "PRIMARY",
+                     "url" : "/rrlmpcommercewebservices/v2/medias/0c7f5d91-6fde-4a01-8bdb-67fa8fb2a163-1540969714346-239Wx300H?context=bWFzdGVyfHJvb3R8MTg3NzV8aW1hZ2UvanBlZ3xoNTUvaDQ0Lzg4MjczODA0NjU2OTQuanBnfDU5OTMzZTUzZmRkNDNjOGI4NTdhMGVjYjFhZDgwNTRkYjNmMzlmZGQyMTNlZDMzODdhOWZiMmM4MjBiZGRhOGU"
+                  }, {
+                     "altText" : "kurta1.jpg",
+                     "format" : "zoom",
+                     "galleryIndex" : 0,
+                     "imageType" : "GALLERY",
+                     "url" : "/rrlmpcommercewebservices/v2/medias/0c7f5d91-6fde-4a01-8bdb-67fa8fb2a163-1540969714346-1080Wx1353H?context=bWFzdGVyfHJvb3R8MTUxNDE5fGltYWdlL2pwZWd8aDBkL2hkNi84ODI3MzgwNTk2NzY2LmpwZ3wxN2I0M2I1MWVmMzFlZWU0OGI1NjJkYjhkYjE2NjE1NTQ0ZGYyNmQyNmVhNjIyODlhYWEzMjUxNjNmYjYyYzM2"
+                  }, {
+                     "altText" : "kurta1.jpg",
+                     "format" : "product",
+                     "galleryIndex" : 0,
+                     "imageType" : "GALLERY",
+                     "url" : "/rrlmpcommercewebservices/v2/medias/0c7f5d91-6fde-4a01-8bdb-67fa8fb2a163-1540969714346-777Wx973H?context=bWFzdGVyfHJvb3R8OTI2NTd8aW1hZ2UvanBlZ3xoMDYvaDRmLzg4MjczODA4NTg5MTAuanBnfGVhNjI0NmM0YTY1YmU3YjU0MzBlZjhjMGM1MWE4YmM5ODNhNTlhYzZhNTgxZDk1ZDFjODRhMWNhZDdiMzRjMTQ"
+                  }, {
+                     "altText" : "kurta1.jpg",
+                     "format" : "thumbnail",
+                     "galleryIndex" : 0,
+                     "imageType" : "GALLERY",
+                     "url" : "/rrlmpcommercewebservices/v2/medias/0c7f5d91-6fde-4a01-8bdb-67fa8fb2a163-1540969714346-239Wx300H?context=bWFzdGVyfHJvb3R8MTg3NzV8aW1hZ2UvanBlZ3xoNTUvaDQ0Lzg4MjczODA0NjU2OTQuanBnfDU5OTMzZTUzZmRkNDNjOGI4NTdhMGVjYjFhZDgwNTRkYjNmMzlmZGQyMTNlZDMzODdhOWZiMmM4MjBiZGRhOGU"
+                  } ],
+                  "name" : "Men's Kurta",
+                  "price" : {
+                     "currencyIso" : "INR",
+                     "formattedValue" : "INR1,200.00",
+                     "priceType" : "BUY",
+                     "value" : 1200.0
+                  },
+                  "purchasable" : true,
+                  "url" : "/ROOT/ROOTB2BMCH/FASHION-%26-LIFESTYLE/MENS-CLOTHING/ETHNIC-WEAR/KURTAS/Men%27s-Kurta/p/491410363__b23b5933-a357-4e38-ae45-a301f0f26779"
+               },
+               "quantity" : 1,
+               "styleArticleNumber" : "bce8a8b3-25bd-4c6c-9560-20fe82f5b5ad",
+               "styleProductName" : "Breakpoint Men's Cotton Solid Long Kurta",
+               "subTotal" : {
+                  "currencyIso" : "INR",
+                  "value" : 1200.0
+               },
+               "totalPrice" : {
+                  "currencyIso" : "INR",
+                  "value" : 1200.00
+               },
+               "totalPriceWithTax" : {
+                  "currencyIso" : "INR",
+                  "value" : 1260.0
+               },
+               "totalQuantity" : 6.0,
+               "totalTax" : {
+                  "currencyIso" : "INR",
+                  "value" : 60.0
+               }
+            }
+         } ],
+         "cancelationDate" : "2018-12-11T10:05:38+0000",
+         "cancelationStatus" : "SUCCESSFULL"
+      } ],
+      "sellerOrderGroups" : [ {
+         "entries" : [ {
+            "cartDiscounts" : {
+               "currencyIso" : "INR",
+               "value" : 0.0
+            },
+            "deliveryCost" : {
+               "currencyIso" : "INR",
+               "value" : 0.0
+            },
+            "entryNumber" : 0,
+            "jioCode" : "491410363",
+            "mpMasterStatusData" : {
+               "statusCode" : "Created",
+               "statusValue" : "New Order"
+            },
+            "mpPaymentStatus" : {
+               "statusCode" : "P",
+               "statusValue" : "Advance Payment Done"
+            },
+            "orderDiscounts" : {
+               "currencyIso" : "INR",
+               "value" : 0.0
+            },
+            "product" : {
+               "baseOptions" : [ ],
+               "code" : "491410363__b23b5933-a357-4e38-ae45-a301f0f26779",
+               "description" : "Men's Kurta",
+               "images" : [ {
+                  "altText" : "kurta1.jpg",
+                  "format" : "zoom",
+                  "imageType" : "PRIMARY",
+                  "url" : "/rrlmpcommercewebservices/v2/medias/0c7f5d91-6fde-4a01-8bdb-67fa8fb2a163-1540969714346-1080Wx1353H?context=bWFzdGVyfHJvb3R8MTUxNDE5fGltYWdlL2pwZWd8aDBkL2hkNi84ODI3MzgwNTk2NzY2LmpwZ3wxN2I0M2I1MWVmMzFlZWU0OGI1NjJkYjhkYjE2NjE1NTQ0ZGYyNmQyNmVhNjIyODlhYWEzMjUxNjNmYjYyYzM2"
+               }, {
+                  "altText" : "kurta1.jpg",
+                  "format" : "product",
+                  "imageType" : "PRIMARY",
+                  "url" : "/rrlmpcommercewebservices/v2/medias/0c7f5d91-6fde-4a01-8bdb-67fa8fb2a163-1540969714346-777Wx973H?context=bWFzdGVyfHJvb3R8OTI2NTd8aW1hZ2UvanBlZ3xoMDYvaDRmLzg4MjczODA4NTg5MTAuanBnfGVhNjI0NmM0YTY1YmU3YjU0MzBlZjhjMGM1MWE4YmM5ODNhNTlhYzZhNTgxZDk1ZDFjODRhMWNhZDdiMzRjMTQ"
+               }, {
+                  "altText" : "kurta1.jpg",
+                  "format" : "thumbnail",
+                  "imageType" : "PRIMARY",
+                  "url" : "/rrlmpcommercewebservices/v2/medias/0c7f5d91-6fde-4a01-8bdb-67fa8fb2a163-1540969714346-239Wx300H?context=bWFzdGVyfHJvb3R8MTg3NzV8aW1hZ2UvanBlZ3xoNTUvaDQ0Lzg4MjczODA0NjU2OTQuanBnfDU5OTMzZTUzZmRkNDNjOGI4NTdhMGVjYjFhZDgwNTRkYjNmMzlmZGQyMTNlZDMzODdhOWZiMmM4MjBiZGRhOGU"
+               }, {
+                  "altText" : "kurta1.jpg",
+                  "format" : "cartIcon",
+                  "imageType" : "PRIMARY",
+                  "url" : "/rrlmpcommercewebservices/v2/medias/0c7f5d91-6fde-4a01-8bdb-67fa8fb2a163-1540969714346-239Wx300H?context=bWFzdGVyfHJvb3R8MTg3NzV8aW1hZ2UvanBlZ3xoNTUvaDQ0Lzg4MjczODA0NjU2OTQuanBnfDU5OTMzZTUzZmRkNDNjOGI4NTdhMGVjYjFhZDgwNTRkYjNmMzlmZGQyMTNlZDMzODdhOWZiMmM4MjBiZGRhOGU"
+               }, {
+                  "altText" : "kurta1.jpg",
+                  "format" : "zoom",
+                  "galleryIndex" : 0,
+                  "imageType" : "GALLERY",
+                  "url" : "/rrlmpcommercewebservices/v2/medias/0c7f5d91-6fde-4a01-8bdb-67fa8fb2a163-1540969714346-1080Wx1353H?context=bWFzdGVyfHJvb3R8MTUxNDE5fGltYWdlL2pwZWd8aDBkL2hkNi84ODI3MzgwNTk2NzY2LmpwZ3wxN2I0M2I1MWVmMzFlZWU0OGI1NjJkYjhkYjE2NjE1NTQ0ZGYyNmQyNmVhNjIyODlhYWEzMjUxNjNmYjYyYzM2"
+               }, {
+                  "altText" : "kurta1.jpg",
+                  "format" : "product",
+                  "galleryIndex" : 0,
+                  "imageType" : "GALLERY",
+                  "url" : "/rrlmpcommercewebservices/v2/medias/0c7f5d91-6fde-4a01-8bdb-67fa8fb2a163-1540969714346-777Wx973H?context=bWFzdGVyfHJvb3R8OTI2NTd8aW1hZ2UvanBlZ3xoMDYvaDRmLzg4MjczODA4NTg5MTAuanBnfGVhNjI0NmM0YTY1YmU3YjU0MzBlZjhjMGM1MWE4YmM5ODNhNTlhYzZhNTgxZDk1ZDFjODRhMWNhZDdiMzRjMTQ"
+               }, {
+                  "altText" : "kurta1.jpg",
+                  "format" : "thumbnail",
+                  "galleryIndex" : 0,
+                  "imageType" : "GALLERY",
+                  "url" : "/rrlmpcommercewebservices/v2/medias/0c7f5d91-6fde-4a01-8bdb-67fa8fb2a163-1540969714346-239Wx300H?context=bWFzdGVyfHJvb3R8MTg3NzV8aW1hZ2UvanBlZ3xoNTUvaDQ0Lzg4MjczODA0NjU2OTQuanBnfDU5OTMzZTUzZmRkNDNjOGI4NTdhMGVjYjFhZDgwNTRkYjNmMzlmZGQyMTNlZDMzODdhOWZiMmM4MjBiZGRhOGU"
+               } ],
+               "name" : "Men's Kurta",
+               "price" : {
+                  "currencyIso" : "INR",
+                  "formattedValue" : "INR1,200.00",
+                  "priceType" : "BUY",
+                  "value" : 1200.0
+               },
+               "purchasable" : true,
+               "url" : "/ROOT/ROOTB2BMCH/FASHION-%26-LIFESTYLE/MENS-CLOTHING/ETHNIC-WEAR/KURTAS/Men%27s-Kurta/p/491410363__b23b5933-a357-4e38-ae45-a301f0f26779"
+            },
+            "quantity" : 1,
+            "styleArticleNumber" : "bce8a8b3-25bd-4c6c-9560-20fe82f5b5ad",
+            "styleProductName" : "Breakpoint Men's Cotton Solid Long Kurta",
+            "subTotal" : {
+               "currencyIso" : "INR",
+               "value" : 1200.0
+            },
+            "totalPrice" : {
+               "currencyIso" : "INR",
+               "value" : 1200.00
+            },
+            "totalPriceWithTax" : {
+               "currencyIso" : "INR",
+               "value" : 1260.0
+            },
+            "totalQuantity" : 6.0,
+            "totalTax" : {
+               "currencyIso" : "INR",
+               "value" : 60.0
+            }
+         }, {
+            "cartDiscounts" : {
+               "currencyIso" : "INR",
+               "value" : 0.0
+            },
+            "deliveryCost" : {
+               "currencyIso" : "INR",
+               "value" : 0.0
+            },
+            "entryNumber" : 1,
+            "jioCode" : "491410361",
+            "mpMasterStatusData" : {
+               "statusCode" : "Created",
+               "statusValue" : "New Order"
+            },
+            "mpPaymentStatus" : {
+               "statusCode" : "P",
+               "statusValue" : "Advance Payment Done"
+            },
+            "orderDiscounts" : {
+               "currencyIso" : "INR",
+               "value" : 0.0
+            },
+            "product" : {
+               "baseOptions" : [ ],
+               "code" : "491410361__11ef8c4f-4e6c-48d4-901f-7be17b730a10",
+               "description" : "Men's Kurta Pyja RP",
+               "images" : [ {
+                  "altText" : "kurta.jpg",
+                  "format" : "zoom",
+                  "imageType" : "PRIMARY",
+                  "url" : "/rrlmpcommercewebservices/v2/medias/24d60f17-4be2-48be-8238-38e01e30e50a-1540970203405-1080Wx1353H?context=bWFzdGVyfHJvb3R8MTMwNDQ1fGltYWdlL2pwZWd8aDkyL2gyZi84ODI3Mzc2ODYxMjE0LmpwZ3xjZjFhMGM2MGM0ZTM4MDg0NjE5MDY2NTMzZWY4NjZhNjVjMzcxZjgwOGZkNmZlNjY3ZjI2ZmU2NTllYTVhMzE1"
+               }, {
+                  "altText" : "kurta.jpg",
+                  "format" : "product",
+                  "imageType" : "PRIMARY",
+                  "url" : "/rrlmpcommercewebservices/v2/medias/24d60f17-4be2-48be-8238-38e01e30e50a-1540970203405-777Wx973H?context=bWFzdGVyfHJvb3R8MTM1MzM2fGltYWdlL2pwZWd8aDdkL2hkNi84ODI3Mzc3NTE2NTc0LmpwZ3w1NzVjYjZiZGUyZDI3MGU4ZGQzNGE5YWVlMDIxZTliOTMxZTg1MWUyY2FiNmRlYzdjOWZmMmRlMTg4Y2IwMGNl"
+               }, {
+                  "altText" : "kurta.jpg",
+                  "format" : "thumbnail",
+                  "imageType" : "PRIMARY",
+                  "url" : "/rrlmpcommercewebservices/v2/medias/24d60f17-4be2-48be-8238-38e01e30e50a-1540970203405-239Wx300H?context=bWFzdGVyfHJvb3R8MjQzMzR8aW1hZ2UvanBlZ3xoMmQvaGIxLzg4MjczNzY1OTkwNzAuanBnfDRlZmE5NzM3ODhiODliNDYwMDRkOWExNDRmYjg5MzhjMjM1NjhlMWZlMmFiNzczNjQyMDRhN2MwYWYyYjhiY2Q"
+               }, {
+                  "altText" : "kurta.jpg",
+                  "format" : "cartIcon",
+                  "imageType" : "PRIMARY",
+                  "url" : "/rrlmpcommercewebservices/v2/medias/24d60f17-4be2-48be-8238-38e01e30e50a-1540970203405-239Wx300H?context=bWFzdGVyfHJvb3R8MjQzMzR8aW1hZ2UvanBlZ3xoMmQvaGIxLzg4MjczNzY1OTkwNzAuanBnfDRlZmE5NzM3ODhiODliNDYwMDRkOWExNDRmYjg5MzhjMjM1NjhlMWZlMmFiNzczNjQyMDRhN2MwYWYyYjhiY2Q"
+               }, {
+                  "altText" : "kurta.jpg",
+                  "format" : "zoom",
+                  "galleryIndex" : 0,
+                  "imageType" : "GALLERY",
+                  "url" : "/rrlmpcommercewebservices/v2/medias/24d60f17-4be2-48be-8238-38e01e30e50a-1540970203405-1080Wx1353H?context=bWFzdGVyfHJvb3R8MTMwNDQ1fGltYWdlL2pwZWd8aDkyL2gyZi84ODI3Mzc2ODYxMjE0LmpwZ3xjZjFhMGM2MGM0ZTM4MDg0NjE5MDY2NTMzZWY4NjZhNjVjMzcxZjgwOGZkNmZlNjY3ZjI2ZmU2NTllYTVhMzE1"
+               }, {
+                  "altText" : "kurta.jpg",
+                  "format" : "product",
+                  "galleryIndex" : 0,
+                  "imageType" : "GALLERY",
+                  "url" : "/rrlmpcommercewebservices/v2/medias/24d60f17-4be2-48be-8238-38e01e30e50a-1540970203405-777Wx973H?context=bWFzdGVyfHJvb3R8MTM1MzM2fGltYWdlL2pwZWd8aDdkL2hkNi84ODI3Mzc3NTE2NTc0LmpwZ3w1NzVjYjZiZGUyZDI3MGU4ZGQzNGE5YWVlMDIxZTliOTMxZTg1MWUyY2FiNmRlYzdjOWZmMmRlMTg4Y2IwMGNl"
+               }, {
+                  "altText" : "kurta.jpg",
+                  "format" : "thumbnail",
+                  "galleryIndex" : 0,
+                  "imageType" : "GALLERY",
+                  "url" : "/rrlmpcommercewebservices/v2/medias/24d60f17-4be2-48be-8238-38e01e30e50a-1540970203405-239Wx300H?context=bWFzdGVyfHJvb3R8MjQzMzR8aW1hZ2UvanBlZ3xoMmQvaGIxLzg4MjczNzY1OTkwNzAuanBnfDRlZmE5NzM3ODhiODliNDYwMDRkOWExNDRmYjg5MzhjMjM1NjhlMWZlMmFiNzczNjQyMDRhN2MwYWYyYjhiY2Q"
+               } ],
+               "name" : "Men's Kurta Pyja RP",
+               "price" : {
+                  "currencyIso" : "INR",
+                  "formattedValue" : "INR3,200.00",
+                  "priceType" : "BUY",
+                  "value" : 3200.0
+               },
+               "purchasable" : true,
+               "url" : "/ROOT/ROOTB2BMCH/FASHION-%26-LIFESTYLE/MENS-CLOTHING/ETHNIC-WEAR/KURTA-PYJAMA-SET/Men%27s-Kurta-Pyja-RP/p/491410361__11ef8c4f-4e6c-48d4-901f-7be17b730a10"
+            },
+            "quantity" : 2,
+            "styleArticleNumber" : "5d1d273d-fedf-4d35-9717-68a2dc259b1b",
+            "styleProductName" : "Breakpoint Men's Cotton Solid Kurta Pyjama Set",
+            "subTotal" : {
+               "currencyIso" : "INR",
+               "value" : 6400.0
+            },
+            "totalPrice" : {
+               "currencyIso" : "INR",
+               "value" : 6400.00
+            },
+            "totalPriceWithTax" : {
+               "currencyIso" : "INR",
+               "value" : 6720.0
+            },
+            "totalQuantity" : 16.0,
+            "totalTax" : {
+               "currencyIso" : "INR",
+               "value" : 320.0
+            }
+         } ],
+         "sellerDetails" : {
+            "code" : "T00079010",
+            "name" : "Test_Inventory1"
+         }
+      } ],
+      "status" : "CREATED",
+      "statusDisplay" : "created",
+      "total" : {
+         "currencyIso" : "INR",
+         "value" : 7980.0
+      },
+      "unconsignedEntries" : [ {
+         "cartDiscounts" : {
+            "currencyIso" : "INR",
+            "value" : 0.0
+         },
+         "deliveryCost" : {
+            "currencyIso" : "INR",
+            "value" : 0.0
+         },
+         "entryNumber" : 0,
+         "jioCode" : "491410363",
+         "mpMasterStatusData" : {
+            "statusCode" : "Created",
+            "statusValue" : "New Order"
+         },
+         "mpPaymentStatus" : {
+            "statusCode" : "P",
+            "statusValue" : "Advance Payment Done"
+         },
+         "orderDiscounts" : {
+            "currencyIso" : "INR",
+            "value" : 0.0
+         },
+         "product" : {
+            "baseOptions" : [ ],
+            "code" : "491410363__b23b5933-a357-4e38-ae45-a301f0f26779",
+            "description" : "Men's Kurta",
+            "images" : [ {
+               "altText" : "kurta1.jpg",
+               "format" : "zoom",
+               "imageType" : "PRIMARY",
+               "url" : "/rrlmpcommercewebservices/v2/medias/0c7f5d91-6fde-4a01-8bdb-67fa8fb2a163-1540969714346-1080Wx1353H?context=bWFzdGVyfHJvb3R8MTUxNDE5fGltYWdlL2pwZWd8aDBkL2hkNi84ODI3MzgwNTk2NzY2LmpwZ3wxN2I0M2I1MWVmMzFlZWU0OGI1NjJkYjhkYjE2NjE1NTQ0ZGYyNmQyNmVhNjIyODlhYWEzMjUxNjNmYjYyYzM2"
+            }, {
+               "altText" : "kurta1.jpg",
+               "format" : "product",
+               "imageType" : "PRIMARY",
+               "url" : "/rrlmpcommercewebservices/v2/medias/0c7f5d91-6fde-4a01-8bdb-67fa8fb2a163-1540969714346-777Wx973H?context=bWFzdGVyfHJvb3R8OTI2NTd8aW1hZ2UvanBlZ3xoMDYvaDRmLzg4MjczODA4NTg5MTAuanBnfGVhNjI0NmM0YTY1YmU3YjU0MzBlZjhjMGM1MWE4YmM5ODNhNTlhYzZhNTgxZDk1ZDFjODRhMWNhZDdiMzRjMTQ"
+            }, {
+               "altText" : "kurta1.jpg",
+               "format" : "thumbnail",
+               "imageType" : "PRIMARY",
+               "url" : "/rrlmpcommercewebservices/v2/medias/0c7f5d91-6fde-4a01-8bdb-67fa8fb2a163-1540969714346-239Wx300H?context=bWFzdGVyfHJvb3R8MTg3NzV8aW1hZ2UvanBlZ3xoNTUvaDQ0Lzg4MjczODA0NjU2OTQuanBnfDU5OTMzZTUzZmRkNDNjOGI4NTdhMGVjYjFhZDgwNTRkYjNmMzlmZGQyMTNlZDMzODdhOWZiMmM4MjBiZGRhOGU"
+            }, {
+               "altText" : "kurta1.jpg",
+               "format" : "cartIcon",
+               "imageType" : "PRIMARY",
+               "url" : "/rrlmpcommercewebservices/v2/medias/0c7f5d91-6fde-4a01-8bdb-67fa8fb2a163-1540969714346-239Wx300H?context=bWFzdGVyfHJvb3R8MTg3NzV8aW1hZ2UvanBlZ3xoNTUvaDQ0Lzg4MjczODA0NjU2OTQuanBnfDU5OTMzZTUzZmRkNDNjOGI4NTdhMGVjYjFhZDgwNTRkYjNmMzlmZGQyMTNlZDMzODdhOWZiMmM4MjBiZGRhOGU"
+            }, {
+               "altText" : "kurta1.jpg",
+               "format" : "zoom",
+               "galleryIndex" : 0,
+               "imageType" : "GALLERY",
+               "url" : "/rrlmpcommercewebservices/v2/medias/0c7f5d91-6fde-4a01-8bdb-67fa8fb2a163-1540969714346-1080Wx1353H?context=bWFzdGVyfHJvb3R8MTUxNDE5fGltYWdlL2pwZWd8aDBkL2hkNi84ODI3MzgwNTk2NzY2LmpwZ3wxN2I0M2I1MWVmMzFlZWU0OGI1NjJkYjhkYjE2NjE1NTQ0ZGYyNmQyNmVhNjIyODlhYWEzMjUxNjNmYjYyYzM2"
+            }, {
+               "altText" : "kurta1.jpg",
+               "format" : "product",
+               "galleryIndex" : 0,
+               "imageType" : "GALLERY",
+               "url" : "/rrlmpcommercewebservices/v2/medias/0c7f5d91-6fde-4a01-8bdb-67fa8fb2a163-1540969714346-777Wx973H?context=bWFzdGVyfHJvb3R8OTI2NTd8aW1hZ2UvanBlZ3xoMDYvaDRmLzg4MjczODA4NTg5MTAuanBnfGVhNjI0NmM0YTY1YmU3YjU0MzBlZjhjMGM1MWE4YmM5ODNhNTlhYzZhNTgxZDk1ZDFjODRhMWNhZDdiMzRjMTQ"
+            }, {
+               "altText" : "kurta1.jpg",
+               "format" : "thumbnail",
+               "galleryIndex" : 0,
+               "imageType" : "GALLERY",
+               "url" : "/rrlmpcommercewebservices/v2/medias/0c7f5d91-6fde-4a01-8bdb-67fa8fb2a163-1540969714346-239Wx300H?context=bWFzdGVyfHJvb3R8MTg3NzV8aW1hZ2UvanBlZ3xoNTUvaDQ0Lzg4MjczODA0NjU2OTQuanBnfDU5OTMzZTUzZmRkNDNjOGI4NTdhMGVjYjFhZDgwNTRkYjNmMzlmZGQyMTNlZDMzODdhOWZiMmM4MjBiZGRhOGU"
+            } ],
+            "name" : "Men's Kurta",
+            "price" : {
+               "currencyIso" : "INR",
+               "formattedValue" : "INR1,200.00",
+               "priceType" : "BUY",
+               "value" : 1200.0
+            },
+            "purchasable" : true,
+            "url" : "/ROOT/ROOTB2BMCH/FASHION-%26-LIFESTYLE/MENS-CLOTHING/ETHNIC-WEAR/KURTAS/Men%27s-Kurta/p/491410363__b23b5933-a357-4e38-ae45-a301f0f26779"
+         },
+         "quantity" : 1,
+         "styleArticleNumber" : "bce8a8b3-25bd-4c6c-9560-20fe82f5b5ad",
+         "styleProductName" : "Breakpoint Men's Cotton Solid Long Kurta",
+         "subTotal" : {
+            "currencyIso" : "INR",
+            "value" : 1200.0
+         },
+         "totalPrice" : {
+            "currencyIso" : "INR",
+            "value" : 1200.00
+         },
+         "totalPriceWithTax" : {
+            "currencyIso" : "INR",
+            "value" : 1260.0
+         },
+         "totalQuantity" : 6.0,
+         "totalTax" : {
+            "currencyIso" : "INR",
+            "value" : 60.0
+         }
+      }, {
+         "cartDiscounts" : {
+            "currencyIso" : "INR",
+            "value" : 0.0
+         },
+         "deliveryCost" : {
+            "currencyIso" : "INR",
+            "value" : 0.0
+         },
+         "entryNumber" : 1,
+         "jioCode" : "491410361",
+         "mpMasterStatusData" : {
+            "statusCode" : "Created",
+            "statusValue" : "New Order"
+         },
+         "mpPaymentStatus" : {
+            "statusCode" : "P",
+            "statusValue" : "Advance Payment Done"
+         },
+         "orderDiscounts" : {
+            "currencyIso" : "INR",
+            "value" : 0.0
+         },
+         "product" : {
+            "baseOptions" : [ ],
+            "code" : "491410361__11ef8c4f-4e6c-48d4-901f-7be17b730a10",
+            "description" : "Men's Kurta Pyja RP",
+            "images" : [ {
+               "altText" : "kurta.jpg",
+               "format" : "zoom",
+               "imageType" : "PRIMARY",
+               "url" : "/rrlmpcommercewebservices/v2/medias/24d60f17-4be2-48be-8238-38e01e30e50a-1540970203405-1080Wx1353H?context=bWFzdGVyfHJvb3R8MTMwNDQ1fGltYWdlL2pwZWd8aDkyL2gyZi84ODI3Mzc2ODYxMjE0LmpwZ3xjZjFhMGM2MGM0ZTM4MDg0NjE5MDY2NTMzZWY4NjZhNjVjMzcxZjgwOGZkNmZlNjY3ZjI2ZmU2NTllYTVhMzE1"
+            }, {
+               "altText" : "kurta.jpg",
+               "format" : "product",
+               "imageType" : "PRIMARY",
+               "url" : "/rrlmpcommercewebservices/v2/medias/24d60f17-4be2-48be-8238-38e01e30e50a-1540970203405-777Wx973H?context=bWFzdGVyfHJvb3R8MTM1MzM2fGltYWdlL2pwZWd8aDdkL2hkNi84ODI3Mzc3NTE2NTc0LmpwZ3w1NzVjYjZiZGUyZDI3MGU4ZGQzNGE5YWVlMDIxZTliOTMxZTg1MWUyY2FiNmRlYzdjOWZmMmRlMTg4Y2IwMGNl"
+            }, {
+               "altText" : "kurta.jpg",
+               "format" : "thumbnail",
+               "imageType" : "PRIMARY",
+               "url" : "/rrlmpcommercewebservices/v2/medias/24d60f17-4be2-48be-8238-38e01e30e50a-1540970203405-239Wx300H?context=bWFzdGVyfHJvb3R8MjQzMzR8aW1hZ2UvanBlZ3xoMmQvaGIxLzg4MjczNzY1OTkwNzAuanBnfDRlZmE5NzM3ODhiODliNDYwMDRkOWExNDRmYjg5MzhjMjM1NjhlMWZlMmFiNzczNjQyMDRhN2MwYWYyYjhiY2Q"
+            }, {
+               "altText" : "kurta.jpg",
+               "format" : "cartIcon",
+               "imageType" : "PRIMARY",
+               "url" : "/rrlmpcommercewebservices/v2/medias/24d60f17-4be2-48be-8238-38e01e30e50a-1540970203405-239Wx300H?context=bWFzdGVyfHJvb3R8MjQzMzR8aW1hZ2UvanBlZ3xoMmQvaGIxLzg4MjczNzY1OTkwNzAuanBnfDRlZmE5NzM3ODhiODliNDYwMDRkOWExNDRmYjg5MzhjMjM1NjhlMWZlMmFiNzczNjQyMDRhN2MwYWYyYjhiY2Q"
+            }, {
+               "altText" : "kurta.jpg",
+               "format" : "zoom",
+               "galleryIndex" : 0,
+               "imageType" : "GALLERY",
+               "url" : "/rrlmpcommercewebservices/v2/medias/24d60f17-4be2-48be-8238-38e01e30e50a-1540970203405-1080Wx1353H?context=bWFzdGVyfHJvb3R8MTMwNDQ1fGltYWdlL2pwZWd8aDkyL2gyZi84ODI3Mzc2ODYxMjE0LmpwZ3xjZjFhMGM2MGM0ZTM4MDg0NjE5MDY2NTMzZWY4NjZhNjVjMzcxZjgwOGZkNmZlNjY3ZjI2ZmU2NTllYTVhMzE1"
+            }, {
+               "altText" : "kurta.jpg",
+               "format" : "product",
+               "galleryIndex" : 0,
+               "imageType" : "GALLERY",
+               "url" : "/rrlmpcommercewebservices/v2/medias/24d60f17-4be2-48be-8238-38e01e30e50a-1540970203405-777Wx973H?context=bWFzdGVyfHJvb3R8MTM1MzM2fGltYWdlL2pwZWd8aDdkL2hkNi84ODI3Mzc3NTE2NTc0LmpwZ3w1NzVjYjZiZGUyZDI3MGU4ZGQzNGE5YWVlMDIxZTliOTMxZTg1MWUyY2FiNmRlYzdjOWZmMmRlMTg4Y2IwMGNl"
+            }, {
+               "altText" : "kurta.jpg",
+               "format" : "thumbnail",
+               "galleryIndex" : 0,
+               "imageType" : "GALLERY",
+               "url" : "/rrlmpcommercewebservices/v2/medias/24d60f17-4be2-48be-8238-38e01e30e50a-1540970203405-239Wx300H?context=bWFzdGVyfHJvb3R8MjQzMzR8aW1hZ2UvanBlZ3xoMmQvaGIxLzg4MjczNzY1OTkwNzAuanBnfDRlZmE5NzM3ODhiODliNDYwMDRkOWExNDRmYjg5MzhjMjM1NjhlMWZlMmFiNzczNjQyMDRhN2MwYWYyYjhiY2Q"
+            } ],
+            "name" : "Men's Kurta Pyja RP",
+            "price" : {
+               "currencyIso" : "INR",
+               "formattedValue" : "INR3,200.00",
+               "priceType" : "BUY",
+               "value" : 3200.0
+            },
+            "purchasable" : true,
+            "url" : "/ROOT/ROOTB2BMCH/FASHION-%26-LIFESTYLE/MENS-CLOTHING/ETHNIC-WEAR/KURTA-PYJAMA-SET/Men%27s-Kurta-Pyja-RP/p/491410361__11ef8c4f-4e6c-48d4-901f-7be17b730a10"
+         },
+         "quantity" : 2,
+         "styleArticleNumber" : "5d1d273d-fedf-4d35-9717-68a2dc259b1b",
+         "styleProductName" : "Breakpoint Men's Cotton Solid Kurta Pyjama Set",
+         "subTotal" : {
+            "currencyIso" : "INR",
+            "value" : 6400.0
+         },
+         "totalPrice" : {
+            "currencyIso" : "INR",
+            "value" : 6400.00
+         },
+         "totalPriceWithTax" : {
+            "currencyIso" : "INR",
+            "value" : 6720.0
+         },
+         "totalQuantity" : 16.0,
+         "totalTax" : {
+            "currencyIso" : "INR",
+            "value" : 320.0
+         }
+      } ]
+   } ],
+   "pagination" : {
+      "currentPage" : 0,
+      "pageSize" : 20,
+      "sort" : "byDate",
+      "totalPages" : 1,
+      "totalResults" : 1
+   },
+   "sorts" : [ {
+      "code" : "byDate",
+      "selected" : true
+   }, {
+      "code" : "byOrderNumber",
+      "selected" : false
+   } ]
+}
