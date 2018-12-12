@@ -1,0 +1,1377 @@
+{
+   "type" : "productCategorySearchPageWsDTO",
+   "breadcrumbs" : [ {
+      "facetCode" : "allCategories",
+      "facetName" : "allCategories",
+      "facetValueCode" : "n1010",
+      "facetValueName" : "n1010",
+      "removeQuery" : {
+         "query" : {
+            "value" : "shirts:relevance"
+         },
+         "url" : "/search?q=shirts%3Arelevance"
+      }
+   } ],
+   "currentQuery" : {
+      "query" : {
+         "value" : "shirts:relevance:allCategories:n1010"
+      },
+      "url" : "/search?q=shirts%3Arelevance%3AallCategories%3An1010"
+   },
+   "facets" : [ {
+      "category" : false,
+      "code" : "type",
+      "multiSelect" : true,
+      "name" : "Type",
+      "priority" : 100,
+      "values" : [ {
+         "code" : "Casual Shirt",
+         "count" : 109,
+         "name" : "Casual Shirt",
+         "query" : {
+            "query" : {
+               "value" : "shirts:relevance:allCategories:n1010:type:Casual+Shirt"
+            },
+            "url" : "/search?q=shirts%3Arelevance%3AallCategories%3An1010%3Atype%3ACasual%2BShirt"
+         },
+         "selected" : false
+      }, {
+         "code" : "Party Shirt",
+         "count" : 2,
+         "name" : "Party Shirt",
+         "query" : {
+            "query" : {
+               "value" : "shirts:relevance:allCategories:n1010:type:Party+Shirt"
+            },
+            "url" : "/search?q=shirts%3Arelevance%3AallCategories%3An1010%3Atype%3AParty%2BShirt"
+         },
+         "selected" : false
+      } ],
+      "visible" : true
+   }, {
+      "category" : false,
+      "code" : "sleeveLength",
+      "multiSelect" : true,
+      "name" : "Sleeve Length",
+      "priority" : 100,
+      "values" : [ {
+         "code" : "Full Sleeves",
+         "count" : 99,
+         "name" : "Full Sleeves",
+         "query" : {
+            "query" : {
+               "value" : "shirts:relevance:allCategories:n1010:sleeveLength:Full+Sleeves"
+            },
+            "url" : "/search?q=shirts%3Arelevance%3AallCategories%3An1010%3AsleeveLength%3AFull%2BSleeves"
+         },
+         "selected" : false
+      }, {
+         "code" : "Half Sleeves",
+         "count" : 12,
+         "name" : "Half Sleeves",
+         "query" : {
+            "query" : {
+               "value" : "shirts:relevance:allCategories:n1010:sleeveLength:Half+Sleeves"
+            },
+            "url" : "/search?q=shirts%3Arelevance%3AallCategories%3An1010%3AsleeveLength%3AHalf%2BSleeves"
+         },
+         "selected" : false
+      } ],
+      "visible" : true
+   }, {
+      "category" : false,
+      "code" : "size",
+      "multiSelect" : true,
+      "name" : "Size",
+      "priority" : 100,
+      "values" : [ {
+         "code" : "Size_STANDARD_S",
+         "count" : 75,
+         "name" : "S",
+         "query" : {
+            "query" : {
+               "value" : "shirts:relevance:allCategories:n1010:size:Size_STANDARD_S"
+            },
+            "url" : "/search?q=shirts%3Arelevance%3AallCategories%3An1010%3Asize%3ASize_STANDARD_S"
+         },
+         "selected" : false
+      }, {
+         "code" : "Size_STANDARD_L",
+         "count" : 20,
+         "name" : "L",
+         "query" : {
+            "query" : {
+               "value" : "shirts:relevance:allCategories:n1010:size:Size_STANDARD_L"
+            },
+            "url" : "/search?q=shirts%3Arelevance%3AallCategories%3An1010%3Asize%3ASize_STANDARD_L"
+         },
+         "selected" : false
+      }, {
+         "code" : "Size_STANDARD_M",
+         "count" : 14,
+         "name" : "M",
+         "query" : {
+            "query" : {
+               "value" : "shirts:relevance:allCategories:n1010:size:Size_STANDARD_M"
+            },
+            "url" : "/search?q=shirts%3Arelevance%3AallCategories%3An1010%3Asize%3ASize_STANDARD_M"
+         },
+         "selected" : false
+      }, {
+         "code" : "Size_STANDARD_XL",
+         "count" : 5,
+         "name" : "XL",
+         "query" : {
+            "query" : {
+               "value" : "shirts:relevance:allCategories:n1010:size:Size_STANDARD_XL"
+            },
+            "url" : "/search?q=shirts%3Arelevance%3AallCategories%3An1010%3Asize%3ASize_STANDARD_XL"
+         },
+         "selected" : false
+      }, {
+         "code" : "Size_STANDARD_XS",
+         "count" : 4,
+         "name" : "XS",
+         "query" : {
+            "query" : {
+               "value" : "shirts:relevance:allCategories:n1010:size:Size_STANDARD_XS"
+            },
+            "url" : "/search?q=shirts%3Arelevance%3AallCategories%3An1010%3Asize%3ASize_STANDARD_XS"
+         },
+         "selected" : false
+      }, {
+         "code" : "Size_STANDARD_3XL",
+         "count" : 2,
+         "name" : "3XL",
+         "query" : {
+            "query" : {
+               "value" : "shirts:relevance:allCategories:n1010:size:Size_STANDARD_3XL"
+            },
+            "url" : "/search?q=shirts%3Arelevance%3AallCategories%3An1010%3Asize%3ASize_STANDARD_3XL"
+         },
+         "selected" : false
+      }, {
+         "code" : "Size_STANDARD_XXL",
+         "count" : 2,
+         "name" : "XXL",
+         "query" : {
+            "query" : {
+               "value" : "shirts:relevance:allCategories:n1010:size:Size_STANDARD_XXL"
+            },
+            "url" : "/search?q=shirts%3Arelevance%3AallCategories%3An1010%3Asize%3ASize_STANDARD_XXL"
+         },
+         "selected" : false
+      } ],
+      "visible" : true
+   }, {
+      "category" : false,
+      "code" : "season",
+      "multiSelect" : true,
+      "name" : "Season",
+      "priority" : 100,
+      "values" : [ {
+         "code" : "Summer",
+         "count" : 98,
+         "name" : "Summer",
+         "query" : {
+            "query" : {
+               "value" : "shirts:relevance:allCategories:n1010:season:Summer"
+            },
+            "url" : "/search?q=shirts%3Arelevance%3AallCategories%3An1010%3Aseason%3ASummer"
+         },
+         "selected" : false
+      }, {
+         "code" : "Winter",
+         "count" : 5,
+         "name" : "Winter",
+         "query" : {
+            "query" : {
+               "value" : "shirts:relevance:allCategories:n1010:season:Winter"
+            },
+            "url" : "/search?q=shirts%3Arelevance%3AallCategories%3An1010%3Aseason%3AWinter"
+         },
+         "selected" : false
+      }, {
+         "code" : "Core",
+         "count" : 2,
+         "name" : "Core",
+         "query" : {
+            "query" : {
+               "value" : "shirts:relevance:allCategories:n1010:season:Core"
+            },
+            "url" : "/search?q=shirts%3Arelevance%3AallCategories%3An1010%3Aseason%3ACore"
+         },
+         "selected" : false
+      } ],
+      "visible" : true
+   }, {
+      "category" : false,
+      "code" : "pattern",
+      "multiSelect" : true,
+      "name" : "Pattern",
+      "priority" : 100,
+      "values" : [ {
+         "code" : "Solid",
+         "count" : 105,
+         "name" : "Solid",
+         "query" : {
+            "query" : {
+               "value" : "shirts:relevance:allCategories:n1010:pattern:Solid"
+            },
+            "url" : "/search?q=shirts%3Arelevance%3AallCategories%3An1010%3Apattern%3ASolid"
+         },
+         "selected" : false
+      }, {
+         "code" : "Striped",
+         "count" : 3,
+         "name" : "Striped",
+         "query" : {
+            "query" : {
+               "value" : "shirts:relevance:allCategories:n1010:pattern:Striped"
+            },
+            "url" : "/search?q=shirts%3Arelevance%3AallCategories%3An1010%3Apattern%3AStriped"
+         },
+         "selected" : false
+      }, {
+         "code" : "Printed",
+         "count" : 2,
+         "name" : "Printed",
+         "query" : {
+            "query" : {
+               "value" : "shirts:relevance:allCategories:n1010:pattern:Printed"
+            },
+            "url" : "/search?q=shirts%3Arelevance%3AallCategories%3An1010%3Apattern%3APrinted"
+         },
+         "selected" : false
+      }, {
+         "code" : "Checkered",
+         "count" : 1,
+         "name" : "Checkered",
+         "query" : {
+            "query" : {
+               "value" : "shirts:relevance:allCategories:n1010:pattern:Checkered"
+            },
+            "url" : "/search?q=shirts%3Arelevance%3AallCategories%3An1010%3Apattern%3ACheckered"
+         },
+         "selected" : false
+      } ],
+      "visible" : true
+   }, {
+      "category" : false,
+      "code" : "material_Composition",
+      "multiSelect" : true,
+      "name" : "Material Composition",
+      "priority" : 100,
+      "values" : [ {
+         "code" : "Material Composition",
+         "count" : 88,
+         "name" : "Material Composition",
+         "query" : {
+            "query" : {
+               "value" : "shirts:relevance:allCategories:n1010:material_Composition:Material+Composition"
+            },
+            "url" : "/search?q=shirts%3Arelevance%3AallCategories%3An1010%3Amaterial_Composition%3AMaterial%2BComposition"
+         },
+         "selected" : false
+      }, {
+         "code" : "Blue Shirt",
+         "count" : 2,
+         "name" : "Blue Shirt",
+         "query" : {
+            "query" : {
+               "value" : "shirts:relevance:allCategories:n1010:material_Composition:Blue+Shirt"
+            },
+            "url" : "/search?q=shirts%3Arelevance%3AallCategories%3An1010%3Amaterial_Composition%3ABlue%2BShirt"
+         },
+         "selected" : false
+      }, {
+         "code" : "Pink Cotton Shirt",
+         "count" : 2,
+         "name" : "Pink Cotton Shirt",
+         "query" : {
+            "query" : {
+               "value" : "shirts:relevance:allCategories:n1010:material_Composition:Pink+Cotton+Shirt"
+            },
+            "url" : "/search?q=shirts%3Arelevance%3AallCategories%3An1010%3Amaterial_Composition%3APink%2BCotton%2BShirt"
+         },
+         "selected" : false
+      }, {
+         "code" : "White Shirt with Dots",
+         "count" : 2,
+         "name" : "White Shirt with Dots",
+         "query" : {
+            "query" : {
+               "value" : "shirts:relevance:allCategories:n1010:material_Composition:White+Shirt+with+Dots"
+            },
+            "url" : "/search?q=shirts%3Arelevance%3AallCategories%3An1010%3Amaterial_Composition%3AWhite%2BShirt%2Bwith%2BDots"
+         },
+         "selected" : false
+      }, {
+         "code" : "White Sold Shirt with Designs",
+         "count" : 2,
+         "name" : "White Sold Shirt with Designs",
+         "query" : {
+            "query" : {
+               "value" : "shirts:relevance:allCategories:n1010:material_Composition:White+Sold+Shirt+with+Designs"
+            },
+            "url" : "/search?q=shirts%3Arelevance%3AallCategories%3An1010%3Amaterial_Composition%3AWhite%2BSold%2BShirt%2Bwith%2BDesigns"
+         },
+         "selected" : false
+      }, {
+         "code" : "cotton",
+         "count" : 1,
+         "name" : "cotton",
+         "query" : {
+            "query" : {
+               "value" : "shirts:relevance:allCategories:n1010:material_Composition:cotton"
+            },
+            "url" : "/search?q=shirts%3Arelevance%3AallCategories%3An1010%3Amaterial_Composition%3Acotton"
+         },
+         "selected" : false
+      } ],
+      "visible" : true
+   }, {
+      "category" : false,
+      "code" : "gender",
+      "multiSelect" : true,
+      "name" : "Gender",
+      "priority" : 100,
+      "values" : [ {
+         "code" : "Men's",
+         "count" : 111,
+         "name" : "Men's",
+         "query" : {
+            "query" : {
+               "value" : "shirts:relevance:allCategories:n1010:gender:Men%27s"
+            },
+            "url" : "/search?q=shirts%3Arelevance%3AallCategories%3An1010%3Agender%3AMen%2527s"
+         },
+         "selected" : false
+      } ],
+      "visible" : true
+   }, {
+      "category" : false,
+      "code" : "fit",
+      "multiSelect" : true,
+      "name" : "Fit",
+      "priority" : 100,
+      "values" : [ {
+         "code" : "Regular Fit",
+         "count" : 101,
+         "name" : "Regular Fit",
+         "query" : {
+            "query" : {
+               "value" : "shirts:relevance:allCategories:n1010:fit:Regular+Fit"
+            },
+            "url" : "/search?q=shirts%3Arelevance%3AallCategories%3An1010%3Afit%3ARegular%2BFit"
+         },
+         "selected" : false
+      }, {
+         "code" : "Slim Fit",
+         "count" : 10,
+         "name" : "Slim Fit",
+         "query" : {
+            "query" : {
+               "value" : "shirts:relevance:allCategories:n1010:fit:Slim+Fit"
+            },
+            "url" : "/search?q=shirts%3Arelevance%3AallCategories%3An1010%3Afit%3ASlim%2BFit"
+         },
+         "selected" : false
+      } ],
+      "visible" : true
+   }, {
+      "category" : false,
+      "code" : "fabric",
+      "multiSelect" : true,
+      "name" : "Fabric",
+      "priority" : 100,
+      "values" : [ {
+         "code" : "Cotton",
+         "count" : 105,
+         "name" : "Cotton",
+         "query" : {
+            "query" : {
+               "value" : "shirts:relevance:allCategories:n1010:fabric:Cotton"
+            },
+            "url" : "/search?q=shirts%3Arelevance%3AallCategories%3An1010%3Afabric%3ACotton"
+         },
+         "selected" : false
+      }, {
+         "code" : "Wool",
+         "count" : 8,
+         "name" : "Wool",
+         "query" : {
+            "query" : {
+               "value" : "shirts:relevance:allCategories:n1010:fabric:Wool"
+            },
+            "url" : "/search?q=shirts%3Arelevance%3AallCategories%3An1010%3Afabric%3AWool"
+         },
+         "selected" : false
+      }, {
+         "code" : "Linen",
+         "count" : 1,
+         "name" : "Linen",
+         "query" : {
+            "query" : {
+               "value" : "shirts:relevance:allCategories:n1010:fabric:Linen"
+            },
+            "url" : "/search?q=shirts%3Arelevance%3AallCategories%3An1010%3Afabric%3ALinen"
+         },
+         "selected" : false
+      }, {
+         "code" : "Silk",
+         "count" : 1,
+         "name" : "Silk",
+         "query" : {
+            "query" : {
+               "value" : "shirts:relevance:allCategories:n1010:fabric:Silk"
+            },
+            "url" : "/search?q=shirts%3Arelevance%3AallCategories%3An1010%3Afabric%3ASilk"
+         },
+         "selected" : false
+      } ],
+      "visible" : true
+   }, {
+      "category" : false,
+      "code" : "color",
+      "multiSelect" : true,
+      "name" : "Color",
+      "priority" : 100,
+      "values" : [ {
+         "code" : "PrimaryColor_AQUA",
+         "count" : 80,
+         "hexColorCode" : "#ADF0DF",
+         "name" : "Aqua",
+         "query" : {
+            "query" : {
+               "value" : "shirts:relevance:allCategories:n1010:color:PrimaryColor_AQUA"
+            },
+            "url" : "/search?q=shirts%3Arelevance%3AallCategories%3An1010%3Acolor%3APrimaryColor_AQUA"
+         },
+         "selected" : false
+      }, {
+         "code" : "SecondaryColor_BLACK",
+         "count" : 66,
+         "hexColorCode" : "#000000",
+         "name" : "Black",
+         "query" : {
+            "query" : {
+               "value" : "shirts:relevance:allCategories:n1010:color:SecondaryColor_BLACK"
+            },
+            "url" : "/search?q=shirts%3Arelevance%3AallCategories%3An1010%3Acolor%3ASecondaryColor_BLACK"
+         },
+         "selected" : false
+      }, {
+         "code" : "PrimaryColor_BLACK",
+         "count" : 8,
+         "hexColorCode" : "#000000",
+         "name" : "Black",
+         "query" : {
+            "query" : {
+               "value" : "shirts:relevance:allCategories:n1010:color:PrimaryColor_BLACK"
+            },
+            "url" : "/search?q=shirts%3Arelevance%3AallCategories%3An1010%3Acolor%3APrimaryColor_BLACK"
+         },
+         "selected" : false
+      }, {
+         "code" : "PrimaryColor_MEDIUM BLUE",
+         "count" : 7,
+         "hexColorCode" : "#0000CD",
+         "name" : "Medium Blue",
+         "query" : {
+            "query" : {
+               "value" : "shirts:relevance:allCategories:n1010:color:PrimaryColor_MEDIUM+BLUE"
+            },
+            "url" : "/search?q=shirts%3Arelevance%3AallCategories%3An1010%3Acolor%3APrimaryColor_MEDIUM%2BBLUE"
+         },
+         "selected" : false
+      }, {
+         "code" : "SecondaryColor_DARK BLUE",
+         "count" : 5,
+         "hexColorCode" : "#00008B",
+         "name" : "Dark Blue",
+         "query" : {
+            "query" : {
+               "value" : "shirts:relevance:allCategories:n1010:color:SecondaryColor_DARK+BLUE"
+            },
+            "url" : "/search?q=shirts%3Arelevance%3AallCategories%3An1010%3Acolor%3ASecondaryColor_DARK%2BBLUE"
+         },
+         "selected" : false
+      }, {
+         "code" : "PrimaryColor_BLUE",
+         "count" : 4,
+         "hexColorCode" : "#0000FF",
+         "name" : "Blue",
+         "query" : {
+            "query" : {
+               "value" : "shirts:relevance:allCategories:n1010:color:PrimaryColor_BLUE"
+            },
+            "url" : "/search?q=shirts%3Arelevance%3AallCategories%3An1010%3Acolor%3APrimaryColor_BLUE"
+         },
+         "selected" : false
+      }, {
+         "code" : "PrimaryColor_RED",
+         "count" : 4,
+         "hexColorCode" : "#FF0000",
+         "name" : "Red",
+         "query" : {
+            "query" : {
+               "value" : "shirts:relevance:allCategories:n1010:color:PrimaryColor_RED"
+            },
+            "url" : "/search?q=shirts%3Arelevance%3AallCategories%3An1010%3Acolor%3APrimaryColor_RED"
+         },
+         "selected" : false
+      }, {
+         "code" : "SecondaryColor_BEIGE",
+         "count" : 4,
+         "hexColorCode" : "#F5F5DC",
+         "name" : "Beige",
+         "query" : {
+            "query" : {
+               "value" : "shirts:relevance:allCategories:n1010:color:SecondaryColor_BEIGE"
+            },
+            "url" : "/search?q=shirts%3Arelevance%3AallCategories%3An1010%3Acolor%3ASecondaryColor_BEIGE"
+         },
+         "selected" : false
+      }, {
+         "code" : "PrimaryColor_BROWN",
+         "count" : 2,
+         "hexColorCode" : "#F5F5DC",
+         "name" : "Brown",
+         "query" : {
+            "query" : {
+               "value" : "shirts:relevance:allCategories:n1010:color:PrimaryColor_BROWN"
+            },
+            "url" : "/search?q=shirts%3Arelevance%3AallCategories%3An1010%3Acolor%3APrimaryColor_BROWN"
+         },
+         "selected" : false
+      }, {
+         "code" : "PrimaryColor_CREAM",
+         "count" : 2,
+         "hexColorCode" : "#FFFDD0",
+         "name" : "Cream",
+         "query" : {
+            "query" : {
+               "value" : "shirts:relevance:allCategories:n1010:color:PrimaryColor_CREAM"
+            },
+            "url" : "/search?q=shirts%3Arelevance%3AallCategories%3An1010%3Acolor%3APrimaryColor_CREAM"
+         },
+         "selected" : false
+      }, {
+         "code" : "PrimaryColor_WHITE",
+         "count" : 2,
+         "hexColorCode" : "#FFFFFF",
+         "name" : "White",
+         "query" : {
+            "query" : {
+               "value" : "shirts:relevance:allCategories:n1010:color:PrimaryColor_WHITE"
+            },
+            "url" : "/search?q=shirts%3Arelevance%3AallCategories%3An1010%3Acolor%3APrimaryColor_WHITE"
+         },
+         "selected" : false
+      }, {
+         "code" : "PrimaryColor_BRT. MULTI",
+         "count" : 1,
+         "name" : "Brt. Multi",
+         "query" : {
+            "query" : {
+               "value" : "shirts:relevance:allCategories:n1010:color:PrimaryColor_BRT.+MULTI"
+            },
+            "url" : "/search?q=shirts%3Arelevance%3AallCategories%3An1010%3Acolor%3APrimaryColor_BRT.%2BMULTI"
+         },
+         "selected" : false,
+         "url" : {
+            "code" : "BRT. MULTI",
+            "url" : "/medias/?context=bWFzdGVyfHJvb3R8NjU4NHxpbWFnZS9wbmd8aDc0L2gzZC84ODExMDk4MTEyMDMwLnBuZ3xhODhiOTFhM2NiZmIzNDU2NjMwMDczMTU4ZGNmNDQ1ZmIxMDkyYjkzOGViNmIxN2VhMzY4MzM1MTQ5MDRlOWZk"
+         }
+      }, {
+         "code" : "PrimaryColor_DK. BROWN",
+         "count" : 1,
+         "hexColorCode" : "#3F1D0B",
+         "name" : "Dk. Brown",
+         "query" : {
+            "query" : {
+               "value" : "shirts:relevance:allCategories:n1010:color:PrimaryColor_DK.+BROWN"
+            },
+            "url" : "/search?q=shirts%3Arelevance%3AallCategories%3An1010%3Acolor%3APrimaryColor_DK.%2BBROWN"
+         },
+         "selected" : false
+      } ],
+      "visible" : true
+   }, {
+      "category" : false,
+      "code" : "brand",
+      "multiSelect" : true,
+      "name" : "Brand",
+      "priority" : 100,
+      "values" : [ {
+         "code" : "J874",
+         "count" : 90,
+         "name" : "LEE COPPER",
+         "query" : {
+            "query" : {
+               "value" : "shirts:relevance:allCategories:n1010:brand:J874"
+            },
+            "url" : "/search?q=shirts%3Arelevance%3AallCategories%3An1010%3Abrand%3AJ874"
+         },
+         "selected" : false
+      }, {
+         "code" : "J158",
+         "count" : 9,
+         "name" : "BREAKPOINT",
+         "query" : {
+            "query" : {
+               "value" : "shirts:relevance:allCategories:n1010:brand:J158"
+            },
+            "url" : "/search?q=shirts%3Arelevance%3AallCategories%3An1010%3Abrand%3AJ158"
+         },
+         "selected" : false
+      }, {
+         "code" : "H153",
+         "count" : 4,
+         "name" : "612 LEAGUE",
+         "query" : {
+            "query" : {
+               "value" : "shirts:relevance:allCategories:n1010:brand:H153"
+            },
+            "url" : "/search?q=shirts%3Arelevance%3AallCategories%3An1010%3Abrand%3AH153"
+         },
+         "selected" : false
+      }, {
+         "code" : "J587",
+         "count" : 3,
+         "name" : "11E",
+         "query" : {
+            "query" : {
+               "value" : "shirts:relevance:allCategories:n1010:brand:J587"
+            },
+            "url" : "/search?q=shirts%3Arelevance%3AallCategories%3An1010%3Abrand%3AJ587"
+         },
+         "selected" : false
+      }, {
+         "code" : "J155",
+         "count" : 1,
+         "name" : "SILK FEET",
+         "query" : {
+            "query" : {
+               "value" : "shirts:relevance:allCategories:n1010:brand:J155"
+            },
+            "url" : "/search?q=shirts%3Arelevance%3AallCategories%3An1010%3Abrand%3AJ155"
+         },
+         "selected" : false
+      }, {
+         "code" : "J156",
+         "count" : 1,
+         "name" : "JIVERS",
+         "query" : {
+            "query" : {
+               "value" : "shirts:relevance:allCategories:n1010:brand:J156"
+            },
+            "url" : "/search?q=shirts%3Arelevance%3AallCategories%3An1010%3Abrand%3AJ156"
+         },
+         "selected" : false
+      }, {
+         "code" : "J589",
+         "count" : 1,
+         "name" : "1ST BAY",
+         "query" : {
+            "query" : {
+               "value" : "shirts:relevance:allCategories:n1010:brand:J589"
+            },
+            "url" : "/search?q=shirts%3Arelevance%3AallCategories%3An1010%3Abrand%3AJ589"
+         },
+         "selected" : false
+      }, {
+         "code" : "J603",
+         "count" : 1,
+         "name" : "ACTUAL",
+         "query" : {
+            "query" : {
+               "value" : "shirts:relevance:allCategories:n1010:brand:J603"
+            },
+            "url" : "/search?q=shirts%3Arelevance%3AallCategories%3An1010%3Abrand%3AJ603"
+         },
+         "selected" : false
+      }, {
+         "code" : "L458",
+         "count" : 1,
+         "name" : "1 AAROW",
+         "query" : {
+            "query" : {
+               "value" : "shirts:relevance:allCategories:n1010:brand:L458"
+            },
+            "url" : "/search?q=shirts%3Arelevance%3AallCategories%3An1010%3Abrand%3AL458"
+         },
+         "selected" : false
+      } ],
+      "visible" : true
+   }, {
+      "category" : true,
+      "categoryHierarchy" : {
+         "id" : "ROOTB2BNAV",
+         "lastModified" : "2018-10-22T10:49:52+0000",
+         "name" : "ROOTB2BNAV",
+         "url" : "/rrlmp/catalogs/rrlmpProductCatalog/Online/categories/ROOTB2BNAV",
+         "picture" : "/medias/Chrysanthemum.jpg?context=bWFzdGVyfGltYWdlc3w4NzkzOTR8aW1hZ2UvanBlZ3xpbWFnZXMvaDAxL2hkZi84Nzk3MjM5MjE0MTEwLmpwZ3xjNTQ5NzBiOGEwZjA5ODA4OThiMjEyYzJlMjY1Y2NhMDNiMmM1ZDlkZjMxOTRmMzRiMWI3YzMyZDUwZWVmZmFh",
+         "subcategories" : [ {
+            "id" : "n10",
+            "lastModified" : "2018-09-04T10:59:25+0000",
+            "name" : "Men",
+            "url" : "/rrlmp/catalogs/rrlmpProductCatalog/Online/categories/n10",
+            "count" : 113,
+            "picture" : "/medias/1.png?context=bWFzdGVyfGltYWdlc3wxMTA3MzZ8aW1hZ2UvcG5nfGltYWdlcy9oMDUvaGM0Lzg4MDE3MDI0NDUwODYucG5nfDdkNjk5MDk2Nzg4YzQ4ODZlN2E0ZTY5YjVlZGNmYmVlMzQ4NDRhN2RlYjY4ZDZkOTNmZmY1OWVlMWFlODg0N2Y",
+            "selected" : false,
+            "subcategories" : [ {
+               "id" : "n1010",
+               "lastModified" : "2018-11-14T04:33:36+0000",
+               "name" : "Casual Wear",
+               "url" : "/rrlmp/catalogs/rrlmpProductCatalog/Online/categories/n1010",
+               "count" : 111,
+               "picture" : "/medias/men-casual-wear.jpg?context=bWFzdGVyfGltYWdlc3wyNDEzfGltYWdlL2pwZWd8aW1hZ2VzL2g2OC9oYjkvODgyODkyODUyNDMxOC5qcGd8MTQ0NmEyMjJjZDkzOTFkZWJlNTNkZDRmODE5NGUxYzlmNDg1MjVjMTFjMTY0YzRkM2M0MWZkMzExYTFmMjhhMg",
+               "selected" : true,
+               "subcategories" : [ {
+                  "id" : "n101013",
+                  "lastModified" : "2018-06-20T10:34:49+0000",
+                  "name" : "Shirts",
+                  "url" : "/rrlmp/catalogs/rrlmpProductCatalog/Online/categories/n101013",
+                  "count" : 111,
+                  "selected" : false,
+                  "thumbnail" : "/medias/men-shirt.jpg?context=bWFzdGVyfGltYWdlc3wyNjY5MTN8aW1hZ2UvanBlZ3xpbWFnZXMvaGEwL2hlMS84Nzk4NjY2NzE5MjYyLmpwZ3w0YmIwOGFjZTIwNWZiMzQzMmU5Y2E1MDA0ZTNjMWM3ODVmN2U1N2E1MDc1ZmQzMDNkNzgyOTQyYzMwNDMwZGI5"
+               } ]
+            } ],
+            "thumbnail" : "/medias/1.png?context=bWFzdGVyfGltYWdlc3wxMTA3MzZ8aW1hZ2UvcG5nfGltYWdlcy9oMDkvaDNmLzg3OTkyMTMxMjU2NjIucG5nfGUwZjQwZTJlMWVjMzk0NTExZTE3YjRmZmNlM2RlNmRkZDk1ZDZiNDM2MDZhNzk5ZDlhYTJkMTdiZjQ3YTE0MDk"
+         } ]
+      },
+      "code" : "allCategories",
+      "multiSelect" : true,
+      "name" : "allCategories",
+      "priority" : 100,
+      "values" : [ {
+         "code" : "ROOTB2BNAV",
+         "count" : 113,
+         "name" : "ROOTB2BNAV",
+         "query" : {
+            "query" : {
+               "value" : "shirts:relevance:allCategories:n1010:allCategories:ROOTB2BNAV"
+            },
+            "url" : "/search?q=shirts%3Arelevance%3AallCategories%3An1010%3AallCategories%3AROOTB2BNAV"
+         },
+         "selected" : false
+      }, {
+         "code" : "n10",
+         "count" : 113,
+         "name" : "Men",
+         "query" : {
+            "query" : {
+               "value" : "shirts:relevance:allCategories:n1010:allCategories:n10"
+            },
+            "url" : "/search?q=shirts%3Arelevance%3AallCategories%3An1010%3AallCategories%3An10"
+         },
+         "selected" : false
+      }, {
+         "code" : "850301004",
+         "count" : 111,
+         "name" : "SHIRTS",
+         "query" : {
+            "query" : {
+               "value" : "shirts:relevance:allCategories:n1010:allCategories:850301004"
+            },
+            "url" : "/search?q=shirts%3Arelevance%3AallCategories%3An1010%3AallCategories%3A850301004"
+         },
+         "selected" : false
+      }, {
+         "code" : "n1010",
+         "count" : 111,
+         "name" : "Casual Wear",
+         "query" : {
+            "query" : {
+               "value" : "shirts:relevance"
+            },
+            "url" : "/search?q=shirts%3Arelevance"
+         },
+         "selected" : true
+      }, {
+         "code" : "n101013",
+         "count" : 111,
+         "name" : "Shirts",
+         "query" : {
+            "query" : {
+               "value" : "shirts:relevance:allCategories:n1010:allCategories:n101013"
+            },
+            "url" : "/search?q=shirts%3Arelevance%3AallCategories%3An1010%3AallCategories%3An101013"
+         },
+         "selected" : false
+      }, {
+         "code" : "850304001",
+         "count" : 2,
+         "name" : "SHIRTS",
+         "query" : {
+            "query" : {
+               "value" : "shirts:relevance:allCategories:n1010:allCategories:850304001"
+            },
+            "url" : "/search?q=shirts%3Arelevance%3AallCategories%3An1010%3AallCategories%3A850304001"
+         },
+         "selected" : false
+      }, {
+         "code" : "n1012",
+         "count" : 2,
+         "name" : "Formal Wear",
+         "query" : {
+            "query" : {
+               "value" : "shirts:relevance:allCategories:n1010:allCategories:n1012"
+            },
+            "url" : "/search?q=shirts%3Arelevance%3AallCategories%3An1010%3AallCategories%3An1012"
+         },
+         "selected" : false
+      }, {
+         "code" : "n101210",
+         "count" : 2,
+         "name" : "Shirts",
+         "query" : {
+            "query" : {
+               "value" : "shirts:relevance:allCategories:n1010:allCategories:n101210"
+            },
+            "url" : "/search?q=shirts%3Arelevance%3AallCategories%3An1010%3AallCategories%3An101210"
+         },
+         "selected" : false
+      }, {
+         "code" : "850503005",
+         "count" : 1,
+         "name" : "KURTAS",
+         "query" : {
+            "query" : {
+               "value" : "shirts:relevance:allCategories:n1010:allCategories:850503005"
+            },
+            "url" : "/search?q=shirts%3Arelevance%3AallCategories%3An1010%3AallCategories%3A850503005"
+         },
+         "selected" : false
+      }, {
+         "code" : "850503006",
+         "count" : 1,
+         "name" : "KURTIS",
+         "query" : {
+            "query" : {
+               "value" : "shirts:relevance:allCategories:n1010:allCategories:850503006"
+            },
+            "url" : "/search?q=shirts%3Arelevance%3AallCategories%3An1010%3AallCategories%3A850503006"
+         },
+         "selected" : false
+      }, {
+         "code" : "n11",
+         "count" : 1,
+         "name" : "Women",
+         "query" : {
+            "query" : {
+               "value" : "shirts:relevance:allCategories:n1010:allCategories:n11"
+            },
+            "url" : "/search?q=shirts%3Arelevance%3AallCategories%3An1010%3AallCategories%3An11"
+         },
+         "selected" : false
+      }, {
+         "code" : "n1112",
+         "count" : 1,
+         "name" : "Ethnic Wear",
+         "query" : {
+            "query" : {
+               "value" : "shirts:relevance:allCategories:n1010:allCategories:n1112"
+            },
+            "url" : "/search?q=shirts%3Arelevance%3AallCategories%3An1010%3AallCategories%3An1112"
+         },
+         "selected" : false
+      }, {
+         "code" : "n111214",
+         "count" : 1,
+         "name" : "Kurtas",
+         "query" : {
+            "query" : {
+               "value" : "shirts:relevance:allCategories:n1010:allCategories:n111214"
+            },
+            "url" : "/search?q=shirts%3Arelevance%3AallCategories%3An1010%3AallCategories%3An111214"
+         },
+         "selected" : false
+      }, {
+         "code" : "n111216",
+         "count" : 1,
+         "name" : "Kurtis",
+         "query" : {
+            "query" : {
+               "value" : "shirts:relevance:allCategories:n1010:allCategories:n111216"
+            },
+            "url" : "/search?q=shirts%3Arelevance%3AallCategories%3An1010%3AallCategories%3An111216"
+         },
+         "selected" : false
+      } ],
+      "visible" : true
+   } ],
+   "freeTextSearch" : "shirts",
+   "pagination" : {
+      "currentPage" : 0,
+      "pageSize" : 20,
+      "sort" : "relevance",
+      "totalPages" : 6,
+      "totalResults" : 111
+   },
+   "products" : [ {
+      "baseImageUrl" : "/medias/27cfc399-855e-4df3-b030-b65eab36157c-1531136791314-433Wx543H?context=bWFzdGVyfHJvb3R8MTMwNDMxfGltYWdlL2pwZWd8aGJhL2hiMS84ODA3MDcyMzMzODU0LmpwZ3w3MWY5MWE1YmNjYmViMjc2YTg3YzZkNTU1MGFhOWI4NmFmYmEzN2RhODYzZWI4NDA4YjQ2NzYwNzVmNGVhNjY2",
+      "baseProduct" : "0b74b88c-bea2-450a-aea7-bf143b671505",
+      "brand" : "LEE COPPER",
+      "code" : "LEE COPPER__7c87a9e01c884ea383677ca15fbd2fcf",
+      "colors" : [ {
+         "hexColorCode" : "#ADF0DF",
+         "name" : "Aqua"
+      } ],
+      "description" : "Lee Copper Men's Cotton Solid Regular Fit Casual Shirt",
+      "name" : "Lee Copper Men's Cotton Solid Regular Fit Casual Shirt",
+      "price" : {
+         "currencyIso" : "INR",
+         "formattedValue" : "INR100.00",
+         "priceType" : "BUY",
+         "value" : 100.0
+      },
+      "priceRange" : {
+      },
+      "searchScore" : "15.565783",
+      "url" : "/ROOT/ROOTB2BMCH/FASHION-%26-LIFESTYLE/MENS-CLOTHING/CASUAL-WEAR/SHIRTS/Lee-Copper-Men%27s-Cotton-Solid-Regular-Fit-Casual-Shirt/p/LEE+COPPER__7c87a9e01c884ea383677ca15fbd2fcf",
+      "volumePricesFlag" : false
+   }, {
+      "baseImageUrl" : "/medias/5dee7adf-339b-40eb-98a4-e97149b4ee0f-1531139043194-433Wx543H?context=bWFzdGVyfHJvb3R8MTMwNDMxfGltYWdlL2pwZWd8aDI0L2g2Mi84ODA3MDcyNjYxNTM0LmpwZ3wzNDFkMjdhOGZhYmUxZmFjZWE3ZTI3NGQxYTdiZWIzYjEwZjhiMzEwOTQ3OWRjZGM2YWViNmFlZjczNmMzNThk",
+      "baseProduct" : "b4e253e1-5bfb-43f8-860b-db16eb98a681",
+      "brand" : "LEE COPPER",
+      "code" : "LEE COPPER__f1fa3138f51040c08ac88e181b5c6353",
+      "colors" : [ {
+         "hexColorCode" : "#ADF0DF",
+         "name" : "Aqua"
+      } ],
+      "description" : "Lee Copper Men's Cotton Solid Regular Fit Casual Shirt",
+      "name" : "Lee Copper Men's Cotton Solid Regular Fit Casual Shirt",
+      "price" : {
+         "currencyIso" : "INR",
+         "formattedValue" : "INR100.00",
+         "priceType" : "BUY",
+         "value" : 100.0
+      },
+      "priceRange" : {
+      },
+      "searchScore" : "15.565783",
+      "url" : "/ROOT/ROOTB2BMCH/FASHION-%26-LIFESTYLE/MENS-CLOTHING/CASUAL-WEAR/SHIRTS/Lee-Copper-Men%27s-Cotton-Solid-Regular-Fit-Casual-Shirt/p/LEE+COPPER__f1fa3138f51040c08ac88e181b5c6353",
+      "volumePricesFlag" : false
+   }, {
+      "baseImageUrl" : "/medias/d436e03a-6fa3-461a-9776-8864501024d1-1531201766529-433Wx543H?context=bWFzdGVyfHJvb3R8NzkwODh8aW1hZ2UvcG5nfGhlYy9oYjcvODgwMTY4NDA2MjIzOC5wbmd8MTE2M2JmOGI1ZDQ4NjhkNDI0Mzg3N2Y2NzY2NDNiNTM4N2FmM2ExMzhkOGYzNzY4YmI3ZTQ3NDYxMjk1OTcyNw",
+      "baseProduct" : "cf04e9b5-1516-4d08-ba6e-96a66f25417c",
+      "brand" : "LEE COPPER",
+      "code" : "LEE COPPER__e52b8a441cfd468a91f85de55cf6c7cf",
+      "colors" : [ {
+         "hexColorCode" : "#ADF0DF",
+         "name" : "Aqua"
+      } ],
+      "description" : "Lee Copper Men's Cotton Solid Regular Fit Casual Shirt",
+      "name" : "Lee Copper Men's Cotton Solid Regular Fit Casual Shirt",
+      "price" : {
+         "currencyIso" : "INR",
+         "formattedValue" : "INR100.00",
+         "priceType" : "BUY",
+         "value" : 100.0
+      },
+      "priceRange" : {
+      },
+      "searchScore" : "15.565783",
+      "url" : "/ROOT/ROOTB2BMCH/FASHION-%26-LIFESTYLE/MENS-CLOTHING/CASUAL-WEAR/SHIRTS/Lee-Copper-Men%27s-Cotton-Solid-Regular-Fit-Casual-Shirt/p/LEE+COPPER__e52b8a441cfd468a91f85de55cf6c7cf",
+      "volumePricesFlag" : false
+   }, {
+      "baseImageUrl" : "/medias/0d8345c8-8ce8-48a1-9747-bcbac5872b19-1531201765205-433Wx543H?context=bWFzdGVyfHJvb3R8NzkwODh8aW1hZ2UvcG5nfGg4Ny9oY2EvODgwMTY4NDc4MzEzNC5wbmd8NDMyZGM1YTY1MDU2OWI1ZTU2YzkyYmQ5MWIxYjdhN2E3NTU0NzY5OGJjMDJkMzE4MGZkZjMwOWMyZTM3YmE5Yg",
+      "baseProduct" : "77705c53-226e-426b-b946-1e9a01710759",
+      "brand" : "LEE COPPER",
+      "code" : "LEE COPPER__c24ac0c9ed5943d0aad0e1dbde20469a",
+      "colors" : [ {
+         "hexColorCode" : "#ADF0DF",
+         "name" : "Aqua"
+      } ],
+      "description" : "Lee Copper Men's Cotton Solid Regular Fit Casual Shirt",
+      "name" : "Lee Copper Men's Cotton Solid Regular Fit Casual Shirt",
+      "price" : {
+         "currencyIso" : "INR",
+         "formattedValue" : "INR100.00",
+         "priceType" : "BUY",
+         "value" : 100.0
+      },
+      "priceRange" : {
+      },
+      "searchScore" : "15.565783",
+      "url" : "/ROOT/ROOTB2BMCH/FASHION-%26-LIFESTYLE/MENS-CLOTHING/CASUAL-WEAR/SHIRTS/Lee-Copper-Men%27s-Cotton-Solid-Regular-Fit-Casual-Shirt/p/LEE+COPPER__c24ac0c9ed5943d0aad0e1dbde20469a",
+      "volumePricesFlag" : false
+   }, {
+      "baseImageUrl" : "/medias/0dc6c240-d8a4-463c-b14d-55cb37baa645-1531201766074-433Wx543H?context=bWFzdGVyfHJvb3R8NzkwODh8aW1hZ2UvcG5nfGhhZS9oY2YvODgwMTY4NDk3OTc0Mi5wbmd8M2JjNjIxMGI5MzYxOGEwZTYwN2VjMmE3NDViOTAzMDIzODIwZTdmMjcwOWM5YzgyNGY5YTI0YTE4NmYyNWNlYw",
+      "baseProduct" : "7584b13e-6850-4c88-8e8e-16cb1b8fd8a4",
+      "brand" : "LEE COPPER",
+      "code" : "LEE COPPER__36d033e2b7cd42bca7810e369665f7b7",
+      "colors" : [ {
+         "hexColorCode" : "#ADF0DF",
+         "name" : "Aqua"
+      } ],
+      "description" : "Lee Copper Men's Cotton Solid Regular Fit Casual Shirt",
+      "name" : "Lee Copper Men's Cotton Solid Regular Fit Casual Shirt",
+      "price" : {
+         "currencyIso" : "INR",
+         "formattedValue" : "INR100.00",
+         "priceType" : "BUY",
+         "value" : 100.0
+      },
+      "priceRange" : {
+      },
+      "searchScore" : "15.565783",
+      "url" : "/ROOT/ROOTB2BMCH/FASHION-%26-LIFESTYLE/MENS-CLOTHING/CASUAL-WEAR/SHIRTS/Lee-Copper-Men%27s-Cotton-Solid-Regular-Fit-Casual-Shirt/p/LEE+COPPER__36d033e2b7cd42bca7810e369665f7b7",
+      "volumePricesFlag" : false
+   }, {
+      "baseImageUrl" : "/medias/53d5f2bb-6db5-4f3b-b490-7969cf563b22-1531201766995-433Wx543H?context=bWFzdGVyfHJvb3R8NzkwODh8aW1hZ2UvcG5nfGgyOC9oMTIvODgwMTY4MzkzMTE2Ni5wbmd8MjAxNzJkNmRlYjQ3Mzc4YmRlMzIwZTliZDRjMjc3MDdlNmY4MjUwOWRkNTgxM2RkZDYzODA0YWMwYmZjODQ0Mg",
+      "baseProduct" : "e3abbb04-1337-4235-9d55-457ad2da913c",
+      "brand" : "LEE COPPER",
+      "code" : "LEE COPPER__696f6efdd30f4589974d160668965a85",
+      "colors" : [ {
+         "hexColorCode" : "#ADF0DF",
+         "name" : "Aqua"
+      } ],
+      "description" : "Lee Copper Men's Cotton Solid Regular Fit Casual Shirt",
+      "name" : "Lee Copper Men's Cotton Solid Regular Fit Casual Shirt",
+      "price" : {
+         "currencyIso" : "INR",
+         "formattedValue" : "INR100.00",
+         "priceType" : "BUY",
+         "value" : 100.0
+      },
+      "priceRange" : {
+      },
+      "searchScore" : "15.565783",
+      "url" : "/ROOT/ROOTB2BMCH/FASHION-%26-LIFESTYLE/MENS-CLOTHING/CASUAL-WEAR/SHIRTS/Lee-Copper-Men%27s-Cotton-Solid-Regular-Fit-Casual-Shirt/p/LEE+COPPER__696f6efdd30f4589974d160668965a85",
+      "volumePricesFlag" : false
+   }, {
+      "baseImageUrl" : "/medias/c992965c-2f5c-430c-abc3-4ff5b6b42fc7-1531201766554-433Wx543H?context=bWFzdGVyfHJvb3R8NzkwODh8aW1hZ2UvcG5nfGgxMC9oNTYvODgwMTY4NDcxNzU5OC5wbmd8MDNkNTQyODlhYzY2ZjJlOWVjYjc0N2VlYWU2NDFjYmU2YmEzMDdkYTBiMjZlYWU5YzY3MDhlNGY0OWI4MGU1Zg",
+      "baseProduct" : "03e06271-07a1-4ff5-98f8-19e50594cdb1",
+      "brand" : "LEE COPPER",
+      "code" : "LEE COPPER__74aa89bd29c74fb2876ec22d3aa32fcf",
+      "colors" : [ {
+         "hexColorCode" : "#ADF0DF",
+         "name" : "Aqua"
+      } ],
+      "description" : "Lee Copper Men's Cotton Solid Regular Fit Casual Shirt",
+      "name" : "Lee Copper Men's Cotton Solid Regular Fit Casual Shirt",
+      "price" : {
+         "currencyIso" : "INR",
+         "formattedValue" : "INR100.00",
+         "priceType" : "BUY",
+         "value" : 100.0
+      },
+      "priceRange" : {
+      },
+      "searchScore" : "15.565783",
+      "url" : "/ROOT/ROOTB2BMCH/FASHION-%26-LIFESTYLE/MENS-CLOTHING/CASUAL-WEAR/SHIRTS/Lee-Copper-Men%27s-Cotton-Solid-Regular-Fit-Casual-Shirt/p/LEE+COPPER__74aa89bd29c74fb2876ec22d3aa32fcf",
+      "volumePricesFlag" : false
+   }, {
+      "baseImageUrl" : "/medias/f8c8654a-e0bf-4a6c-a41f-548199404ddb-1531216269059-433Wx543H?context=bWFzdGVyfHJvb3R8NzkwODh8aW1hZ2UvcG5nfGgxZC9oZTcvODgwMTcyOTA1MjcwMi5wbmd8N2RmMjE3ZTlhMmYxMjQ3NGNlODM5M2NhM2JlZDhmYzM0NWQ5YWY0YTAwMWZhYWU1NGY0NGMxYmZkYTljMjYxYQ",
+      "baseProduct" : "739e73a4-3a8d-40ba-bba8-dfcd547c4483",
+      "brand" : "LEE COPPER",
+      "code" : "LEE COPPER__6ce5d71b1aa64a119e2c9b396e85fd66",
+      "colors" : [ {
+         "hexColorCode" : "#ADF0DF",
+         "name" : "Aqua"
+      } ],
+      "description" : "Lee Copper Men's Cotton Solid Regular Fit Casual Shirt",
+      "name" : "Lee Copper Men's Cotton Solid Regular Fit Casual Shirt",
+      "price" : {
+         "currencyIso" : "INR",
+         "formattedValue" : "INR100.00",
+         "priceType" : "BUY",
+         "value" : 100.0
+      },
+      "priceRange" : {
+      },
+      "searchScore" : "15.565783",
+      "url" : "/ROOT/ROOTB2BMCH/FASHION-%26-LIFESTYLE/MENS-CLOTHING/CASUAL-WEAR/SHIRTS/Lee-Copper-Men%27s-Cotton-Solid-Regular-Fit-Casual-Shirt/p/LEE+COPPER__6ce5d71b1aa64a119e2c9b396e85fd66",
+      "volumePricesFlag" : false
+   }, {
+      "baseImageUrl" : "/medias/50054ca5-6838-4981-9a03-51020c85ceb9-1531216269546-433Wx543H?context=bWFzdGVyfHJvb3R8NzkwODh8aW1hZ2UvcG5nfGgwNC9oMGQvODgwMTcyODk4NzE2Ni5wbmd8ZTY5MTQxMWY0Y2YyNTFhN2U3YzVkM2ZiNTBmZjc2NmE1YWViYzljOTcwMGMzMzZhN2Y1NTcwNGRlMTRhNWMxMw",
+      "baseProduct" : "58e77d8f-37aa-4bc0-8425-d6ea26275880",
+      "brand" : "LEE COPPER",
+      "code" : "LEE COPPER__ef38175c77e94534b82496e5f89984e3",
+      "colors" : [ {
+         "hexColorCode" : "#ADF0DF",
+         "name" : "Aqua"
+      } ],
+      "description" : "Lee Copper Men's Cotton Solid Regular Fit Casual Shirt",
+      "name" : "Lee Copper Men's Cotton Solid Regular Fit Casual Shirt",
+      "price" : {
+         "currencyIso" : "INR",
+         "formattedValue" : "INR100.00",
+         "priceType" : "BUY",
+         "value" : 100.0
+      },
+      "priceRange" : {
+      },
+      "searchScore" : "15.565783",
+      "url" : "/ROOT/ROOTB2BMCH/FASHION-%26-LIFESTYLE/MENS-CLOTHING/CASUAL-WEAR/SHIRTS/Lee-Copper-Men%27s-Cotton-Solid-Regular-Fit-Casual-Shirt/p/LEE+COPPER__ef38175c77e94534b82496e5f89984e3",
+      "volumePricesFlag" : false
+   }, {
+      "baseImageUrl" : "/medias/2a379df9-87ce-4ebc-9d13-8f90aaed3ec6-1531216270001-433Wx543H?context=bWFzdGVyfHJvb3R8NzkwODh8aW1hZ2UvcG5nfGgyZS9oZjQvODgwMTcyOTU3Njk5MC5wbmd8ODJkZGQ3MmZjZTBhMDNlYzQzNTAxOGE2YzU1MzFjYjJmMTBhNjYzN2JhOTA3YTNlM2I4ODBhNjYxNDg5Zjk3Mw",
+      "baseProduct" : "64165606-dde2-482e-b5c3-bf87be3900ab",
+      "brand" : "LEE COPPER",
+      "code" : "LEE COPPER__4af634813d584bddab7f3e8ccac9fc64",
+      "colors" : [ {
+         "hexColorCode" : "#ADF0DF",
+         "name" : "Aqua"
+      } ],
+      "description" : "Lee Copper Men's Cotton Solid Regular Fit Casual Shirt",
+      "name" : "Lee Copper Men's Cotton Solid Regular Fit Casual Shirt",
+      "price" : {
+         "currencyIso" : "INR",
+         "formattedValue" : "INR100.00",
+         "priceType" : "BUY",
+         "value" : 100.0
+      },
+      "priceRange" : {
+      },
+      "searchScore" : "15.565783",
+      "url" : "/ROOT/ROOTB2BMCH/FASHION-%26-LIFESTYLE/MENS-CLOTHING/CASUAL-WEAR/SHIRTS/Lee-Copper-Men%27s-Cotton-Solid-Regular-Fit-Casual-Shirt/p/LEE+COPPER__4af634813d584bddab7f3e8ccac9fc64",
+      "volumePricesFlag" : false
+   }, {
+      "baseImageUrl" : "/medias/247ef4df-d1ca-47f9-a0f9-e8499297cdf6-1531216268188-433Wx543H?context=bWFzdGVyfHJvb3R8NzkwODh8aW1hZ2UvcG5nfGg2Mi9oZTcvODgwMTcyOTgzOTEzNC5wbmd8MmYxNGM2YWFlYTk4NWUzNDdjNjU3ZGRjNTU4OTQyZDJhZmI4MzAyMWY0YmY0NWZmNDAyMTg2NDIwYWM1YWFkNQ",
+      "baseProduct" : "095db9db-bfe1-4c28-8a5e-88c34fe95323",
+      "brand" : "LEE COPPER",
+      "code" : "LEE COPPER__53a864eeae644c69a826493186a8c872",
+      "colors" : [ {
+         "hexColorCode" : "#ADF0DF",
+         "name" : "Aqua"
+      } ],
+      "description" : "Lee Copper Men's Cotton Solid Regular Fit Casual Shirt",
+      "name" : "Booster Lee Copper Men's Cotton Solid Regular Fit Casual Shirt",
+      "price" : {
+         "currencyIso" : "INR",
+         "formattedValue" : "INR100.00",
+         "priceType" : "BUY",
+         "value" : 100.0
+      },
+      "priceRange" : {
+      },
+      "searchScore" : "15.565783",
+      "url" : "/ROOT/ROOTB2BMCH/FASHION-%26-LIFESTYLE/MENS-CLOTHING/CASUAL-WEAR/SHIRTS/Lee-Copper-Men%27s-Cotton-Solid-Regular-Fit-Casual-Shirt/p/LEE+COPPER__53a864eeae644c69a826493186a8c872",
+      "volumePricesFlag" : false
+   }, {
+      "baseImageUrl" : "/medias/8584a07b-0bb1-453c-b4ff-e514227093e7-1531216269563-433Wx543H?context=bWFzdGVyfHJvb3R8NzkwODh8aW1hZ2UvcG5nfGg0OC9oYWEvODgwMTczMDAzNTc0Mi5wbmd8ZmQ4NGViOTk4MGNmM2NkNjU1MWVjYmMzN2IxMTE0MjFlZjgwMmU3NTRhYTU2YjRlY2I5YzdkODUzNmFiNWFkOA",
+      "baseProduct" : "93bfa226-a42c-4605-918e-e1e57ad49c1f",
+      "brand" : "LEE COPPER",
+      "code" : "LEE COPPER__8b809116e70441d7b9c1039c213dccc6",
+      "colors" : [ {
+         "hexColorCode" : "#ADF0DF",
+         "name" : "Aqua"
+      } ],
+      "description" : "Lee Copper Men's Cotton Solid Regular Fit Casual Shirt",
+      "name" : "Lee Copper Men's Cotton Solid Regular Fit Casual Shirt",
+      "price" : {
+         "currencyIso" : "INR",
+         "formattedValue" : "INR100.00",
+         "priceType" : "BUY",
+         "value" : 100.0
+      },
+      "priceRange" : {
+      },
+      "searchScore" : "15.565783",
+      "url" : "/ROOT/ROOTB2BMCH/FASHION-%26-LIFESTYLE/MENS-CLOTHING/CASUAL-WEAR/SHIRTS/Lee-Copper-Men%27s-Cotton-Solid-Regular-Fit-Casual-Shirt/p/LEE+COPPER__8b809116e70441d7b9c1039c213dccc6",
+      "volumePricesFlag" : false
+   }, {
+      "baseImageUrl" : "/medias/8154ebf4-395d-4f33-bf0e-be01de0a5880-1531286455940-433Wx543H?context=bWFzdGVyfHJvb3R8MTMwNDMxfGltYWdlL2pwZWd8aGY2L2gxNi84ODA3MDcyNTYzMjMwLmpwZ3xmNjAzZDI4YTcyMWVlNWFhNWY2OWM3MDhlMDE5ZThkYjY1N2Q0NDUxNTAzM2MxY2QyZTc3MDYwNDFkNTk3OTAx",
+      "baseProduct" : "b52e5a6d-c42c-409a-b1ab-cbac14564916",
+      "brand" : "LEE COPPER",
+      "code" : "LEE COPPER__60c69ca165fd4c0e8c9cfc314212a69d",
+      "colors" : [ {
+         "hexColorCode" : "#ADF0DF",
+         "name" : "Aqua"
+      } ],
+      "description" : "Lee Copper Men's Cotton Solid Regular Fit Casual Shirt",
+      "name" : "Lee Copper Men's Cotton Solid Regular Fit Casual Shirt",
+      "price" : {
+         "currencyIso" : "INR",
+         "formattedValue" : "INR100.00",
+         "priceType" : "BUY",
+         "value" : 100.0
+      },
+      "priceRange" : {
+      },
+      "searchScore" : "15.565783",
+      "url" : "/ROOT/ROOTB2BMCH/FASHION-%26-LIFESTYLE/MENS-CLOTHING/CASUAL-WEAR/SHIRTS/Lee-Copper-Men%27s-Cotton-Solid-Regular-Fit-Casual-Shirt/p/LEE+COPPER__60c69ca165fd4c0e8c9cfc314212a69d",
+      "volumePricesFlag" : false
+   }, {
+      "baseImageUrl" : "/medias/6c9599c6-d9e2-4c1e-beba-6c9c82ab4aee-1531288524874-433Wx543H?context=bWFzdGVyfHJvb3R8NzkwODh8aW1hZ2UvcG5nfGg2YS9oMTgvODgwMTkxNzQ2ODcwMi5wbmd8YWU3Mzc3ZGI2ZTMxMTYyYTY3ZTcxZGQ5ZTllNzJhOTQ0NjdmYzBjYTNkZjdhYzljM2VjMDFlYzJjN2JjYTg2Mw",
+      "baseProduct" : "c87db332-25b5-438c-a766-fdf8cec1887f",
+      "brand" : "LEE COPPER",
+      "code" : "LEE COPPER__fde9cae7d7d14dcb83630263d98fe2dd",
+      "colors" : [ {
+         "hexColorCode" : "#ADF0DF",
+         "name" : "Aqua"
+      } ],
+      "description" : "Lee Copper Men's Cotton Solid Regular Fit Casual Shirt",
+      "name" : "Lee Copper Men's Cotton Solid Regular Fit Casual Shirt",
+      "price" : {
+         "currencyIso" : "INR",
+         "formattedValue" : "INR100.00",
+         "priceType" : "BUY",
+         "value" : 100.0
+      },
+      "priceRange" : {
+      },
+      "searchScore" : "15.565783",
+      "url" : "/ROOT/ROOTB2BMCH/FASHION-%26-LIFESTYLE/MENS-CLOTHING/CASUAL-WEAR/SHIRTS/Lee-Copper-Men%27s-Cotton-Solid-Regular-Fit-Casual-Shirt/p/LEE+COPPER__fde9cae7d7d14dcb83630263d98fe2dd",
+      "volumePricesFlag" : false
+   }, {
+      "baseImageUrl" : "/medias/b76833ac-d62b-42b2-8dc9-3c6b4ce3141b-1531288525392-433Wx543H?context=bWFzdGVyfHJvb3R8NzkwODh8aW1hZ2UvcG5nfGgxOS9oZmIvODgwMTkxODY0ODM1MC5wbmd8ZmRmZTRlZTczYTQxNDhhYWU1MGYzMzZlNTMwODkxOGMyZmM4YjJhMDY0OGUwMTk2NDc1YzNkOTlmMWRkNmM1Ng",
+      "baseProduct" : "245b97ea-3da9-4ddd-aa9a-8221ab36b992",
+      "brand" : "LEE COPPER",
+      "code" : "LEE COPPER__c9e12bd32d9646e3bdbf65407b5ebe0b",
+      "colors" : [ {
+         "hexColorCode" : "#ADF0DF",
+         "name" : "Aqua"
+      } ],
+      "description" : "Lee Copper Men's Cotton Solid Regular Fit Casual Shirt",
+      "name" : "Lee Copper Men's Cotton Solid Regular Fit Casual Shirt",
+      "price" : {
+         "currencyIso" : "INR",
+         "formattedValue" : "INR100.00",
+         "priceType" : "BUY",
+         "value" : 100.0
+      },
+      "priceRange" : {
+      },
+      "searchScore" : "15.565783",
+      "url" : "/ROOT/ROOTB2BMCH/FASHION-%26-LIFESTYLE/MENS-CLOTHING/CASUAL-WEAR/SHIRTS/Lee-Copper-Men%27s-Cotton-Solid-Regular-Fit-Casual-Shirt/p/LEE+COPPER__c9e12bd32d9646e3bdbf65407b5ebe0b",
+      "volumePricesFlag" : false
+   }, {
+      "baseImageUrl" : "/medias/f6d30aa2-d74e-4a4c-a246-1f8c890602fe-1531288525371-433Wx543H?context=bWFzdGVyfHJvb3R8NzkwODh8aW1hZ2UvcG5nfGhiZS9oM2IvODgwMTkxODE4OTU5OC5wbmd8ZWVmNGQxNTE3ZThiMTczNDkxOWQwMTMyYzQ0ZDhmZWQ3ODI1MzhhM2QyZTI5MDIyNGNhNWNjMThlYmUzZjdhZA",
+      "baseProduct" : "9fd1eee0-3a8e-4977-9deb-e6336b96a121",
+      "brand" : "LEE COPPER",
+      "code" : "LEE COPPER__b330c7d7206b461a82cc3f70e5cc7f7c",
+      "colors" : [ {
+         "hexColorCode" : "#ADF0DF",
+         "name" : "Aqua"
+      } ],
+      "description" : "Lee Copper Men's Cotton Solid Regular Fit Casual Shirt",
+      "name" : "Lee Copper Men's Cotton Solid Regular Fit Casual Shirt",
+      "price" : {
+         "currencyIso" : "INR",
+         "formattedValue" : "INR100.00",
+         "priceType" : "BUY",
+         "value" : 100.0
+      },
+      "priceRange" : {
+      },
+      "searchScore" : "15.565783",
+      "url" : "/ROOT/ROOTB2BMCH/FASHION-%26-LIFESTYLE/MENS-CLOTHING/CASUAL-WEAR/SHIRTS/Lee-Copper-Men%27s-Cotton-Solid-Regular-Fit-Casual-Shirt/p/LEE+COPPER__b330c7d7206b461a82cc3f70e5cc7f7c",
+      "volumePricesFlag" : false
+   }, {
+      "baseImageUrl" : "/medias/1d739549-725d-464a-a650-eb97290bd2ff-1531288520940-433Wx543H?context=bWFzdGVyfHJvb3R8NzkwODh8aW1hZ2UvcG5nfGhkNS9oODgvODgwMTkxODcxMzg4Ni5wbmd8MTBjZmVhNmY1NTYzMmRlNDY3ZTFiNjUxOTNjMTMwNWRlMDI1ZDExZTEyYTM4OWM4MGRjZjg0MDMxZWJjOTAzNg",
+      "baseProduct" : "59dd33f4-b67c-4c71-899c-0b0ccf6645a7",
+      "brand" : "LEE COPPER",
+      "code" : "LEE COPPER__a62a42dd56424adc824eb69a50733edf",
+      "colors" : [ {
+         "hexColorCode" : "#ADF0DF",
+         "name" : "Aqua"
+      } ],
+      "description" : "Lee Copper Men's Cotton Solid Regular Fit Casual Shirt",
+      "name" : "Lee Copper Men's Cotton Solid Regular Fit Casual Shirt",
+      "price" : {
+         "currencyIso" : "INR",
+         "formattedValue" : "INR100.00",
+         "priceType" : "BUY",
+         "value" : 100.0
+      },
+      "priceRange" : {
+      },
+      "searchScore" : "15.565783",
+      "url" : "/ROOT/ROOTB2BMCH/FASHION-%26-LIFESTYLE/MENS-CLOTHING/CASUAL-WEAR/SHIRTS/Lee-Copper-Men%27s-Cotton-Solid-Regular-Fit-Casual-Shirt/p/LEE+COPPER__a62a42dd56424adc824eb69a50733edf",
+      "volumePricesFlag" : false
+   }, {
+      "baseImageUrl" : "/medias/3f3a29f4-f5dd-4baf-808d-36dfdb228817-1531288523854-433Wx543H?context=bWFzdGVyfHJvb3R8NzkwODh8aW1hZ2UvcG5nfGg3OS9oNGUvODgwMTkyMjA1NjIyMi5wbmd8ODY3NzBkYWMwYmJiYTkzYWYxNGFlNjgxZjFiNTI5ODNlMmY1MGRhZjFlMjJlNTJkOTFkMjk5ZTY5MGJmZWQ1Mg",
+      "baseProduct" : "4cc48ab4-0cf5-4b05-b405-db599956e769",
+      "brand" : "LEE COPPER",
+      "code" : "LEE COPPER__e3b751280118494f9d273d4f5f3369c9",
+      "colors" : [ {
+         "hexColorCode" : "#ADF0DF",
+         "name" : "Aqua"
+      } ],
+      "description" : "Lee Copper Men's Cotton Solid Regular Fit Casual Shirt",
+      "name" : "Lee Copper Men's Cotton Solid Regular Fit Casual Shirt",
+      "price" : {
+         "currencyIso" : "INR",
+         "formattedValue" : "INR100.00",
+         "priceType" : "BUY",
+         "value" : 100.0
+      },
+      "priceRange" : {
+      },
+      "searchScore" : "15.565783",
+      "url" : "/ROOT/ROOTB2BMCH/FASHION-%26-LIFESTYLE/MENS-CLOTHING/CASUAL-WEAR/SHIRTS/Lee-Copper-Men%27s-Cotton-Solid-Regular-Fit-Casual-Shirt/p/LEE+COPPER__e3b751280118494f9d273d4f5f3369c9",
+      "volumePricesFlag" : false
+   }, {
+      "baseImageUrl" : "/medias/59677cca-9068-4467-9aa8-58bf9887f84a-1531288522851-433Wx543H?context=bWFzdGVyfHJvb3R8NzkwODh8aW1hZ2UvcG5nfGgxMS9oNjcvODgwMTkxODUxNzI3OC5wbmd8ZWY2M2Y5MjI5NTVmZWY4YTU3MzVmNmEzNmU4NmY1MDU4OWI0YzU3MGMwN2Y2ZjZiYjMyNDE5ZDdlMGM1MzdlZA",
+      "baseProduct" : "2d9a3ccc-a28f-4898-9b74-a7734977e387",
+      "brand" : "LEE COPPER",
+      "code" : "LEE COPPER__a239b3cd280e4118a86331988e0f280a",
+      "colors" : [ {
+         "hexColorCode" : "#ADF0DF",
+         "name" : "Aqua"
+      } ],
+      "description" : "Lee Copper Men's Cotton Solid Regular Fit Casual Shirt",
+      "name" : "Lee Copper Men's Cotton Solid Regular Fit Casual Shirt",
+      "price" : {
+         "currencyIso" : "INR",
+         "formattedValue" : "INR100.00",
+         "priceType" : "BUY",
+         "value" : 100.0
+      },
+      "priceRange" : {
+      },
+      "searchScore" : "15.565783",
+      "url" : "/ROOT/ROOTB2BMCH/FASHION-%26-LIFESTYLE/MENS-CLOTHING/CASUAL-WEAR/SHIRTS/Lee-Copper-Men%27s-Cotton-Solid-Regular-Fit-Casual-Shirt/p/LEE+COPPER__a239b3cd280e4118a86331988e0f280a",
+      "volumePricesFlag" : false
+   }, {
+      "baseImageUrl" : "/medias/14e93acd-8023-47bc-bd22-24a85735f972-1531288521830-433Wx543H?context=bWFzdGVyfHJvb3R8NzkwODh8aW1hZ2UvcG5nfGgzNC9oMzYvODgwMTkxODM4NjIwNi5wbmd8YzY2YzY1ZTQ0OWI3NDUxNWNhYzIxZTIxZmI3MGYwNmJlYzI3YWE3ZmQ4NDhhNDIxMjM3NjE0ZTExYmY5YjI4Yw",
+      "baseProduct" : "95477b58-44d5-47d8-b66e-405b5c664b33",
+      "brand" : "LEE COPPER",
+      "code" : "LEE COPPER__427a5189b78c488ca73c82ff1910a010",
+      "colors" : [ {
+         "hexColorCode" : "#ADF0DF",
+         "name" : "Aqua"
+      } ],
+      "description" : "Lee Copper Men's Cotton Solid Regular Fit Casual Shirt",
+      "name" : "Lee Copper Men's Cotton Solid Regular Fit Casual Shirt",
+      "price" : {
+         "currencyIso" : "INR",
+         "formattedValue" : "INR100.00",
+         "priceType" : "BUY",
+         "value" : 100.0
+      },
+      "priceRange" : {
+      },
+      "searchScore" : "15.565783",
+      "url" : "/ROOT/ROOTB2BMCH/FASHION-%26-LIFESTYLE/MENS-CLOTHING/CASUAL-WEAR/SHIRTS/Lee-Copper-Men%27s-Cotton-Solid-Regular-Fit-Casual-Shirt/p/LEE+COPPER__427a5189b78c488ca73c82ff1910a010",
+      "volumePricesFlag" : false
+   } ],
+   "sorts" : [ {
+      "code" : "relevance",
+      "name" : "Relevance",
+      "selected" : true
+   }, {
+      "code" : "price-asc",
+      "name" : "Price-Low to High",
+      "selected" : false
+   }, {
+      "code" : "price-desc",
+      "name" : "Price-High to Low",
+      "selected" : false
+   }, {
+      "code" : "newest",
+      "name" : "What's New",
+      "selected" : false
+   } ],
+   "statsInfo" : [ {
+      "code" : "priceValue",
+      "max" : 30000.0,
+      "min" : 100.0
+   } ]
+}
