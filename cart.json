@@ -1,0 +1,40 @@
+{
+   "type" : "cartWsDTO",
+   "appliedOrderPromotions" : [ ],
+   "appliedProductPromotions" : [ ],
+   "appliedVouchers" : [ ],
+   "code" : "00212066",
+   "guid" : "fb97cead-57e5-4e27-9717-060d9d676eea",
+   "styleOrderGroups" : [ ],
+   "subTotal" : {
+      "currencyIso" : "INR",
+      "formattedValue" : "INR0.00",
+      "priceType" : "BUY",
+      "value" : 0.0
+   },
+   "totalDiscounts" : {
+      "currencyIso" : "INR",
+      "formattedValue" : "INR0.00",
+      "priceType" : "BUY",
+      "value" : 0.0
+   },
+   "totalItems" : 0,
+   "totalPrice" : {
+      "currencyIso" : "INR",
+      "value" : 0.0
+   },
+   "totalPriceWithTax" : {
+      "currencyIso" : "INR",
+      "value" : 0.0
+   },
+   "totalTax" : {
+      "currencyIso" : "INR",
+      "value" : 0.0
+   },
+   "couponDiscounts" : {
+      "currencyIso" : "INR",
+      "formattedValue" : "INR0.00",
+      "priceType" : "BUY",
+      "value" : 0.0
+   }
+}
