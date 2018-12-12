@@ -1,0 +1,12 @@
+{
+   "inventoryDataList" : [ {
+      "fcList" : [ {
+         "fcCode" : "DV00015036",
+         "onhandqty" : 0,
+         "thresholdqty" : 0,
+         "thresholdstatus" : "LOW"
+      } ],
+      "jiocode" : "480000030",
+      "status" : "NOTAVAILABLE"
+   } ]
+}
