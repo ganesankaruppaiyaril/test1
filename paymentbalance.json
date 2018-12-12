@@ -1,0 +1,32 @@
+{
+   "message" : "List All Balances for a Customer",
+   "result" : {
+      "balances" : [ {
+         "amount" : 0.0,
+         "balanceType" : "LEDGER_BALANCE"
+      }, {
+         "amount" : 0.0,
+         "balanceType" : "OUTSTANDING_ADVANCE"
+      }, {
+         "amount" : 0.0,
+         "balanceType" : "CREDIT_BALANCE"
+      }, {
+         "amount" : 9.89999989024391E12,
+         "balanceType" : "AVAILABLE_BALANCE"
+      }, {
+         "amount" : 436816.94,
+         "balanceType" : "BLOCKED_BALANCE"
+      }, {
+         "amount" : 0.0,
+         "balanceType" : "OUTSTANDING_BALANCE"
+      }, {
+         "amount" : 47901.52,
+         "balanceType" : "PROMOTIONAL_BALANCE"
+      }, {
+         "amount" : 4301560.29,
+         "balanceType" : "OUTSTANDING_UPCOMING"
+      } ]
+   },
+   "statusCode" : 200,
+   "success" : true
+}
