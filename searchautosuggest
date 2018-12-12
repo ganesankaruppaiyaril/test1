@@ -1,0 +1,10 @@
+{
+   "categories" : [ {
+      "code" : "n1010",
+      "name" : "Men Casual Wear"
+   }, {
+      "code" : "n1012",
+      "name" : "Men Formal Wear"
+   } ],
+   "term" : "shirts"
+}
