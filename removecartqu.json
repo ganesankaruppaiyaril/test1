@@ -1,0 +1,101 @@
+{
+   "type" : "cartWsDTO",
+   "appliedOrderPromotions" : [ ],
+   "appliedProductPromotions" : [ ],
+   "appliedVouchers" : [ ],
+   "code" : "00212066",
+   "guid" : "fb97cead-57e5-4e27-9717-060d9d676eea",
+   "styleOrderGroups" : [ ],
+   "subTotal" : {
+      "currencyIso" : "INR",
+      "formattedValue" : "INR0.00",
+      "priceType" : "BUY",
+      "value" : 0.0
+   },
+   "totalDiscounts" : {
+      "currencyIso" : "INR",
+      "formattedValue" : "INR0.00",
+      "priceType" : "BUY",
+      "value" : 0.0
+   },
+   "totalItems" : 0,
+   "totalPrice" : {
+      "currencyIso" : "INR",
+      "value" : 0.0
+   },
+   "totalPriceWithTax" : {
+      "currencyIso" : "INR",
+      "value" : 0.0
+   },
+   "totalTax" : {
+      "currencyIso" : "INR",
+      "value" : 0.0
+   },
+   "cartModification" : {
+      "entry" : {
+         "product" : {
+            "baseOptions" : [ ],
+            "code" : "2018Pack__cd6b8069-9c63-46f4-96de-14a62f5e1879",
+            "description" : "PackNameAndDesc",
+            "images" : [ {
+               "altText" : "HD Image_Bulk_Upload_Image_11163385177598497364283912003340803.jpg",
+               "format" : "zoom",
+               "imageType" : "PRIMARY",
+               "url" : "/rrlmpcommercewebservices/v2/medias/052994f7-cee5-4104-b142-7e6055e2a225-1531201767743-1080Wx1353H?context=bWFzdGVyfHJvb3R8Mzg0NTYwfGltYWdlL3BuZ3xoMGIvaDIzLzg4MDE2ODQ2MTkyOTQucG5nfDJkZjk4OGRhN2Y3MGQ3YTc1YzViNzQzYTMxYTU3YjUwOGU5NzRmYTE1YWYwYjc5YjI5NmY1ZmVmMGYxNjcwODM"
+            }, {
+               "altText" : "HD Image_Bulk_Upload_Image_11163385177598497364283912003340803.jpg",
+               "format" : "product",
+               "imageType" : "PRIMARY",
+               "url" : "/rrlmpcommercewebservices/v2/medias/052994f7-cee5-4104-b142-7e6055e2a225-1531201767743-777Wx973H?context=bWFzdGVyfHJvb3R8MjE3MjEyfGltYWdlL3BuZ3xoOTkvaGExLzg4MDE2ODUxNzYzNTAucG5nfDJmOTMzYzEyZjdiNGU4ODZhZjQyMjRmMTdiMzUyMjk3NjA2MDVjODVjNWU0NGMyNzg5YmU3YWI4NDA0Yzg4Y2Q"
+            }, {
+               "altText" : "HD Image_Bulk_Upload_Image_11163385177598497364283912003340803.jpg",
+               "format" : "thumbnail",
+               "imageType" : "PRIMARY",
+               "url" : "/rrlmpcommercewebservices/v2/medias/052994f7-cee5-4104-b142-7e6055e2a225-1531201767743-239Wx300H?context=bWFzdGVyfHJvb3R8Mjg4MTd8aW1hZ2UvcG5nfGhkOC9oZDIvODgwMTY4NDI5MTYxNC5wbmd8MjY5NTBkMjMwZDc0MDgxOGNhMjY3NWI4ZjMzMTcyZjE1ZGZlYWEyNmYyMTgzYjg2ZjA3MzI4MjU2N2Q4MDhkYg"
+            }, {
+               "altText" : "HD Image_Bulk_Upload_Image_11163385177598497364283912003340803.jpg",
+               "format" : "cartIcon",
+               "imageType" : "PRIMARY",
+               "url" : "/rrlmpcommercewebservices/v2/medias/052994f7-cee5-4104-b142-7e6055e2a225-1531201767743-239Wx300H?context=bWFzdGVyfHJvb3R8Mjg4MTd8aW1hZ2UvcG5nfGhkOC9oZDIvODgwMTY4NDI5MTYxNC5wbmd8MjY5NTBkMjMwZDc0MDgxOGNhMjY3NWI4ZjMzMTcyZjE1ZGZlYWEyNmYyMTgzYjg2ZjA3MzI4MjU2N2Q4MDhkYg"
+            }, {
+               "altText" : "HD Image_Bulk_Upload_Image_11163385177598497364283912003340803.jpg",
+               "format" : "zoom",
+               "galleryIndex" : 0,
+               "imageType" : "GALLERY",
+               "url" : "/rrlmpcommercewebservices/v2/medias/052994f7-cee5-4104-b142-7e6055e2a225-1531201767743-1080Wx1353H?context=bWFzdGVyfHJvb3R8Mzg0NTYwfGltYWdlL3BuZ3xoMGIvaDIzLzg4MDE2ODQ2MTkyOTQucG5nfDJkZjk4OGRhN2Y3MGQ3YTc1YzViNzQzYTMxYTU3YjUwOGU5NzRmYTE1YWYwYjc5YjI5NmY1ZmVmMGYxNjcwODM"
+            }, {
+               "altText" : "HD Image_Bulk_Upload_Image_11163385177598497364283912003340803.jpg",
+               "format" : "product",
+               "galleryIndex" : 0,
+               "imageType" : "GALLERY",
+               "url" : "/rrlmpcommercewebservices/v2/medias/052994f7-cee5-4104-b142-7e6055e2a225-1531201767743-777Wx973H?context=bWFzdGVyfHJvb3R8MjE3MjEyfGltYWdlL3BuZ3xoOTkvaGExLzg4MDE2ODUxNzYzNTAucG5nfDJmOTMzYzEyZjdiNGU4ODZhZjQyMjRmMTdiMzUyMjk3NjA2MDVjODVjNWU0NGMyNzg5YmU3YWI4NDA0Yzg4Y2Q"
+            }, {
+               "altText" : "HD Image_Bulk_Upload_Image_11163385177598497364283912003340803.jpg",
+               "format" : "thumbnail",
+               "galleryIndex" : 0,
+               "imageType" : "GALLERY",
+               "url" : "/rrlmpcommercewebservices/v2/medias/052994f7-cee5-4104-b142-7e6055e2a225-1531201767743-239Wx300H?context=bWFzdGVyfHJvb3R8Mjg4MTd8aW1hZ2UvcG5nfGhkOC9oZDIvODgwMTY4NDI5MTYxNC5wbmd8MjY5NTBkMjMwZDc0MDgxOGNhMjY3NWI4ZjMzMTcyZjE1ZGZlYWEyNmYyMTgzYjg2ZjA3MzI4MjU2N2Q4MDhkYg"
+            } ],
+            "name" : "PackNameAndDesc",
+            "price" : {
+               "currencyIso" : "INR",
+               "formattedValue" : "INR2,000.00",
+               "priceType" : "BUY",
+               "value" : 2000.0
+            },
+            "purchasable" : true,
+            "url" : "/ROOT/ROOTB2BMCH/FASHION-%26-LIFESTYLE/MENS-CLOTHING/CASUAL-WEAR/SHIRTS/PackNameAndDesc/p/2018Pack__cd6b8069-9c63-46f4-96de-14a62f5e1879"
+         },
+         "totalQuantity" : 20.0
+      },
+      "quantity" : 0,
+      "quantityAdded" : -1,
+      "statusCode" : "success"
+   },
+   "couponDiscounts" : {
+      "currencyIso" : "INR",
+      "formattedValue" : "INR0.00",
+      "priceType" : "BUY",
+      "value" : 0.0
+   }
+}
